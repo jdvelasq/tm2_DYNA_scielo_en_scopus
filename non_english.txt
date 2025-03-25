@@ -1,0 +1,12 @@
+INFO  Removing non-english abstracts
+  The file 2019_1497.csv has 64 non-English abstracts.
+  The file 2015_1350.csv has 60 non-English abstracts.
+  The file 2020_1583.csv has 49 non-English abstracts.
+  The file 2017_3107.csv has 43 non-English abstracts.
+  The file 2016_1349.csv has 54 non-English abstracts.
+  The file 2018_1431.csv has 114 non-English abstracts.
+  The file 2021_1473.csv has 72 non-English abstracts.
+  The file 2024_1286.csv has 35 non-English abstracts.
+  The file 2023_1292.csv has 43 non-English abstracts.
+  The file 2022_1493.csv has 41 non-English abstracts.
+INFO  Compressing raw data files.
