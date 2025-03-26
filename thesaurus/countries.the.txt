@@ -38,7 +38,6 @@
     Veterinaria Vet Praxis.
     Veterinario, Actividad Privada
     de Investigacio&acute;n y Posgrado, Unidad de Tecnologia&acute
-    del Estado de Jalisco, Camino Arenero 1227, El Bajio&acute
     y Diseno&tild
 Albania
     Department of Applied Mathematics, Faculty of Natural Sciences, University of Tirana, Tirana, 1001, Albania
@@ -24079,6 +24078,7 @@ Mexico
     Yucatan Autonomous University, Faculty of Engineering, AP 150 Cordemex, Mérida, 97310, Yucatán, Mexico
     de Alimentos, Ciudad de la Cultura Amado Nervo, Boulevard Tepic-Xalisco s/n, Nayarit, Tepic, 63155, Mexico
     del Arenal, Jalisco, Zapopan, 45019, Mexico
+    del Estado de Jalisco, Camino Arenero 1227, El Bajio&acute
     en Ciencias en Desarrollo Forestal Sustentable, Tecnolo&acute;gico Nacional de Me&acute;xico, Instituto Tecnolo&acute;gico de El Salto, Calle Tecnolo&acute;gico 101, Col. La Forestal El Salto Pueblo Nuevo, Durango, 34942, Mexico
     inMateriis S.A. de C.V., Lerdo de Tejada #2334, Lafayette, Guadalajara, 44150, Jalisco, Mexico
     la Educación, Instituto Tecnológico de Sonora, Mexico
