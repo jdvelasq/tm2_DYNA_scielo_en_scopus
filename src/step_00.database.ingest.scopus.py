@@ -1,6 +1,6 @@
-from techminer2.database.ingest import ImportScopusData # type: ignore
+from techminer2.database.ingest import ImportScopusData  # type: ignore
 
-ImportScopusData(root_directory="../").run() 
+ImportScopusData(root_directory="./").run()
 
 # from techminer2.database.tools import RecordMapping # type: ignore
 
@@ -18,7 +18,7 @@ ImportScopusData(root_directory="../").run()
 
 # texts = [doc["AB"] for doc in docs if isinstance(doc["AB"], str) ]
 # texts = [text[-170:] for text in texts]
-# texts = [text[::-1]  for text in texts] 
+# texts = [text[::-1]  for text in texts]
 # texts = sorted(texts)
 # texts = [text[::-1] for text in texts]
 # # texts = [text for text in texts if "author" in text.lower()]

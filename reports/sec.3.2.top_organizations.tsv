@@ -1,13 +1,39 @@
 organizations	rank_occ	rank_gcs	OCC	global_citations	h_index	g_index	m_index
-Univ Nac de Colombia (COL)	1	1	683	3056	21	5	2.1
-Univ de Antioquia (COL)	2	2	303	1277	16	4	1.6
-Inst Politécnico Nac (MEX)	3	3	292	1214	14	5	1.4
-Univ Nac Autonoma de Mexico (MEX)	4	4	256	1166	15	5	1.5
-Univ de Tarapaca (CHL)	5	7	236	759	11	4	1.1
-Univ Del Valle (COL)	6	5	219	926	15	4	1.5
-Colegio de Postgraduados (MEX)	7	12	182	560	10	4	1.0
-Univ Ind de Santander (COL)	8	10	179	656	12	4	1.2
-Univ Distrital Francisco José de Caldas (COL)	9	19	146	426	9	3	0.9
-Univ de Concepcion (CHL)	10	9	135	693	14	4	1.4
-Pontificia Univ Católica de Valparaiso (CHL)	22	6	90	896	17	6	1.7
-Univ de Cartagena (COL)	11	8	132	714	11	4	1.1
+Univ Nac de Colombia (COL)	1	1	829	3754	21	6	2.1
+Inst Politec Nac (MEX)	2	2	602	2342	19	5	1.9
+Univ de Antioquia (COL)	3	3	353	1406	16	4	1.6
+Univ Nac Autonoma de Mexico (MEX)	4	4	254	1171	15	5	1.5
+Univ Autonoma Metropolitana (MEX)	5	7	248	910	12	4	1.2
+Univ de Tarapaca (CHL)	6	8	237	761	11	4	1.1
+Tecnol Nac de Mexico (MEX)	7	11	234	695	11	4	1.1
+Univ del Valle (COL)	8	5	232	983	15	4	1.5
+CONICET (ARG)	9	15	192	528	10	4	1.0
+Univ Ind de Santander (COL)	10	12	179	656	12	4	1.2
+Colegio de Postgraduados (MEX)	11	14	173	536	10	4	1.0
+Univ de Concepcion (CHL)	12	9	146	737	14	4	1.4
+Univ Distrital Francisco José de Caldas (COL)	13	24	146	426	9	3	0.9
+Univ de Cartagena (COL)	14	10	137	727	11	4	1.1
+Univ Veracruzana (MEX)	15	20	116	451	10	4	1.0
+Benemerita Univ Autonoma de Puebla (MEX)	16	37	112	331	9	4	0.9
+Esc Politecnica Nac (ECU)	17	100	112	180	6	2	0.6
+Univ Catolica del Norte (CHL)	18	13	111	576	12	4	1.2
+Univ de Guadalajara (MEX)	19	23	109	432	12	4	1.2
+Univ Autonoma del Estado de Mexico (MEX)	20	44	108	312	8	4	0.8
+Univ del Bio Bio (CHL)	21	32	106	363	11	4	1.1
+Univ Pontificia Bolivariana (COL)	22	22	105	434	11	4	1.1
+Univ Pedagógica y Tecnológica de Colombia (COL)	23	55	105	262	8	3	0.8
+Pontificia Univ Catolica de Valparaiso (CHL)	24	6	100	972	17	6	1.7
+CONACyT (MEX)	25	35	97	344	8	3	0.8
+Pontificia Univ Javeriana (COL)	26	48	95	294	8	3	0.8
+Univ Autonoma de San Luis Potosi (MEX)	27	33	91	356	11	3	1.1
+Univ de Chile (CHL)	28	16	90	483	11	4	1.1
+Tecnol de Monterrey (MEX)	29	28	90	394	9	4	0.9
+Univ de Sevilla (ESP)	30	17	88	478	10	5	1.0
+La Univ de la Costa (COL)	42	18	74	471	13	4	1.44
+Univ del Norte (COL)	34	19	87	455	11	4	1.1
+King Saud Univ (SAU)	200	21	21	437	10	5	1.0
+Univ Católica Del Maule (CHL)	31	25	88	418	10	4	1.0
+Shahid Beheshti Univ of Med Sciences (IRN)	473	26	8	400	5	4	0.56
+Univ Politecnica de Madrid (ESP)	32	27	88	394	10	4	1.0
+Univ Del Atlantico (COL)	48	29	65	385	11	4	1.1
+Nac Res Cent (EGY)	385	30	10	381	9	4	0.9
