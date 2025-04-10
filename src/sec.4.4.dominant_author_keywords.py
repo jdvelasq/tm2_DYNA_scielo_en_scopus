@@ -21,7 +21,7 @@ plot = (
     .run()
 ).update_layout(width=700, height=1100)
 
-plot.write_html("../reports/sec.4.4.dominant_author_keywords.html")
+# plot.write_html("../reports/sec.4.4.dominant_author_keywords.html")
 plot
 
 # %%

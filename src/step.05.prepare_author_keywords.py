@@ -8,6 +8,9 @@ from techminer2.packages.networks.co_occurrence.author_keywords import (  # type
 )
 from techminer2.thesaurus.descriptors import *  # type: ignore
 
+# %%
+# CreateThesaurus().where_root_directory_is("../").run()
+
 # %% --- REPLACE WORDS -------------------------------------------------------------
 
 

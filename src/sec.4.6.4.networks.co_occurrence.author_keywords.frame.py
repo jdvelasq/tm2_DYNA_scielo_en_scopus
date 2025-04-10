@@ -24,9 +24,18 @@ df = (
     .run()
 )
 
+df["Terms"] = df["Terms"].str.split("; ").str[:15]
+df["Terms"] = df["Terms"].map(lambda x: [y.split(" ")[0] for y in x])
+df["Terms"] = df["Terms"].str.join("; ")
+df["Terms"] = df["Terms"].str.replace("_", " ", regex=False)
+
 with open("../reports/dominant_themes.txt", "w") as f:
     print(df.to_string(), file=f)
 
+
 df
+
+# %%
+
 
 # %%
