@@ -20,8 +20,8 @@ print("Done!")
 
 # %% ---- DOMINANT CLUSTERS ---------------------------------------------------
 
-ReduceKeys(root_directory="../").run()  #  type: ignore
-ApplyThesaurus(root_directory="../").run()  #  type: ignore
+# ReduceKeys(root_directory="../").run()  #  type: ignore
+# ApplyThesaurus(root_directory="../").run()  #  type: ignore
 
 df = (
     TermsByClusterDataFrame()

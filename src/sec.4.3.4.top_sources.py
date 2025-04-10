@@ -6,7 +6,7 @@ df = (
     DataFrame()
     #
     # FIELD:
-    .with_field("source_title")
+    .with_field("abbr_source_title")
     .having_terms_in_top(10)
     .having_terms_ordered_by("OCC")
     .having_term_occurrences_between(None, None)

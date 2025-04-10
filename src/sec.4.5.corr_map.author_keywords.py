@@ -7,7 +7,7 @@ plot = (
     NetworkMapPlot()
     #
     # FIELD:
-    .with_field("source_title")
+    .with_field("abbr_source_title")
     .having_terms_in_top(50)
     .having_terms_ordered_by("OCC")
     .having_term_occurrences_between(None, None)
@@ -32,7 +32,7 @@ plot = (
     .using_node_colors(["#33424c"])
     .using_node_size_range(8, 20)
     #
-    .using_textfont_opacity_range(0.2, 1.0)
+    .using_textfont_opacity_range(0.5, 1.0)
     .using_textfont_size_range(8, 13)
     #
     .using_xaxes_range(None, None)
