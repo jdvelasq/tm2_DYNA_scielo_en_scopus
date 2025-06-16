@@ -132,14 +132,6 @@ Ameer I., 2020, COMPUT SIST, V24, P1159
     Ameer I., Ashraf N., Sidorov G., Gomez-Adorno H., Multi-label emotion classification using content-based features in twitter, Computación y Sistemas, 24, 3, pp. 1159-1164, (2020)
 Aminjafari A., 2016, ELECTRON J BIOTECHNOL, V24, P43
     Aminjafari A., Miroliaei M., Angelova V.T., Et al., Antioxidant activity and protective role on protein glycation of synthetic aminocoumarins, Electron J Biotechnol, 24, pp. 43-48, (2016)
-Andrade S.N., 2018, REV MEX ING QUIMICA, V17, P463
-    Andrade S., Veloso C., Fontan R., Bonomo R., Santos L., Brito M., Diniz G., Chemical-activated carbon from coconut (Cocos nucifera) endocarp waste and its application in the adsorption of ßlactoglobulin protein, Revista Mexicana de Ingeniería Química, 17, 2, pp. 463-475, (2018)
-Andrade S.N., 2018, REV MEX ING QUIMICA, V17, P463
-    Andrade S.N., Veloso C.M., Fontan C.R.I., Bonomo R.C.F., Santos L.S., Brito M.J.P.D.G.A., Chemical-activated carbon from coconut (cocos nucifera) endocarp waste and its application in the adsorption of β-lactoglobulin protein, Revista Mexicana de Ingeniería Química, 17, pp. 463-475, (2018)
-Andrade S.N., 2018, REV MEX ING QUIMICA, V17, P463
-    Andrade S.N., Veloso C.M., Fontan R.C.I., Bonomo R.C.F., Santos L.S., Bristo M.J.P., Diniz G., Chemical-activated carbon from coconut (Cocos nucifera) endocarp waste and its application in the adsorption of βlactoglobulin protein, Revista Mexicana De Ingeniería Química, 17, pp. 463-475, (2018)
-Andrade S.N., 2018, REV MEX ING QUIMICA, V17, P463
-    Andrade S.N., Veloso C.M., Fontan R.C.I., Bonomo R.C.F., Santos L.S., Brito M.J.P., Diniz G.A., Chemical-activated carbon from coconut (Cocos nucifera) endocarp waste and its application in the adsorption of β-lactoglobulin protein, Revista Mexicana De Ingeniería Química, 17, pp. 463-475, (2018)
 Angarita H., 2017, INGEN INVEST, V37, P6
     Angarita H., Nino P., Vargas D., Hernandez N., Torres A., Identifying explanatory variables of structural state for optimum asset management of urban drainage networks: A pilot study for the city of Bogota, Ingeniería E Investigación, 37, 2, pp. 6-16, (2017)
 Annapurani S., 2020, J APPL RES TECHNOL, V18, P2229
@@ -414,8 +406,6 @@ Colpas F., 2016, INF TECNOL, V27, P69
     Colpas F., Taron A.A., Fon W., Mercury adsorption using activated carbon modified by hydrogen peroxide and heating, Inf. Tecnol., 27, 5, pp. 69-76, (2016)
 Colther C.M., 2022, FORM UNIV, V15, P23
     Colther C., Rojas J., Wong S., Participation of women in universities and its impact on scientific productivity: analysis of Chile’s case, Formación Universitaria, 15, 3, pp. 23-32, (2022)
-Concha M., 2015, REV CONSTR, V14, P29
-    Concha M., Alarcon L., Mourgues C., Reference Virtual Design Team (VDT) probabilities to Design Construction Project Organizations, Revista de La Construcción, 14, 2, pp. 29-34, (2015)
 Consuegra F.A., 2015, REV CONSTR, V14, P16
     Consuegra F. A., Santos C., Vibration analyses for the local and global evaluation of bridges as a tool for structural retrofit, Revista de La Construccion, 14, 1, pp. 16-22, (2015)
 Consuegra F.A., 2015, REV CONSTR, V14, P16
@@ -1122,8 +1112,6 @@ Montes J.M., 2017, REV LASA INVEST, V14, P105
     Montes J. M., Vargas E.E., Priority technologies and innovations in the fishing agribusiness by the Year 2032, Foresight study through the Delphi method, Revista La sallista de Investigación, 14, 2, pp. 105-120, (2017)
 Mora J.F., 2020, ING UNIVERS, V24, P1
     Mora J. F., Nait-Abdallah R., Lozano A. J., Montoya C., Otero-Caicedo R., Batch assignment of parallelmachines in an automotive safety glass manufacturing facility, Ing. Univers, 24, pp. 1-21, (2020)
-Morais L.C., 2019, REV MEX ING QUIMICA, V18, P419
-    Morais L.C., Neves I.C.O., Batista G.A., Silva M.L.M., Valentim T.T., Mol P.C.G., Resende J.V., Thomasi S.S., Verissimo L.A.A., Protein recovery from barbados gooseberry (Pereskia Aculeata Miller) leaves by salting out and isoelectric precipitation, Revista Mexicana de Ingeniería Química, 18, pp. 419-430, (2019)
 Moreno F.J., 2015, INGEN INVEST, V35, P80
     Moreno F. J., Hernandez S., An algorithm for identifying the best current friend in a social network, Ing. e Investig, 35, 2, pp. 80-88, (2015)
 Moreno J.R.S., 2018, REV MEX ING QUIMICA, V17, P753
@@ -1162,14 +1150,10 @@ Nagarajan D., 2020, REV CONSTR, V19, P103
     Nagarajan D., Rajagopal T., Meyappan N., A comparative study on prediction models for strength properties of LWA concrete using artificial neural network, Revista De La Construcción. Journal of Construction, 19, 1, pp. 103-111, (2020)
 Nagarajan D., 2020, REV CONSTR, V19, P103
     Nagarajan D., Rajagopal T., Meyappan N., A comparative study on prediction models for strength properties of LWA concrete using artificial neural network, Revista de La Construcción, pp. 103-111, (2020)
-Nagarkar M.P., 2016, INGEN INVEST, V36, P23
-    Nagarkar M. P., Vikhe G. J., Optimization of the linear quadratic regulator (LQR) control quarter car suspension system using genetic algorithm, Ingeniería e Investigación, 36, 1, pp. 23-30, (2016)
 Nandiyanto A.B.D., 2023, J APPL RES TECHNOL, V21, P808
     Nandiyanto A. B. D., Ragadhita R., Fiandini M., Maryanti R., Curcumin dye adsorption in aqueous solution by carbon-based date palm seed: Preparation, characterization, and isotherm adsorption, Journal of Applied Research and Ttechnology, 21, 5, pp. 808-824, (2023)
 Narvaez E.A., 2020, INGENIERIA, V25, P6
     Narvaez E. A., Guerrero C. A. C., Rodriguez C. L. T., Topologies for battery and supercapacitor interconnection in residential microgrids with intermittent generation, Ingenieria, 25, 1, pp. 1-11, (2020)
-Nascimento I.S., 2019, REV MEX ING QUIMICA, V18, P313
-    Nascimento I.S., Silva D.L., Pereira T.B., Goncalves G.R.F., Verissimo L.A.A., Veloso C.M., Bonomo F.F.C., Fontan R.C.I., Capture of lectins from jackfruit (Artocarpus integrifolia) seeds in a single step using a supermacroporous ion exchange cryogel, Revista Mexicana De Ingeniería Química, 18, pp. 313-324, (2019)
 Nawaz A., 2021, REV MEX ING QUIMICA, V20, P1029
     Nawaz A., Sameer M., Akram F., Tahir S., Arshad Y., Haq I., Mukhtar H., Kinetic and thermodynamic insight of a polygalacturonase: A biocatalyst for industrial fruit juice clarification, Revista Mexicana de Ingenieria Qumica, 20, 2, pp. 1029-1045, (2021)
 Nawaz A., 2021, REV MEX ING QUIMICA, V20, P1029
@@ -1236,8 +1220,6 @@ Pacagnella Júnior A.C., 2015, J TECHNOL MANAGE INNOV, V10, P39
     Pacagnella A.C., Porto G.S., Pacifico O., Salgado A.P., Project Stakeholder Management: A case study of a Brazilian Science Park, Journal of Technology, Management & Innovation, 10, 2, pp. 39-49, (2015)
 Pacagnella Júnior A.C., 2015, J TECHNOL MANAGE INNOV, V10, P39
     Pacagnella Junior A. C., Porto G. S., Pacifico O., Salgado Ju-nior A. P., Project Stakeholder Management: A Case Study of a Brazilian Science Park, Journal of Technology Management & Innovation, 10, 2, pp. 39-49, (2015)
-Pacheco F., 2017, REV ING CONSTR, V32, P149
-    Pacheco F., Krumenauer M., Silva L., Tutikian F., Oliveira M., Ethylene vinyl acetate (EVA) aggregates usage evaluation for lightweight concrete subfloor to reduce impact sound in flooring systems, (2017)
 Pareja L.A.G., 2020, INGENIERIA, V25, P334
     Gallego Pareja L. A., Lopez Lezama J. M., Gomez Carmona O., Optimal placement of capacitors, voltage regulators, and distributed generators in electric power distribution systems, Ingeniería, 25, 3, pp. 334-354, (2020)
 Pareja L.A.G., 2020, INGENIERIA, V25, P334
@@ -1678,8 +1660,6 @@ Vit P., 2022, INTERCIENCIA, V47, P416
     Vit P, A honey authenticity test by interphase emulsion reveals biosurfactant activity and biotechnology in the stingless bee nest of Scaptotrigona vitorum 'Catiana' from Ecuador, Interciencia, 47, pp. 416-425, (2022)
 Vivas J.C., 2022, REV CONSTR, V21, P135
     Vivas J. C., Zerbino R., Compressive resistance level effect on impact performance of fi-ber reinforced concrete, Revista De La Construcción. Journal of Construction, 21, 1, pp. 135-144, (2022)
-Vives J., 2022, DYNA, V89, P84
-    Vives J., Massanes M., de Felipe J. J., Sanmiquel L., Computational fluid dynamics (cfd) study to optimize the auxiliary ventilation system in an underground mine, Dyna, 89, 221, (2022)
 Waheeb W., 2017, COMPUT SIST, V21, P771
     Waheeb W., Ghazali R., Content-based sms classification: Statistical analysis for the relationship between features size and classification performance, Computación Y Sistemas, 21, 4, pp. 771-785, (2017)
 Wali W., 2017, COMPUT SIST, V21, P627
