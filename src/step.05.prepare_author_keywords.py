@@ -3,9 +3,7 @@ import pandas as pd  # type: ignore
 
 pd.set_option("display.max_rows", 100, "display.max_columns", 100)
 
-from techminer2.packages.networks.co_occurrence.author_keywords import (  # type: ignore
-    TermsByClusterDataFrame,
-)
+
 from techminer2.thesaurus.descriptors import *  # type: ignore
 
 # %%
@@ -14,17 +12,16 @@ from techminer2.thesaurus.descriptors import *  # type: ignore
 # %% --- REPLACE WORDS -------------------------------------------------------------
 
 
-ReplaceWord(  #  type: ignore
-    root_directory="../",
-    word=abbr,
-    replacement=text,
-).run()
-print("Done!")
+replace("ICT", "INFORMATION_AND_COMMUNICATION_TECHNOLOGIES")
 
 # %% ---- DOMINANT CLUSTERS ---------------------------------------------------
 
-# ReduceKeys(root_directory="../").run()  #  type: ignore
-# ApplyThesaurus(root_directory="../").run()  #  type: ignore
+from techminer2.packages.networks.co_occurrence.author_keywords import (  # type: ignore
+    TermsByClusterDataFrame,
+)
+
+ReduceKeys(root_directory="../").run()  #  type: ignore
+ApplyThesaurus(root_directory="../").run()  #  type: ignore
 
 df = (
     TermsByClusterDataFrame()
@@ -52,7 +49,7 @@ IntegrityCheck(root_directory="../").run()  #  type: ignore
 
 # %%
 ## ReplaceAbbreviations(root_directory="../").run()  #  type: ignore
-# RemoveParentheses(root_directory="../").run()  #  type: ignore
+RemoveParentheses(root_directory="../").run()  #  type: ignore
 # ReplaceHyphenatedWords(root_directory="../").run()  #  type: ignore
 # BritishToAmericanSpelling(root_directory="../").run()  #  type: ignore
 # RemoveInitialDeterminers(root_directory="../").run()  #  type: ignore
@@ -60,7 +57,7 @@ IntegrityCheck(root_directory="../").run()  #  type: ignore
 # RemoveCommonInitialWords(root_directory="../").run()  #  type: ignore
 # RemoveCommonLastWords(root_directory="../").run()  #  type: ignore
 # CleanupThesaurus(root_directory="../").run()  #  type: ignore
-# ReduceKeys(root_directory="../").run()  #  type: ignore
+ReduceKeys(root_directory="../").run()  #  type: ignore
 
 # %% --------------------------------------------------------------------------
 
