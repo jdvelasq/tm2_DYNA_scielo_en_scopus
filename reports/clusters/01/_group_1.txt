@@ -1,0 +1,365 @@
+UT 13892
+AR Cappelin E., 2024, ELECTRON J BIOTECHNOL, V68, P81
+TI Low-alcohol light beer enriched with olive leaves extract: Cold mashing
+   technique associated with interrupted fermentation in the brewing process
+AU Cappelin E.; Meneguzzi D.; Hendges D.H.; Oldoni T.L.C.; Daltoé M.L.M.;
+   Marchioro M.L.K.; Da Cunha M.A.A.
+TC 4
+SO Electronic Journal of Biotechnology
+PY 2024
+AB background : BEER is THE_MOST_CONSUMED_ALCOHOLIC_BEVERAGE globally , and
+   THE_DEMAND for DIFFERENTIATED_BEERS with PECULIAR_CHARACTERISTICS has
+   intensified among BEER_CONSUMERS , creating A_SIGNIFICANT_MARKET_NICHE . in
+   this study , we developed A_LOW_ALCOHOL_LIGHT_CRAFT_BEER enriched with
+   OLIVE_LEAF_EXTRACT ( OLEA_EUROPAEA_L . ) . THE_COLD_MASHING_TECHNIQUE
+   associated with INTERRUPTED_FERMENTATION was used in THE_MASHING_STEP .
+   DIFFERENT_CONCENTRATIONS of OLIVE_LEAF_EXTRACT ( 0.5.1.0 and 2.0 % ) were
+   added at THE_MATURATION_STAGE . THE_SAMPLES were characterized by
+   PHYSICOCHEMICAL_PARAMETERS , PHENOLIC_AND_POLYPHENOLIC_CONTENT ,
+   BIOACTIVE_COMPOUNDS , ANTIOXIDANT_POTENTIAL , and MICROBIOLOGICAL_QUALITY .
+   results : THE_COLD_MASH_TECHNIQUE associated with INTERRUPTED_FERMENTATION
+   provided A_LOW_ALCOHOL_BEER ( 1.3 % ) . the BITTERNESS_DIMENSION ( 19.0 to
+   23.2 ibu ) and COLOR ( 917 ebc ) PARAMETER were in accordance with
+   THE_BEER_JUDGE_CERTIFICATION_PROGRAM ( BJCP ) for
+   THE_AMERICAN_BLOND_ALE_STYLE . THE_ADDITION of THE_EXTRACT enriched
+   THE_CONTENT of TOTAL_PHENOLICS ( 171.09 to 437.4 MG_GAE_ML ) and
+   polyphenolic ( 221.4 to 729.0 MG_L ) . coumaric , ferulic , and
+   CINNAMIC_PHENOLIC_ACIDS were detected in APPRECIABLE_AMOUNTS in THE_BEERS .
+   OLEUROPEIN was THE_MAJOR_COMPOUND in THE_BEVERAGE_AND_PLANT_EXTRACT . after
+   adding 2 % extract , THE_ABTS and DPPH_RADICAL_SCAVENGING_ACTIVITY ,
+   as_well_as THE_FERRIC_REDUCTION_POWER , increased in BEERS by 28.4 % , 449.1
+   % , and 120.5 % , respectively . CONCLUSIONS : THE_EXTRACT of o . EUROPAEA_L
+   . promoted THE_ENRICHMENT of LOW_ALCOHOL_BEER_SAMPLES with
+   BIOACTIVE_COMPOUNDS and ANTIOXIDANT_POTENTIAL . THE_RESULTS obtained
+   indicated THE_POTENTIAL_USE of o . EUROPAEA_L . extract as A_NATURAL_OXIDANT
+   in OTHER_BEVERAGES and FOOD_PRODUCTS . how to cite : CAPPELIN_E ,
+   MENEGUZZI_D , HENDGES_DH , et al . LOW_ALCOHOL_LIGHT_BEER enriched with
+   OLIVE_LEAVES_EXTRACT : COLD_MASHING_TECHNIQUE associated with
+   INTERRUPTED_FERMENTATION in THE_BREWING_PROCESS . electron j biotechnol
+   2024.68 . https : / doi . org 10.1016 j . ejbt.2024.01.002 . 2024 pontificia
+   universidad catolica de valparaiso
+DE ANTIOXIDANT; BITTERNESS; BREWING; COLD_MASH; INTERRUPTED_FERMENTATION;
+   LEAVES_EXTRACT; LIGHT_BEER; LOW_ALCOHOL; OLIVE; PHENOLICS; PLANT_EXTRACT
+ID ANTIOXIDANTS; BEER; BREWING; PLANT_EXTRACTS; POLYPHENOLIC_COMPOUNDS;
+   CINNAMIC_ACID; COUMARIC_ACID; FERULIC_ACID; OLEUROPEIN;
+   OLIVE_LEAVES_EXTRACT; PHENOL_DERIVATIVE; PLANT_EXTRACT;
+   POLYPHENOL_DERIVATIVE; UNCLASSIFIED_DRUG; BITTERNESS; BREWING; COLD_MASH;
+   INTERRUPTED_FERMENTATION; LEAF_EXTRACTS; LIGHT_BEER; LOWER_ALCOHOLS; OLIVE;
+   OLIVE_LEAF; PHENOLICS; ABTS_RADICAL_SCAVENGING_ASSAY; ANTIOXIDANT_ACTIVITY;
+   ARTICLE; BEER; BIOLOGICAL_ACTIVITY; BITTER_TASTE; BREWING;
+   CHEMICAL_COMPOSITION; CHEMICAL_PROCEDURES; CONCENTRATION (PARAMETER);
+   CONTROLLED_STUDY; DPPH_RADICAL_SCAVENGING_ASSAY; FERMENTATION; MICROBIOLOGY;
+   NONHUMAN; OLIVE_TREE; PHYSICAL_CHEMISTRY; REDUCTION (CHEMISTRY);
+   FERMENTATION
+
+
+
+--
+
+UT 13896
+AR Severino-González P., 2024, INTERCIENCIA, V49, P104
+TI UNIVERSITY SOCIAL RESPONSIBILITY AND ENVIRONMENTAL EDUCATION. CHALLENGES FOR
+   THE TRAINING OF SOCIALLY RESPONSIBLE PROFESSIONALS; [RESPONSABILIDADE SOCIAL
+   UNIVERSITÁRIA E EDUCAÇÃO AMBIENTAL. DESAFIOS PARA A FORMAÇÃO DE
+   PROFISSIONAIS SOCIALMENTE RESPONSÁVEIS]; [RESPONSABILIDAD SOCIAL
+   UNIVERSITARIA Y EDUCACIÓN AMBIENTAL. RETOS PARA LA FORMACIÓN DE
+   PROFESIONALES SOCIALMENTE RESPONSABLES]
+AU Severino-González P.; Gallardo-Vázquez D.; Saldía-Barahona H.; Villanueva-
+   Arequipeño T.; Sarmiento-Peralta G.; De Jesús Romero-Argueta J.
+TC 4
+SO Interciencia
+PY 2024
+AB the study of UNIVERSITY_SOCIAL_RESPONSIBILITY ( USR ) shows THE_LINK that
+   VALUES_BASED_EDUCATION has in THE_TRAINING of PROFESSIONALS committed to
+   THE_NEEDS of SOCIETY , which includes THE_CHALLENGES of SUSTAINABILITY ,
+   THE_THIRD_MISSION of UNIVERSITIES , and RESPONSIBILITY_TERRITORIAL_SOCIAL .
+   the AFOREMENTIONED_MEANS that HIGHER_EDUCATION_INSTITUTIONS ( HEIS ) must
+   apply EDUCATIONAL_INNOVATIONS based on THE_TENSIONS of MODERNITY . the
+   objective of this work is to analyze VARIOUS_CHALLENGES that
+   HIGHER_EDUCATION presents from_the_perspective_of INSTITUTIONAL_POLICIES as
+   AN_ARTICULATOR of STRATEGIES that contribute to THE_TRAINING of
+   SOCIALLY_RESPONSIBLE_PROFESSIONALS . in THIS_REGARD , SOME_VALUES are
+   proposed to ARTICULATE_EFFORTS that contribute to UNIVERSITY_MANAGEMENT ,
+   USR_EDUCATION , and THE_SUSTAINABLE_DEVELOPMENT_GOALS ( SDGS ) . 2024
+   interciencia association . all rights reserved .
+DE ENVIRONMENTAL_EDUCATION; HIGHER_EDUCATION; SUSTAINABILITY; UNIVERSITY;
+   UNIVERSITY_SOCIAL_RESPONSIBILITY
+
+
+
+--
+
+UT 14055
+AR Ertürkmen P., 2024, REV MEX ING QUIMICA, V23
+TI Investigation of the potential of Rosadamascena vinegar fermented with
+   probiotic lactic acid bacteria as a functional food; [Investigación del
+   potencial del vinagre de Rosadamascena fermentado con bacterias lácticas
+   probióticas como un alimento funcional]
+AU Ertürkmen P.; Bulantekin Ö.; Alp-Baltakesmez D.
+TC 4
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB ROSA_DAMASCENA_MILL . is AN_AROMATIC_PLANT rich in BIOACTIVE_COMPOUNDS with
+   grown commonly native in TURKIYE_PROVINCES of ISPARTA . there are
+   MANY_STUDIES on THIS_PLANT , however there are A_LIMITED_NUMBER of STUDIES
+   on ROSE_VINEGAR . in PRESENT_STUDY_ROSE_VINEGAR was produced by
+   TRADITIONAL_METHOD using 4 DIFFERENT_BATCHES_LACTIC_ACID_BACTERIA (
+   LACTIPLANTIBACILLUS_PLANTARUM , LIMOSILACTOBACILLUS_FERMENTUM ,
+   WEISELLA_CIBARIA , LOIGOLACTOBACILLUS_CORYNIFORMIS ) with
+   VARIOUS_PROBIOTIC_PROPERTIES . QUALITY_CHARACTERISTICS of VINEGARS such_as
+   PHYSICOCHEMICAL , microbiological and some BIOACTIVE_COMPOUNDS was
+   determined during THE_STORAGE_PERIOD ( 1.3 and 7 days ) . compared to
+   THE_CONTROL_GROUP without ANY_STRAIN , AN_INCREASE was observed in
+   THE_TOTAL_PHENOLIC_AND_ANTIOXIDANT_VALUES of THE_GROUPS to which
+   PROBIOTIC_STRAIN was added . acetic , propionic , succinic , oxalic , citric
+   , fumaric , malic and TARTARIC_ACID was detected in ALL_ROSE_VINEGAR .
+   VOLATILE_AROMA_COMPOUNDS such_as DODECENE , TETRADECANOL , HEXADECANOL ,
+   HEPTADECANOL and LINALOOL was determined in ALL_VINEGARS , as_well_as
+   PHENYL_ETHYL_ALCOHOL ( PEA ) , THE_MAJOR_AROMA_COMPOUND associated with
+   A_ROSE_HONEY like ODOR . in THE_SENSORY_ANALYSIS_RESULTS , THE_GROUP with
+   THE_BEST_EVALUATION_SCORE in_terms_of GENERAL_ACCEPTABILITY was THE_GROUP to
+   which LACTIPLANTIBACILLUS_PLANTARUM was added . THIS_RESULT was attributed
+   to MANY_FUNCTIONAL_FEATURES of THE_STRAIN . as_a_result , it was concluded
+   that PROBIOTIC_STRAINS can be used in ROSE_VINEGAR_PRODUCTION to improve
+   PRODUCT_CONSISTENCY , QUALITY_CONTROL and FUNCTIONAL_PROPERTIES . 2024 ,
+   universidad autonoma metropolitana . all rights reserved .
+DE FUNCTIONAL_PRODUCTS; PROBIOTIC_STRAINS; ROSA_DAMASCENA_MILL; VINEGAR
+
+
+
+--
+
+UT 14257
+AR Castillo-Esparza Ma.M.G.C., 2024, TEC EMPRES, V18, P1
+TI Green Business Strategy and its effect on Financial Performance: The
+   mediating role of Corporate Social Responsibility; [Estrategia de Negocios
+   Sustentable y su efecto sobre el Rendimiento Financiero: El rol mediador de
+   la Responsabilidad Social Empresarial]
+AU Castillo-Esparza Ma.M.G.C.; Maldonado-Guzmán G.; Mejía-Trejo J.
+TC 4
+SO Tec Empresarial
+PY 2024
+AB ORGANIZATIONS are increasingly integrating ENVIRONMENTAL_CONCERNS in
+   THEIR_STRATEGIC_PLANS . this research analyzes how GREEN_BUSINESS_STRATEGY (
+   GBS ) and CORPORATE_SOCIAL_RESPONSIBILITY_IMPACT_FINANCIAL_PERFORMANCE ( FP
+   ) . in_addition , we analyze THE_MEDIATING_ROLE of CSR in THE_RELATIONSHIP
+   between GBS and FP . the
+   EMPIRICAL_APPLICATION_USES_STRUCTURAL_EQUATION_MODELING on A_SAMPLE of 300
+   MANUFACTURING_FIRMS from MEXICO . THE_RESULTS show
+   POSITIVE_AND_SIGNIFICANT_RELATIONSHIPS between GBS , CSR and FP , while
+   THE_SIGNIFICANTLY_POSITIVE_MEDIATING_ROLE of CSR was also verified . thus ,
+   the ENVIRONMENTAL_OBJECTIVES_SET by THE_GBS_CONTRIBUTE to THE_FP of
+   MEXICAN_MANUFACTURING_FIRMS . CSR also collaborates to_this_end but only
+   partially by mediating THE_RELATIONSHIP between GBS and FP .
+   THE_FINDINGS_SUPPORT THE_IMPORTANCE of incorporating ENVIRONMENTAL_CONCERNS
+   in BUSINESSES ' STRATEGIC_PLANNING in_order_to ensure
+   NOT_ONLY_ECONOMIC_BUT_ALSO_SOCIAL_BENEFITS through GBS_AND_CSR_ACTIVITIES .
+   2024 business school , instituto tecnologico de costa rica . all rights
+   reserved .
+DE CORPORATE_SOCIAL_RESPONSIBILITY; ENVIRONMENT; FINANCIAL_PERFORMANCE;
+   GREEN_BUSINESS_STRATEGY; MANUFACTURING_COMPANIES
+
+
+
+--
+
+UT 15055
+AR Ortiz-Cea V., 2024, INTERCIENCIA, V49, P632
+TI COSTS AND CARBON FOOTPRINT: EXPLORING THE CONTEMPORARY LITERATURE; [COSTOS Y
+   HUELLA DE CARBONO: EXPLORANDO LA LITERATURA CONTEMPORÁNEA]
+AU Ortiz-Cea V.; Geldres-Weiss V.V.; Dote-Pardo J.; Reveco-Sepúlveda R.
+TC 4
+SO Interciencia
+PY 2024
+AB in RECENT_YEARS , CLIMATE_CHANGE has sparked increasing in TEREST and
+   CONCERN globally . THE_RELATIONSHIP between BUSI_NESS_COSTS and
+   CARBON_FOOTPRINT has become AN_ESSENTIAL_TOPIC , as ORGANIZATIONS seek
+   SUSTAINABLE_STRATEGIES that BAL_ANCE_ENVIRONMENTAL_RESPONSIBILITY with
+   ECONOMIC_VIABILITY . in_light_of THIS_CONTEXT , with_the_aim_of
+   UNDERSTANDING what has been researched in THE_SCIENTIFIC_LITERATURE
+   regarding COSTS and CARBON_FOOTPRINT , A_BIBLIOMETRIC_ANALYSIS was
+   CONDUCT_ED using PUBLICATIONS indexed in WEB_OF_SCIENCE ( WOS ) as the
+   SOURCE_OF_INFORMATION . after searching and analyzing THE_RESULTS , 250
+   PUBLICATIONS were identified . for DATA_ANALYSIS , VOSVIEWER was employed .
+   among THE_MAIN_FINDINGS , it is observed that THE_RELATIONSHIP between
+   BUSINESS_COSTS and CARBON_FOOTPRINT is emerging with RELEVANCE in
+   RECENT_RESEARCH , focusing_on SUSTAINABILITY and GREEN_ECONOMY . there is
+   A_NOTICEABLE_LACK of SPECIFIC_ACCOUNTING_PUBLICATIONS on THE_SUBJECT ,
+   prompting SUGGESTIONS for FUTURE_RESEARCH_LINES that address THE_ANALYSIS of
+   CARBON_FOOTPRINT , which vary in THEIR_FOCUS from HUMAN_FACTORS ,
+   ORGANIZATIONS , TECHNOLOGY , ENERGY , and OPTIMIZATION_MODELS . 2024
+   interciencia association . all rights reserved .
+
+
+
+--
+
+UT 13873
+AR Kallel Fourati I., 2024, J APPL RES TECHNOL, V22, P22
+TI A matlab based graphical user interface for the monitoring and early
+   detection of keratoconus
+AU Kallel Fourati I.; Kammoun S.
+TC 3
+SO Journal of Applied Research and Technology
+PY 2024
+AB the rapid and extensive growth in medical imaging modalities and their
+   applications is creating a pressing need for COMPUTERS and COMPUTING in
+   IMAGE_PROCESSING , VISUALIZATION , ARCHIVAL , and ANALYSIS . in this article
+   , a MATLAB based GRAPHICAL_USER_INTERFACE_PROGRAM is proposed for
+   THE_MONITORING and EARLY_DETECTION of KERATOCONUS . THE_FINDINGS show
+   THE_EFFICIENCY of the proposed to detect THE_EARLY_STAGE of KERATOCONUS .
+   THE_PROPOSED_NEURAL_NETWORK_MODEL produces ACCURACY , ranging from 96 % to
+   92 % . it considers , respectively , 2 CLASSES ( NORMAL_CORNEA and
+   KERATOCONUS ) and 3 CLASSES ( KERATOCONUS , SUSPECTED_KERATOCONUS or normal
+   ) which will increase to 99 % with_respect_to the 2 CLASSES of KERATOCONUS
+   and 94 % to the 3 CLASSES when combining TOPOGRAPHY_PARAMETERS with
+   OCT_IMAGE_CORNEAL_PACHYMETRY_MEASUREMENTS and CLINICAL_JUDGMENTS .
+   THE_COMPATIBILITY of THE_GRAPHICAL_INTERFACE_COMPONENTS with
+   COMMON_MEDICAL_DATA and IMAGE_ANALYSIS_TOOLS_FACILITATES_THE_INVOLVEMENT of
+   THE_OPHTHALMOLOGIST in THE_DIGITIZATION of THE_MEDICAL_RECORDS ,
+   THE_IMAGE_PROCESSING and THE_CONCEPTION of
+   MULTIMODAL_ARTIFICIAL_INTELLIGENCE_APPLICATIONS for MEDICAL_IMAGING . 2024
+   universidad nacional autonoma de mexico . all rights reserved .
+DE ARTIFICIAL_INTELLIGENCE; GRAPHICAL_USER_INTERFACE; IMAGE_PROCESSING;
+   KERATOCONUS
+
+
+
+--
+
+UT 13040
+AR Rodríguez-S E.A., 2024, REV FAC ING, P31
+TI Evaluating the IMERG precipitation satellite product to derive intensity-
+   duration-frequency curves in Colombia; [Evaluación del producto satelital de
+   precipitación IMERG para derivar curvas intensidad-duración-frecuencia en
+   Colombia]
+AU Rodríguez-S E.A.; García-Echeverri C.; González A.; Sandoval J./1;
+   Patarroyo-González M.; Agudelo-Duque D.E.
+TC 3
+SO Revista Facultad de Ingenieria
+PY 2024
+AB this article explores THE_POTENTIALITIES of THE_IMERG v06b FINAL_PRODUCT for
+   estimating INTENSITY_DURATION_FREQUENCY_CURVES in COLOMBIA , using
+   THE_IN_SITU_DATA available for 110 RAIN_GAUGES . from OBSERVED_DATA for 76
+   of THESE_STATIONS , we validated THE_SATELLITE_IMERG_PRECIPITATION_DATA for
+   THE_PERIOD 2001 2019 , at daily , MONTHLY , and ANNUAL_RESOLUTIONS . for 60
+   STATIONS , BETTER_RESULTS were obtained for THE_MONTHLY_TIME_AGGREGATION ,
+   followed by THE_YEARLY_AND_DAILY_SCALES , suggesting that SEASONALITY is
+   THE_MAIN_RAINFALL_CHARACTERISTIC captured by THE_PRODUCT . concerning
+   THE_OCCURRENCE of DAILY_PRECIPITATION , RESULTS indicate that both the
+   PROBABILITY_OF_DETECTION and THE_PROBABILITY of FALSE_DETECTION are high .
+   in_general terms , THE_COMPARISON between INTENSITIES from
+   EXISTING_IDF_CURVES and those DERIVED from IMERG showed UNDERESTIMATIONS of
+   THE_RAINFALL_INTENSITIES for THE_SHORT_DURATIONS studied ( 0.5 and 1 h ) ,
+   with MEAN_RELATIVE_ERRORS in THE_RANGE [ 69 % ,+56 % ] , and OVERESTIMATIONS
+   for THE_LARGE_DURATIONS of 2 and 6 h , with MEAN_RELATIVE_ERRORS in
+   THE_RANGE [ 61 % ,+171 % ] . RESULTS also suggest that THE_IMERG_PRODUCT
+   at_this moment is not able to capture THE_DAILY_RAINFALL_DISTRIBUTION in
+   MOST of THE_STATIONS . nevertheless , for almost 20 % of THE_RAIN_GAUGES ,
+   located mainly in THE_AMAZON , orinoco , and PACIFIC_REGIONS , THE_ANALYSIS
+   showed that THE_MAXIMUM_INTENSITIES_DERIVED from IMERG are within + 25 %
+   RELATIVE_ERROR , compared with THE_ONES calculated using
+   THE_TRADITIONAL_APPROACH . ( 2024 ) , ( universidad de antioquia ) . all
+   rights reserved .
+DE COLOMBIA; COLOMBIA_PRECIPITACION;
+   EN_COMPARACION_CON_LAS_DEDUCIDAS_UTILIZANDO_EL_METODO_TRADICIONAL;
+   MAXIMAS_DERIVADAS_DE_IMERG_SE_ENCUENTRAN_DENTRO_DE_+_25%_DE_ERROR_RELATIVO;
+   PRECIPITATION; REMOTE_SENSING; SENSORAMIENTO_REMOTO
+
+
+
+--
+
+UT 13696
+AR Venegas-Vásconez D., 2024, INGENIUS, V2024, P81
+TI Liquefied Petroleum Gas Systems: A Review On Desing And Sizing Guidelines;
+   [Sistemas de gas licuado de petróleo: una revisión sobre lineamientos de
+   diseño y dimensionamiento]
+AU Venegas-Vásconez D.; Ayabaca-Sarria C.; Reina-Guzmán S.; Tipanluisa-Sarchi
+   L.; Farías-Fuentes Ó.
+TC 3
+SO Ingenius
+PY 2024
+AB LIQUEFIED_PETROLEUM_GAS ( LPG ) is A_FOSSIL_FUEL widely used in RESIDENTIAL
+   , commercial , and INDUSTRIAL_APPLICATIONS . LPG_SYSTEMS must be designed
+   and sized considering MINIMUM_SAFETY_STANDARDS established in
+   NATIONAL_AND_INTERNATIONAL_REGULATIONS . an
+   LPG_SYSTEM_COMPRISES_FUEL_STORAGE_CONTAINERS , PIPELINES , VALVES , METERS ,
+   CONSUMPTION_EQUIPMENT , and SAFETY_AND_PROTECTION_ELEMENTS . these must be
+   sized and selected to withstand THE_ACTION of THE_FUEL_GAS and
+   THE_WORKING_CONDITIONS to which they will be subjected . this article
+   presents A_REVIEW of THE_MOST_IMPORTANT_POINTS to consider in THE_DESIGN and
+   SIZING of AN_LPG_SYSTEM based on
+   THE_MOST_REPRESENTATIVE_INTERNATIONAL_REGULATIONS . 2024 , universidad
+   politecnica salesiana . all rights reserved .
+DE CRITERIA; INSTALLATIONS; LIQUEFIED_PETROLEUM_GAS; NORMATIVE; SAFETY; SIZING
+
+
+
+--
+
+UT 13860
+AR Mena-Guacas A.F., 2024, FORM UNIV, V17, P155
+TI Artificial intelligence and its scientific production in the area of
+   education; [La inteligencia artificial y su producción científica en el
+   campo de la educación]
+AU Mena-Guacas A.F.; Vázquez-Cano E.; Fernández-Márquez E.; Meneses E.L.
+TC 3
+SO Formacion Universitaria
+PY 2024
+AB THIS_RESEARCH_STUDY performs A_BIBLIOMETRIC_REVIEW of THE_FIELD of
+   ARTIFICIAL_INTELLIGENCE and EDUCATION , with THE_GOAL of
+   UNDERSTANDING_THE_EXTENT of THE_INCURSION of TECHNOLOGICAL_EVOLUTION in
+   THE_EDUCATIONAL_FIELD . THE_BIBLIOMETRIC_REVIEW is conducted using
+   THE_KEYWORDS : " ARTIFICIAL_INTELLIGENCE " and " EDUCATION , " limiting
+   THE_RESULTS to THE_FIELD of SOCIAL_SCIENCES on THE_SCOPUS_DATABASE .
+   THE_SEARCH is conducted in ENGLISH and THE_ANALYSIS examines
+   THE_FOLLOWING_ASPECTS : TOPIC , PUBLICATION_TYPES , THEMATIC_AREA , COUNTRY
+   , PUBLICATION , AUTHOR , and YEAR . the KEYWORDS_THEMATIC_CONCURRENCE is
+   assessed using THE_SOFTWARE_VOSVIEWER . THE_RESULTS show that
+   MOST_PUBLICATIONS are DISTRIBUTED among 103 countries , although six are
+   highlighted for having more than 100 publications : USA ( 25 % ) , CHINA (
+   13 % ) , THE_UNITED_KINGDOM ( 8 % ) , SPAIN ( 5 % ) , CANADA and INDIA ( 4 %
+   ) . overall , 98 % of THE_PUBLICATIONS are written in ENGLISH .
+   in_conclusion , there is A_REMARKABLE_INCREASE of
+   ARTIFICIAL_INTELLIGENCE_SYSTEMS in EDUCATION with THEIR_INCLUSION in
+   ADMINISTRATIVE_TASKS and TEACHING_LEARNING_PROCESSES . ( 2024 ) , ( centro
+   de informacion tecnologica ) . all rights reserved .
+DE ARTIFICIAL_INTELLIGENCE; BIBLIOMETRIC_REVIEW; EDUCACION; EDUCATION;
+   INCLUSION; INCLUSION; INCREMENTO; INTELIGENCIA_ARTIFICIAL;
+   PUBLICACIONES_EN_CIENCIAS_SOCIALES; REVISION_BIBLIOMETRICA; SCOPUS;
+   SOCIAL_SCIENCES_PUBLICATIONS
+
+
+
+--
+
+UT 13885
+AR Pérez S.P.M., 2024, J APPL RES TECHNOL, V22, P32
+TI Study of the combined effect of coffee husk ash and polypropylene fibres on
+   the mechanical properties of concrete
+AU Pérez S.P.M.; Rivera Segura M.E.; Alejandria Bustamante Y.A.; Villena Zapata
+   L.I.
+TC 3
+SO Journal of Applied Research and Technology
+PY 2024
+AB in this research , THE_EFFECTS produced by THE_COMBINATION of
+   COFFEE_HUSK_ASH_AND_POLYPROPYLENE_FIBERS in THE_PRODUCTION of CONCRETE were
+   studied to EVALUATE_THE_MECHANICAL_PROPERTIES and determine
+   AN_OPTIMUM_DESIGN_COMBINATION . TWO_STANDARD_CONCRETE_MIX_DESIGNS of f c =
+   210 and 280 kg cm2 were developed , and EXPERIMENTAL_TREATMENTS of
+   STANDARD_CONCRETE were designed by adding COFFEE_HUSK_ASH at 5 % , 10 % and
+   15 % combined with POLYPROPYLENE_FIBERS at 1 % , 2.5 % and 5 % . THE_RESULTS
+   showed that THE_RESISTANCE differs in 8.94 % and 4.11 % in COMPRESSION ,
+   8.55 % and 15.03 % in TRACTION , 10.89 % and 8.96 % in BENDING and increases
+   the MODULUS_OF_ELASTICITY in 5.66 % and 14.15 % with_respect_to
+   THE_STANDARD_DESIGNS f c = 210 and 280 kg cm2 . it is concluded that
+   THE_MECHANICAL_CHARACTERISTICS are lower compared to
+   THE_STANDARD_MIX_DESIGNS . 2024 universidad nacional autonoma de mexico .
+   all rights reserved .
+DE COFFEE_HUSK_ASH; CONCRETE; MECHANICAL_PROPERTIES; POLYPROPYLENE_FIBER
+
+
+
+--
+

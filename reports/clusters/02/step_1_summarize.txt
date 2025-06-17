@@ -1,0 +1,62 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Innovation, ICT, and knowledge management in higher education
+
+
+
+PARAGRAPHS TO COMBINE:
+
+This thematic cluster reveals an emergent convergence between higher education, technological innovation, and entrepreneurial ecosystems, particularly in university settings. The abstracts emphasize that educational institutions are becoming catalysts for innovation by integrating information and communication technologies (ICT) into diverse learning environments \[UT 14047]. The relationship between knowledge management and academic performance is framed not only as a pedagogical concern but also as a strategic priority for increasing competitiveness \[UT 14047]. Entrepreneurship and the development of small and medium enterprises (SMEs) are also linked to educational initiatives, showing how universities actively transfer innovation to productive sectors through student-led initiatives and academic-industry collaborations \[UT 14047]. The presence of ICT tools is not merely technical but transformative, influencing management practices within universities and enhancing the performance of students through adaptive learning platforms and data-driven feedback \[UT 14047]. Furthermore, learning environments are positioned as enablers of innovation, requiring the redefinition of curriculum design and assessment to incorporate digital competencies and entrepreneurial mindsets \[UT 14047]. This cluster demonstrates a systemic vision: universities are reframed as engines of socio-economic development where academic excellence, technological empowerment, and business acumen coalesce. The abstracts reflect a shared commitment to fostering sustainable innovation through educational frameworks that are agile, interdisciplinary, and responsive to market needs \[UT 14047].
+
+---
+
+The thematic cluster defined by the terms related to education, innovation, and management in higher education emphasizes a convergent transformation in the role of universities as agents of socio-technological progress. The abstracts show that higher education institutions are increasingly adopting information and communication technologies not only to support teaching and learning processes but also to foster university social responsibility and sustainability awareness among students \[UT 13896]. There is a clear link between the integration of innovation and values-based education and the emergence of responsible professionals attuned to environmental and societal challenges \[UT 13896]. Furthermore, the presence of knowledge management practices and entrepreneurial strategies embedded in academic environments signals a shift toward aligning university objectives with competitiveness and socio-economic development, particularly in contexts involving small and medium enterprises \[UT 14257]. Information technologies also act as enablers of academic performance enhancement and institutional management \[UT 13860]. The evolution of artificial intelligence in education illustrates how technological innovation is not merely a support tool but a domain of academic inquiry and pedagogical change itself \[UT 13860]. Ultimately, this cluster consolidates a vision of the university as a platform where learning, management, and innovation intersect to address complex environmental, economic, and social dynamics. This is especially evident in efforts to align institutional strategies with sustainable development goals and financial performance indicators via responsible management practices \[UT 14257].
+
+
+--- 
+
+The thematic cluster reflects a convergence between university-driven innovation and knowledge management strategies oriented toward technological integration, learning enhancement, and economic development through entrepreneurship. This cluster is defined by a systemic concern for improving academic performance and competitiveness via information and communication technologies embedded in educational and managerial environments. The abstracts emphasize that information technologies are not only instrumental in fostering innovations in teaching but also in connecting higher education with broader development goals such as promoting entrepreneurship and improving small and medium enterprises \[UT 14051, UT 14057]. Universities are seen as central actors in knowledge economies, where academic knowledge transfer and performance monitoring through dashboards or indicators contribute to organizational improvement and process optimization \[UT 14838]. Information and communication technologies (ICTs) are positioned as both content and medium of educational reform, as seen in the promotion of environments conducive to self-managed learning and technology-enhanced academic settings \[UT 14056]. Entrepreneurship emerges as a recurring element, not just as an outcome but as a pedagogical and organizational objective linked to competitiveness \[UT 14078]. Furthermore, university students are not just learners but agents embedded in a network of management, innovation, and knowledge systems that reflect the shifting boundaries of university missions \[UT 14071]. Thus, this cluster captures a transformation in the role of higher education institutions—from isolated centers of learning to hubs of innovation, ICT-based learning, and socioeconomic development.
+
+
+---
+
+The thematic cluster articulates a systemic transformation in higher education, driven by the integration of digital innovations, pedagogical shifts, and strategic responses to societal challenges. A central axis is the reinforcement of student competencies as a means to promote informed decision-making and competitiveness. The influence of knowledge and skills on students’ financial attitudes exemplifies how educational practices enhance individual capacities through workshops and personal finance courses \[UT 13739]. Similarly, digital transformation emerges not only as a technological adoption but as a cultural and leadership-driven evolution that impacts the strategic success of institutions \[UT 13828]. The perception of innovative teaching practices reveals a tension between content-centered and learning-centered approaches, especially in scientific and technical disciplines, where progress remains limited \[UT 13901]. Furthermore, higher education’s role extends beyond the classroom: university social responsibility and environmental education demonstrate how empathy and solidarity shape institutional policies aligned with sustainable development goals \[UT 13894]. These findings signal an expansion of the educational mission toward socio-environmental awareness and civic engagement. Collectively, the abstracts define this cluster as a multifaceted engagement of universities with innovation, societal relevance, and management, forming a framework where academic performance and entrepreneurship thrive within evolving digital and cultural environments.
+
+
+---
+
+The thematic cluster reflects a growing intersection between higher education, innovation ecosystems, and knowledge-driven competitiveness. At its core, the cluster identifies the university as a dynamic environment that extends beyond traditional education to foster entrepreneurship, knowledge management, and technological adaptability among university students. Studies highlight the critical role of academic purposes and life goals in guiding student motivation and progression, noting that these objectives act as self-regulating behavioral mechanisms that influence academic success \[UT 14250]. The presence of information and communication technologies (ICTs) emerges not merely as pedagogical tools, but as foundational elements that restructure learning environments and management strategies. Innovation within this context is framed as a response to economic and institutional demands, especially relevant for small and medium enterprises (SMEs) that interact with academic outputs. The incorporation of entrepreneurship into university curricula suggests a strategic alignment with national competitiveness goals, supporting a shift from passive knowledge reception to active value creation. This cluster is, therefore, not limited to cognitive outcomes but extends to societal impact, where the integration of ICTs, entrepreneurial education, and knowledge management practices converge to form adaptive, performance-driven learning ecosystems. These ecosystems are essential in shaping resilient individuals prepared for complex socio-economic environments \[UT 14250].
+

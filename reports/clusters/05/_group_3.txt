@@ -1,0 +1,390 @@
+UT 13739
+AR Loza R., 2024, TEC EMPRES, V18, P65
+TI Influence of skills and knowledge on the financial attitude of university
+   students; [Influencia de las habilidades y conocimientos en la actitud
+   financiera de estudiantes universitarios]
+AU Loza R.; Romaní G.; Castañeda W.; Arias G.
+TC 2
+SO Tec Empresarial
+PY 2024
+AB the article analyzes THE_INFLUENCE of KNOWLEDGE_AND_SKILLS on
+   THE_FINANCIAL_ATTITUDE of UNIVERSITY_STUDENTS . FINANCIAL_KNOWLEDGE , SKILLS
+   , and ATTITUDES are COMPONENTS of what is called FINANCIAL_LITERACY .
+   THE_THEORY of HUMAN_CAPITAL emphasizes THE_IMPORTANCE of investing in
+   HUMAN_CAPITAL to ENHANCE_INDIVIDUALS ' DECISION_MAKING .
+   THE_EMPIRICAL_ANALYSIS uses A_SAMPLE of 531 UNIVERSITY_STUDENTS from TACNA ,
+   PERU . THE_RESULTS of THE_PROPOSED_STRUCTURAL_EQUATION_MODEL corroborate
+   THAT_FINANCIAL_KNOWLEDGE and SKILLS directly and positively
+   INFLUENCE_UNIVERSITY_STUDENTS ' FINANCIAL_ATTITUDE . THE_FINDINGS offer
+   IMPORTANT_IMPLICATIONS for STUDENTS and HIGHER_EDUCATION_INSTITUTIONS by
+   highlighting THE_IMPORTANCE of INCORPORATING_COURSES and WORKSHOPS on
+   PERSONAL_FINANCE to acquire KNOWLEDGE and improve STUDENTS '
+   FINANCIAL_SKILLS and , consequently , facilitate THE_DEVELOPMENT of
+   A_FINANCIAL_ATTITUDE that allows them to make
+   MORE_INFORMED_FINANCIAL_DECISIONS . 2023 sciendo . all rights reserved .
+DE FINANCIAL_ATTITUDE; KNOWLEDGE; SKILLS; STRUCTURAL_EQUATION_MODEL;
+   UNIVERSITY_STUDENTS
+
+
+
+--
+
+UT 13741
+AR Pereira A.M., 2024, TEC EMPRES, V18, P101
+TI Second opportunities for clothing products: motivations to purchase second-
+   hand clothes; [Segundas oportunidades para los productos de vestir:
+   motivaciones de compra hacia la ropa usada]
+AU Pereira A.M.; Ceballos L.M.; Mejía-Gil M.C.
+TC 2
+SO Tec Empresarial
+PY 2024
+AB THE_SECOND_HAND_CLOTHING_MARKET is A_CIRCULAR_ECONOMY_ALTERNATIVE to deal
+   with EXCESSIVE_CONSUMPTION and reduce THE_ENVIRONMENTAL_IMPACT caused by
+   THE_FASHION_INDUSTRY . in_contrast to THE_VAST_RESEARCH based on THE_US and
+   EUROPE , THIS_MARKET is yet to be explored in COLOMBIA , and in
+   LATIN_AMERICA in_general . THIS_QUALITATIVE_RESEARCH explores
+   THE_MOTIVATIONS to PURCHASE_SECOND_HAND_CLOTHES among YOUNG_CONSUMERS_AGED
+   between 20 and 33 years old residing in MEDELLIN , COLOMBIA .
+   AUTOETHNOGRAPHY was conducted with THESE_CONSUMERS . next ,
+   A_PRE_EXISTING_SCALE of SECOND_HAND_SHOPPER_MOTIVATIONS was used in
+   IN_DEPTH_INTERVIEWS to narrate THEIR_SIGNIFICANT_EXPERIENCES with
+   SECOND_HAND_CLOTHING_PURCHASES . FINDINGS presented TWO_PROFILES of
+   SECOND_HAND_CLOTHING_CONSUMERS : on_the_one_hand , CONSUMERS_PASSIONATE
+   about DESIGN and , on_the_other_hand , CONSCIOUS_PROFESSIONALS_WHO are
+   characterized by driving THEIR_PURCHASE_INTENTIONS from hedonic to
+   ECONOMIC_MOTIVATIONS . this research offers CONTRIBUTIONS for
+   STRUCTURING_VALUE_PROPOSITIONS that respond to THE_NEEDS of
+   SECOND_HAND_CLOTHING_BUYERS . 2024 saint petersburg state university . all
+   rights reserved .
+DE CIRCULAR_ECONOMY; COLLABORATIVE_CONSUMPTION; CONSUMER; MOTIVATIONS;
+   SECOND_HAND_CLOTHES
+
+
+
+--
+
+UT 13800
+AR Cao Y./1, 2024, ELECTRON J BIOTECHNOL, V68, P31
+TI Circular RNA FMN2 motivates colorectal cancer development by mediating
+   tumor-associated macrophage polarization by controlling the
+   microRNA-150-5p/PIK3R3 axis
+AU Cao Y./1; Cao D./1; Zhu T.
+TC 2
+SO Electronic Journal of Biotechnology
+PY 2024
+AB background : it has been reported that CIRCULAR_RNA_FORMIN 2 ( circfmn2 )
+   can MOTIVATE_COLORECTAL_CANCER_PROLIFERATION . however , THE_EFFECT of
+   circfmn2 on THE_POLARIZATION of TUMOR_ASSOCIATED_MACROPHAGES ( TAMS ) in
+   THE_CRC_TUMOR_MICROENVIRONMENT remains unclear . the study was to figure out
+   THE_LATENT_MECHANISM by which circfmn2 impacts TAM_POLARIZATION to motivate
+   THE_MALIGNANT_BEHAVIOR of CRC_CELLS . results : circfmn2 and pik3r3 levels
+   were reduced in m1 MACROPHAGES but elevated in m2 MACROPHAGES , WHEREAS_MIR
+   150 5p level was THE_OPPOSITE . circfmn2 KNOCKDOWN downregulated m2
+   MACROPHAGE markers cd163 , ccl22 and cd206 and upregulated m1 MACROPHAGE
+   markers cd86 , tnf and IL 1 in m2 MACROPHAGES . CO_CULTURE with m2
+   MACROPHAGE conditioned MEDIUM with circfmn2 KNOCKDOWN reduced
+   CRC_PROLIFERATION , INVASION , and MIGRATION , while KNOCKDOWN of mir 150 5p
+   had THE_OPPOSITE_EFFECT . circfmn2 adsorbed mir 150 5p to mediate pik3r3 in
+   m2 MACROPHAGES . OVEREXPRESSION of mir 150 5p can reverse
+   THE_PROMOTING_EFFECTS of OVEREXPRESSION of circfmn2 on m2 POLARIZATION ,
+   CRC_CELL_PROLIFERATION , INVASION , and MIGRATION . ELEVATION of pik3r3
+   could turn around THE_REPRESSIVE_EFFECT of circfmn2 KNOCKDOWN on m2
+   POLARIZATION and CRC_CELL_PROLIFERATION , INVASION , and MIGRATION . in
+   AN_IN_VIVO_MODEL , m2 MACROPHAGES expressing LOW or high circfmn2 were CO
+   transplanted with CRC_CELLS into NUDE_MICE , resulting_in INHIBITION and
+   PROMOTION of TUMOR_GROWTH , respectively . CONCLUSIONS : all_in_all ,
+   circfmn2 mediates TAM_POLARIZATION to m2 type by controlling the mir 150 5p
+   pik3r3 axis to MOTIVATE_CRC_DEVELOPMENT and may offer
+   A_LATENT_MOLECULAR_TARGET for CRC_TREATMENT . how to cite : CAO_Y , CAO_D ,
+   ZHU_T . CIRCULAR_RNA fmn2 motivates COLORECTAL_CANCER_DEVELOPMENT by
+   mediating TUMOR_ASSOCIATED_MACROPHAGE_POLARIZATION by controlling the
+   MICRORNA 150 5p pik3r3 axis . electron j biotechnol 2024.68 . https : / doi
+   . org 10.1016 j . ejbt.2023.12.002 . 2024 pontificia universidad catolica de
+   valparaiso
+DE CIRCFMN2; CIRCULAR_RNA; COLORECTAL_CANCER; M2_MACROPHAGE_POLARIZATION;
+   MICRORNA; MIR_150_5; MOLECULAR_TARGET; TUMOR_MICROENVIRONMENT;
+   TUMOR_ASSOCIATED_MACROPHAGE
+ID CELL_PROLIFERATION; DISEASES; MAMMALS; POLARIZATION; RNA; TUMORS;
+   CD163_ANTIGEN; CD86_ANTIGEN; CELL_ENZYME; CIRCULAR_RIBONUCLEIC_ACID;
+   CIRCULAR_RIBONUCLEIC_ACID_FMN2; INTERLEUKIN_1BETA;
+   MACROPHAGE_DERIVED_CHEMOKINE; MICRORNA; MICRORNA_150_5P;
+   PHOSPHATIDYLINOSITOL_3_KINASE_REGULATORY_SUBUNIT_3; TUMOR_NECROSIS_FACTOR;
+   UNCLASSIFIED_DRUG; CIRCULAR_RNA; CIRCULAR_RNA_FORMIN_2; COLORECTAL_CANCER;
+   FORMINS; M2_MACROPHAGE_POLARIZATION; MICRORNA; MIR_150_5; MOLECULAR_TARGETS;
+   TUMOR_MICROENVIRONMENTS; TUMOUR_ASSOCIATED_MACROPHAGES; ANIMAL_EXPERIMENT;
+   ANIMAL_MODEL; ANIMAL_TISSUE; ARTICLE; CANCER_CELL; CELL_INVASION;
+   CELL_MIGRATION; CELL_PROLIFERATION; COCULTURE; COLORECTAL_CANCER;
+   CONTROLLED_STUDY; DOWN_REGULATION; GENE_EXPRESSION; GENE_KNOCKDOWN; HUMAN;
+   HUMAN_CELL; HUMAN_TISSUE; M1_MACROPHAGE; M2_MACROPHAGE; MALE; MOUSE;
+   NONHUMAN; POLARIZATION; TUMOR_GROWTH; TUMOR_ASSOCIATED_MACROPHAGE;
+   UPREGULATION; MACROPHAGES
+
+
+
+--
+
+UT 13828
+AR Ganga-Contreras F.A., 2024, INTERCIENCIA, V49, P8
+TI Scientific Production of the Relationship Between Leadership, Higher
+   Education and Digital Transformation: A Bibliometric Analysis; [Produção
+   Científica Sobre a Relação Entre Liderança, Ensino Superior e Transformação
+   Digital: Uma Análise Bibliométrica]; [Producción Científica de la Relación
+   Entre Liderazgo, Educación Superior y Transformación Digital: Un Análisis
+   Bibliométrico]
+AU Ganga-Contreras F.A.; Suárez-Amaya W.; Henríquez N.A.; Viancos-González P.;
+   Henríquez-Fuentes F.; Abello-Romero J.
+TC 2
+SO Interciencia
+PY 2024
+AB DIGITAL_TRANSFORMATION is A_PROCESS of CULTURAL_CHANGE that has impacted
+   ALL_SPHERES of HUMAN_ENDEAVOR , which is why it has become
+   A_STRATEGIC_COMPONENT to guarantee THE_SUCCESS and COMPETITIVENESS of
+   ALL_TYPES of ORGANIZATIONS . in THIS_SAME_CATEGORY is LEADERSHIP ,
+   considered by MANY_SCHOLARS as THE_TRUE_DIFFERENTIATING_FACTOR and DEVELOPER
+   of COMPETITIVE_ADVANTAGES . HIGHER_EDUCATION_INSTITUTIONS do not escape
+   THIS_REALITY , and for_this_reason , given THE_RELEVANCE of
+   THIS_RESEARCH_TOPIC , this work has been SET as A_CENTRAL_OBJECTIVE , to
+   carry out A_BIBLIOMETRIC_ANALYSIS of THE_PRODUCTION of SCIENTIFIC_ARTICLES
+   that address THE_RELATIONSHIP between THE_LEADERSHIP , HIGHER_EDUCATION and
+   DIGITAL_TRANSFORMATION in the WEB_OF_SCIENCE_DATABASE , in_order_to identify
+   the STATE_OF_THE_ART of KNOWLEDGE , THE_CONTRIBUTIONS on THE_SUBJECT and
+   FUTURE_RESEARCH_LINES of DEVELOPMENT . THE_METHODOLOGY used is
+   DOCUMENTARY_REVIEW through BIBLIOMETRIC_INDICATORS that SHOW_TRENDS in
+   SCIENTIFIC_PRODUCTION . among THE_MOST_SIGNIFICANT_RESULTS , it can be
+   mentioned that it was found that DIGITAL_TRANSFORMATION is AN_EMERGING_ISSUE
+   , in SUSTAINED_GROWTH and scarcely addressed in THE_FIELD of
+   HIGHER_EDUCATION , so it represents AN_OPPORTUNITY to develop RESEARCH on
+   THE_SUBJECT . 2024 interciencia association . all rights reserved .
+DE BIBLIOMETRIC_ANALYSIS; DIGITAL_TRANSFORMATION; GOVERNANCE_UNIVERSITIES;
+   HIGHER_EDUCATION; LEADERSHIP_
+
+
+
+--
+
+UT 13845
+AR Daif-Alkhasraji J.M., 2024, INGEN INVEST, V44
+TI Reduction of Large Scale Linear Dynamic MIMO Systems Using ACO-PID
+   Controller; [Reducción de sistemas MIMO dinámicos lineales a gran escala
+   mediante el controlador ACO-PID]
+AU Daif-Alkhasraji J.M.; Shneen S.W.; Sulttan M.Q.
+TC 2
+SO Ingenieria e Investigacion
+PY 2024
+AB THE_MIMO_TECHNIQUE is AN_ESSENTIAL_ELEMENT in THE_STANDARDS of
+   COMMUNICATION_SYSTEMS ( IEEE 802.11n , IEEE 802.11ac , WIMAX , and LTE )
+   because it helps to increase THEIR_CAPACITY . this paper employs a
+   MODEL_ORDER_REDUCTION_TECHNIQUE with A_PID_CONTROLLER , AN_ACO_ALGORITHM ,
+   and THE_ITAE_FITNESS_FUNCTION to reduce THE_LARGE_SCALE_LINEARITY of
+   THE_MIMO_TECHNIQUE . THE_NUMERATOR and DENOMINATOR_PARAMETERS are SET by
+   minimizing THE_ITAE_FITNESS_FUNCTION between THE_TRANSIENT_RESPONSES of
+   THE_ORIGINAL and THE_REDUCED_MODEL . THE_OBJECTIVES are achieved with
+   THE_PID_CONTROLLER and THE_ACO_ALGORITHM for THE_UNIT_STEP_INPUT .
+   THE_SIMULATION_RESULTS show A_GOOD_SYSTEM_PERFORMANCE .
+   THE_CONTROLLER_PERFORMANCE is presented with REGARD to THE_DYNAMIC_RESPONSE
+   in_terms_of RISING_TIME , settling TIME , and OVERSHOOT_UNDERSHOOT .
+   moreover , THE_RESULTS of the proposed method are compared with
+   FOUR_LITERATURE_REPORTS for VALIDATION_PURPOSES . evaluating THE_PARAMETERS
+   within THE_TIME_FRAME and THE_ERROR_VALUES with and without
+   THE_PID_CONTROLLER and ACO_ALGORITHM allowed validating THE_FUNCTIONING of
+   the proposed method . furthermore , THE_SIMULATION_RESULTS revealed that
+   THE_PROPOSED_SCHEME exhibited SUFFICIENT_ROBUSTNESS and demonstrated
+   A_REDUCTION in THE_TIME_DOMAIN_RESPONSE and ERROR_VALUES . 2024 ,
+   universidad nacional de colombia . all rights reserved .
+DE ANT_COLONY_OPTIMIZATION; LS_MIMO; MODEL_ORDER_REDUCTION (MOR);
+   PID_CONTROLLER
+
+
+
+--
+
+UT 13847
+AR Doğan G., 2024, INGEN INVEST, V44
+TI A New Methodology Based on Artificial Intelligence for Estimating the
+   Compressive Strength of Concrete from Surface Images; [Una nueva metodología
+   basada en inteligencia artificial para estimar la resistencia a la
+   compresión del hormigón a partir de imágenes superficia-les]
+AU Doğan G.; Özkiş A.; Arslan M.H.
+TC 2
+SO Ingenieria e Investigacion
+PY 2024
+AB THIS_STUDY used DIGITAL_IMAGE_PROCESSING and AN_ARTIFICIAL_NEURAL_NETWORK (
+   ANN ) to determine the COMPRESSIVE_STRENGTH_OF_CONCRETE in
+   REINFORCED_CONCRETE_BUILDINGS without coring . first , 32 CONCRETE_SAMPLES
+   were produced in THE_LABORATORY , with DIFFERENT_WATER to CE_MENT_RATIOS ,
+   AGGREGATE_TYPES , AMOUNTS of BINDER , COMPRESSION_VALUES_APPLIED to
+   FRESH_CONCRETE , and AMOUNTS of ADDITIVE . next , THE_LOCATIONS of 192 cores
+   were visualized , and THE_COMPRESSIVE_STRENGTHS of
+   THEIR_CORRESPONDING_CORE_SAMPLES were matched with THE_SURFACE_IMAGES of
+   THE_CONCRETE , which were then digitized by IMAGE_PROCESSING .
+   THE_DIGITIZED_IMAGES were THE_INPUT_LAYER , and
+   THE_TRAINING_AND_TESTING_PROCEDURES were performed using THE_ANN as
+   AN_OUTPUT_LAYER . after TESTING , THE_MODEL was validated in
+   EXISTING_REINFORCED_CONCRETE_BUILDINGS . for THE_VERIFICATION_PROCESS , 20
+   cores taken from RANDOMLY_SELECTED_CONCRETE_BUILDINGS were used .
+   ALT_HOUGH_THE_RESULTS obtained from THE_SAMPLES produced in THE_LABORATORY
+   were satisfactory , THE_SUCCESS_RATE of THE_SAMPLES taken from THE_FIELD was
+   limited . finally , THE_FINDINGS of THIS_STUDY are compared against
+   THE_LITERATURE on THIS_SUBJECT , especially from THE_LAST_TWO_DECADES . 2024
+   , universidad nacional de colombia . all rights reserved .
+DE BUILDING; COMPRESSIVE_STRENGTH; DIGITAL_IMAGE_PROCESSING; EXPERIMENTATION;
+   INTELLIGENT_SYSTEM; REINFORCED_CONCRETE
+
+
+
+--
+
+UT 13894
+AR Severino-González P., 2024, INTERCIENCIA, V49, P94
+TI UNIVERSITY SOCIAL RESPONSIBILITY AND ENVIRONMENTAL EDUCATION: CHALLENGES
+   THAT CONTRIBUTE TO THE DEVELOPMENT OF EDUCATIONAL POLICIES IN CHILE;
+   [RESPONSABILIDADE SOCIAL UNIVERSITÁRIA E EDUCAÇÃO AMBIENTAL: DESAFIOS QUE
+   CONTRIBUEM PARA O DESENVOLVIMENTO DE POLÍTICAS EDUCACIONAIS NO CHILE];
+   [RESPONSABILIDAD SOCIAL UNIVERSITARIA Y EDUCACIÓN AMBIENTAL: DESAFÍOS QUE
+   CONTRIBUYEN AL DESARROLLO DE POLÍTICAS EDUCATIVAS EN CHILE]
+AU Severino-González P.; Gallardo-Vázquez D.; Lira-Ramos H.; Sarmiento-Peralta
+   G.; De Jesús Romero-Argueta J.; Ortuya-Poblete C.
+TC 2
+SO Interciencia
+PY 2024
+AB UNIVERSITY_SOCIAL_RESPONSIBILITY ( USR ) , ENVIRONMENTAL_EDUCATION , and
+   SUSTAINABILITY are linked and , at_the_same_time , evidently promoted
+   through POLICIES that consider THE_GOALS of
+   THE_SUSTAINABLE_DEVELOPMENT_GOALS ( SDGS ) . this invites to
+   MODIFY_INSTITUTIONAL_PRACTICES . likewise , it leads_to THE_TRANSFORMATION
+   of THE_BEHAVIOR of ALL_THE_ACTORS that integrate THE_EDUCATIONAL_COMMUNITIES
+   . the objective of this research is to_explain THE_INFLUENCE of STUDENTS '
+   PERCEPTION of THE_SOCIAL_RESPONSIBILITIES of UNIVERSITIES of talca
+   from_the_perspective_of THE_SDGS through EMPATHY and SOLIDARITY as
+   AN_ARTICULATOR of USR_POLICIES . A_STRUCTURAL_EQUATION_MODEL is developed
+   to_explain THE_CAUSAL_RELATIONSHIPS according to THE_THEORETICAL_HYPOTHESES
+   . it can be pointed out that EMPATHY and SOLIDARITY have
+   A_STRONG_AND_POSITIVE_INFLUENCE on RESPECT and DIGNITY , while RESPECT and
+   DIGNITY have A_WEAK_AND_POSITIVE_INFLUENCE on FREEDOM and CITIZENSHIP .
+   FUTURE_RESEARCH should consider THE_INCORPORATION of CONTRAST_VARIABLES ,
+   in_addition to THE_INFERENTIAL_EXPLORATION according to
+   THE_SOCIODEMOGRAPHIC_CHARACTERISTICS of THE_PARTICIPANTS . in_this_way , we
+   contribute to THE_DESIGN of POLICIES that promote TRAINING in THE_VALUES
+   that SUPPORT_USR and ENVIRONMENTAL_EDUCATION . 2024 interciencia association
+   . all rights reserved .
+DE ENVIRONMENTAL_EDUCATION; HIGHER_EDUCATION; SUSTAINABILITY; UNIVERSITY;
+   UNIVERSITY_SOCIAL_RESPONSIBILITY
+
+
+
+--
+
+UT 13901
+AR Pérez-Robles A., 2024, FORM UNIV, V17, P139
+TI Opinions of university students of experimental sciences and technology
+   versus other subject areas on innovative classes; [Opiniones de estudiantes
+   universitarios de ciencias experimentales y tecnología sobre clases
+   innovadoras frente a otras áreas de conocimiento]
+AU Pérez-Robles A.; Delord G.; Porlán R.
+TC 2
+SO Formacion Universitaria
+PY 2024
+AB the main objective of this study is to gather THE_OPINIONS of 687
+   UNIVERSITY_STUDENTS about INNOVATIVE_CLASSES and make A_COMPARISON between
+   STUDENTS from SCIENTIFIC_TECHNICAL_AREAS to STUDENTS from OTHER_AREAS .
+   THE_OPINIONS are obtained using THE_C_RENOVES_QUESTIONNAIRE ( STUDENTS '
+   BELIEFS about INNOVATIONS in HIGHER_EDUCATION ) and are analyzed by means of
+   FACTORS and DESCRIPTIVE_STATISTICS . THE_ANALYSIS_CATEGORIES are :
+   CONTENT_TREATMENT , TEACHING_METHODOLOGY , and EVALUATION . THE_RESULTS show
+   that , according to THE_STUDENTS , THE_INNOVATIVE_CLASSES correspond to
+   TWO_OPPOSING_DIDACTIC_MODELS : one centered on THE_SUBJECT and the other on
+   LEARNING . THE_PROFESSORS are at SOME_LEVEL of TRANSITION between both ,
+   although with LESS_PROGRESS in THE_SCIENTIFIC_TECHNICAL_AREAS . it is
+   concluded that UNIVERSITY_PROFESSOR_TRAINING_PROGRAMS should be conceived
+   with LONG_TERM_STRATEGIES to promote THE_PROGRESS of PROFESSORS and that
+   THE_VISION of THE_STUDENT_BODY is necessary to improve UNIVERSITY_TEACHING .
+   2024 , centro de informacion tecnologica . all rights reserved .
+DE CIENCIAS_EXPERIMENTALES_Y_TECNOLOGIA; CLASES_INNOVADORAS;
+   EXPERIMENTAL_SCIENCES_AND_TECHNOLOGY; FORMACION_DOCENTE_UNIVERSITARIA;
+   INNOVATIVE_CLASSES; OPINIONES_DE_ESTUDIANTES_UNIVERSITARIOS;
+   OPINIONS_OF_UNIVERSITY_STUDENTS; UNIVERSITY_TEACHER_TRAINING
+
+
+
+--
+
+UT 13906
+AR Laqui W., 2024, TECNOLOGIA CIENCIAS AGUA, V15, P1
+TI Assessment of the hydrological response to precipitation and temperature
+   changes in the Peruvian Altiplano; [Evaluación de la respuesta hidrológica a
+   cambios de precipitación y temperatura en el altiplano peruano]
+AU Laqui W.; Zubieta R.; Laqui-Vilca Y.; Alfaro R.; Laqui-Vilca C.; Aragón L.
+TC 2
+SO Tecnologia y Ciencias del Agua
+PY 2024
+AB MOUNTAIN_BASINS are considered THE_HYDROLOGIC_SYSTEMS_MOST affected by
+   CLIMATE_CHANGE , estimating SIGNIFICANT_IMPACTS on WATER_RESOURCES and
+   WATER_DEMANDS . this study evaluates THE_HYDROLOGICAL_RESPONSE of
+   A_PERUVIAN_ALTIPLANO_BASIN to CHANGES in PRECIPITATION and
+   TEMPERATURE_PATTERNS . knowing in ADVANCE_THE_EFFECT of CLIMATE_CHANGE on
+   WATER_SUPPLY takes on RELEVANT_IMPORTANCE for DECISION_MAKING in_short ,
+   MEDIUM and LONG_TERM_PLANNING of WATER_USE and MANAGEMENT of WATER_RESOURCES
+   . from THE_IMPLEMENTATION of THE_INTEGRATED_MODEL of CLIMATE_CHANGE and
+   WATER_RESOURCES ( HYDROBID ) , 30 CLIMATE_SCENARIOS were evaluated that
+   considered CHANGES in PRECIPITATION between 20 and +20 % , TEMPERATURE
+   between 0 and 6 c , and COMBINATIONS of these were formulated according to
+   THE_PROJECTIONS for the study AREA available in THE_LITERATURE . THE_RESULTS
+   showed that for every 10 % increase in PRECIPITATION there was
+   AN_AVERAGE_INCREASE of 23.4 % in FLOW . while for every 10 % decrease in
+   PRECIPITATION , AN_AVERAGE_REDUCTION in FLOW of 16 % was generated .
+   likewise , it was evidenced that for every 1 C_INCREASE in TEMPERATURE , an
+   average 5 % REDUCTION in FLOW was generated . it was determined that
+   THE_VARIATION of THE_PRECIPITATION_RATES , TEMPERATURE and THEIR_INTERACTION
+   between them GENERATE_CHANGES in THE_FLOWS , showing EFFECTS on
+   THE_TEMPORAL_AND_SPATIAL_VARIATION of THE_BASIN . 2024 instituto mexicano de
+   tecnologia del agua . all rights reserved .
+DE CLIMATE_CHANGE; CLIMATE_PATTERNS; HYDROBID; HYDROLOGICAL_MODELING;
+   HYDROLOGICAL_RESPONSE
+ID ALTIPLANO; CLIMATE_CHANGE; HYDROLOGICAL_MODELING; SPATIAL_VARIATION;
+   WATER_SUPPLY; WATER_USE
+
+
+
+--
+
+UT 14041
+AR Loan L.T.K., 2024, REV MEX ING QUIMICA, V23
+TI Effect of gum arabic concentrations on drying kinetics, anthocyanin
+   degradation and product qualities of purple rice bran extract dried by foam-
+   mat technique; [Efecto de las concentraciones de goma arábiga sobre la
+   cinética de secado, la degradación de antocianinas y las cualidades del
+   producto del extracto de salvado de arroz morado secado mediante la técnica
+   de estera de espuma]
+AU Loan L.T.K.; Vinh B.T.; Tai N.V.
+TC 2
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB THIS_INVESTIGATION aimed to STUDY_THE_EFFECT of GUM_ARABIC on
+   THE_DRYING_CHARACTERISTICS , DEGRADATION_RATE of ANTHOCYANIN , and QUALITY
+   of FOAM_MAT_PRODUCT from PURPLE_RICE_BRAN . FOUR_DIFFERENT_LEVELS of
+   GUM_ARABIC ( GA ) were APPLIED ( 5 20 % ) , with THE_CONTROL_SAMPLE (
+   without using GUM_ARABIC ) for THE_FOAMING_PROCESS . FOAMING_PROPERTIES ,
+   including FOAM_EXPANSION , FOAM_STABILITY , and FOAM_DENSITY , were
+   determined and showed that THE_FLUCTUATION was found when DIFFERENT_CONTENTS
+   of GUM_ARABIC were used . in_particular , THE_HIGHEST_VALUE of
+   FOAM_EXPANSION ( 386.759.35 % ) and FOAM_STABILITY ( 94.440.09 % ) was found
+   at A_LEVEL of USAGE_GA of 10 % , while THE_LOWEST_FOAM_DENSITY ( 0.2780.021
+   % ) was observed . EMPIRICAL_MODELS were APPLIED to predict THE_CHANGE of
+   MOISTURE_CONTENT during THE_DRYING_PROCESS , showing that THE_PAGE_MODEL was
+   the fittest and gave THE_BEST_PREDICTION ( r2 > 0.98 ) at
+   VARIOUS_CONCENTRATIONS of GUM_ARABIC . besides_that , following
+   FIRST_ORDER_KINETIC , THE_LOWEST_RATE of ANTHOCYANIN_DEGRADATION occurred
+   when THE_CONCENTRATION of GA was used at THE_LEVEL of 10 % .
+   PEARSON_CORRELATION showed THE_NEGATIVE_EFFECT between
+   ANTHOCYANIN_DEGRADATION_RATE and DRYING_RATE of THE_CONSTANT of
+   THE_PAGE_MODEL . moreover , DRIED_PURPLE_RICE_BRAN_EXTRACT was added 10 % of
+   GA , which presented A_HIGH_LEVEL of ANTHOCYANIN ( 20.340.82 mg 100 g ) ,
+   MOISTURE_CONTENT of 4.260.12 % , WATER_ACTIVITY of 0.330.11 , HYGROSCOPICITY
+   of 19.820.11 g 100 g , and HIGH_ACCEPTANCE by PANELISTS 2024 , universidad
+   autonoma metropolitana . all rights reserved .
+DE DEGRADATION; DEHYDRATION; FOAM_MAT_DRYING; KINETICS; RICE_BRAN
+
+
+
+--
+

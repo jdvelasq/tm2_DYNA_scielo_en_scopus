@@ -1,0 +1,40 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+You must prepare critical review formulating a position or an opinion about the thematic cluster based on the provided abstracts. The opinion describes the relationships among the keywords and stablish a critical position about the cluster. The critical review defines what 
+is the cluster. 
+
+
+KEYWORDS DEFINING THE CLUSTER:
+adsorption; bio mass; anti oxidant; heavy metals; fermentation; anti oxidant activities; waste water; pollution; bio fuel; bio diesel; renewable energies; water quality; kinetic; stability; bioremediation
+
+
+
+CITATION:
+Use the UT record number provided in the files as reference numbers in the text. Do not use surname (year) citation style. Use the UT value between brackets to indicate the reference to the record. For example, [UT 1] means that the information is in the UT 1. Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+
+REQUIREMENTS:
+- Be sure of formulating a deep opinion or deep position about the definition of the thematic cluster.
+- Use all the provided abstracts for elaborate the critical review.
+- Be sure of using the key terms and keywords present in the papers.
+- The critical review must be based only on the provided abstracts.
+- Do NOT present introductory and conclusion sections.
+- You must write phrases adequately supported with references to the provided abstracts.
+- The generated text uses plain format.
+- Do not list the keywords defining the cluster.
+
+
+LENGTH:
+200 words
+
+
+
+
+

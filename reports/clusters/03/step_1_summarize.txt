@@ -1,0 +1,59 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+AI and data-driven technologies
+
+
+
+PARAGRAPHS TO COMBINE:
+
+The thematic cluster reflects a convergence of artificial intelligence methods and computational architectures aimed at extracting, interpreting, and classifying large-scale, heterogeneous data for enhanced efficiency across domains. A unifying feature of the documents is their reliance on machine learning and deep learning paradigms to improve prediction, classification, and decision-making processes. The adoption of support vector machines, convolutional neural networks, and natural language processing is linked to efforts in automating tasks such as depression detection with high precision and recall \[UT 14047]. The presence of fuzzy logic and artificial neural networks suggests a strong interest in hybrid systems for handling uncertainty and complex relationships in datasets \[UT 14047]. Simultaneously, the abstracts reveal a critical dependence on big data and cloud computing infrastructures, which provide the computational scalability required for real-time processing and large-volume storage \[UT 14047]. Energy efficiency emerges as a peripheral yet vital concern, especially where cloud-based AI systems are deployed, suggesting that sustainability is being integrated into technological design. The integration of IoT data with AI models underscores a shift toward context-aware systems capable of real-time classification and feedback \[UT 14047]. In essence, this cluster defines the current engineering frontier where intelligent systems are not merely computational tools but active decision-makers powered by data-intensive, learning-based architectures.
+
+---
+
+This thematic cluster centers on the convergence of computational intelligence and data-centric technologies to enhance classification, decision-making, and efficiency across diverse domains. Artificial neural networks and machine learning models are instrumental in extracting meaningful insights from complex datasets, as demonstrated in image-based medical diagnostics with high classification accuracy using neural networks \[UT 13873]. The frequent use of deep learning and support vector machines points to their role in handling large-scale, multidimensional data, especially in tasks such as pattern recognition and classification \[UT 13873]. The cluster also embraces data mining and big data analytics as essential for uncovering trends in vast datasets, reinforcing the presence of cloud computing and Internet of Things applications that demand scalable infrastructures and real-time data processing \[UT 13860]. The incorporation of fuzzy logic and energy efficiency reveals an interest in optimizing computational models not only for performance but also for sustainable implementation, reflecting technological responsibility in smart systems \[UT 13873]. Natural language processing emerges as a critical tool for managing unstructured data, aligning with artificial intelligence strategies aimed at transforming digital information into actionable knowledge. Overall, this cluster reflects a cohesive movement toward intelligent systems that are computationally efficient, scalable, and capable of automating complex human tasks across scientific and applied contexts.
+
+
+---
+
+The thematic cluster analyzed reflects a convergence between artificial intelligence techniques and the demand for efficiency in computational modeling, data processing, and intelligent decision-making across diverse domains. The abstracts reveal an emphasis on supervised learning models such as support vector machines and artificial neural networks applied to feature vector construction and composer classification based on harmonic n-grams \[UT 14056], illustrating how natural language processing tools can be repurposed for music information retrieval. These approaches rely on high-dimensional data representation and classification, echoing a broader adoption of data mining methods supported by cloud computing infrastructures. The cluster is underpinned by a shift from isolated algorithmic tasks to integrated machine learning pipelines powered by deep learning, convolutional neural networks, and big data processing. This integration fosters automated pattern recognition with applications ranging from artistic attribution to broader industrial and scientific problems. Fuzzy logic and energy efficiency—though less explicitly emphasized—suggest latent concerns with interpretability and sustainable computational practices. Altogether, the cluster defines a digital intelligence paradigm wherein artificial intelligence is not merely a computational technique, but a unifying language that facilitates classification, prediction, and optimization under complex, high-volume data environments, reflecting a transition toward intelligent, data-driven engineering solutions.
+
+---
+
+The reviewed thematic cluster is defined by the integration of artificial intelligence methodologies—especially machine learning, deep learning, and neural networks—with engineering problems that demand classification, optimization, and pattern recognition. The application of artificial neural networks to predict the compressive strength of concrete from surface images exemplifies how digital image processing and ANN models enable non-invasive evaluation in structural engineering \[UT 13847]. This operational paradigm extends to the optimization of large-scale control systems using hybrid approaches like ACO-PID, which reveal a growing emphasis on efficiency and dynamic system modeling \[UT 13845]. Underlying these applications is the exploitation of big data and data mining techniques, facilitated by cloud computing and IoT infrastructures that enhance scalability and data access. Despite their domain-specific diversity, these contributions are unified by their reliance on classification models, fuzzy logic, and convolutional architectures, all working toward energy and system efficiency. This signals a convergence of computation and engineering aiming to replace traditional deterministic systems with intelligent, adaptive, and efficient alternatives. The shared presence of predictive modeling, digital transformation, and optimization as central goals across abstracts substantiates the emergence of this cluster as a core enabler of smart engineering solutions in the SciELO indexed literature.
+
+---
+
+The reviewed cluster represents a convergence of machine intelligence techniques applied to complex classification problems in agriculture, healthcare, and digital security, with a shared emphasis on enhancing *efficiency* and *accuracy*. The predominant methodological axis is deep learning, particularly convolutional neural networks (CNNs), which are strategically tailored to context-specific constraints—such as detecting corn and weed plants in authentic field conditions through U-Net segmentation followed by classification using architectures like Xception and VGG16 \[UT 14046], or identifying microcalcifications in mammograms with lightweight CNNs that dramatically reduce parameters while preserving detection precision \[UT 14082]. Across domains, these models leverage big data and image datasets augmented with preprocessing to maximize classification performance, as shown in medical image authentication using deep context encoders for watermarking \[UT 14083], and fruit quality detection using DL algorithms achieving over 99% accuracy in multi-class settings \[UT 14173]. These applications demonstrate a critical shift from traditional algorithmic models to hybrid systems grounded in AI, machine learning, and cloud-integrated architectures, generating robust solutions under resource-constrained environments. The cross-domain implementation of artificial intelligence, ranging from fuzzy logic to support vector machines, positions this cluster as a vital enabler of operational optimization, aligning technical innovation with real-world utility and energy-efficient computational practices.

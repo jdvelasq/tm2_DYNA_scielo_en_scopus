@@ -1,0 +1,63 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Sustainability, circular economy, and environmental management
+
+
+
+PARAGRAPHS TO COMBINE:
+
+The thematic cluster reflects a convergence between environmental sustainability, innovative materials reuse, and green production processes in engineering. A shared priority across studies is the reduction of environmental impacts through the use of recycled materials—such as rice husk ash, recycled concrete, refractory brick waste, and silica fume—demonstrating efforts to mitigate cement production's carbon footprint and reduce reliance on natural resources \[UT 13879, UT 14368, UT 14647]. These materials are not only environmentally favorable but improve or maintain concrete’s mechanical performance, especially when used at optimized dosages \[UT 14363, UT 14274]. Life cycle considerations emerge through assessments of mechanical, thermal, and microstructural behaviors of recycled or substitute materials under stress and over time. In parallel, food engineering studies emphasize drying processes that enhance nutritional quality and reduce water activity in dehydrated produce, pointing to energy-efficient and low-impact methods for agricultural preservation \[UT 14081, UT 14058]. The cluster also integrates developments in eco-friendly nanomaterials—such as essential oil nanoemulsions and copper nanoparticles synthesized from microbial cell walls—emphasizing their antibacterial and anticancer properties, positioning them as alternatives to traditional toxic chemicals \[UT 13830, UT 13719]. Together, these works collectively support a broader agenda of circular economy, environmental education, and sustainable design practices grounded in applied engineering solutions.
+
+---
+
+The thematic cluster reveals an integrated focus on sustainability-oriented innovations across production systems, business strategies, education, and environmental management. Research on functional food and beverage innovations highlights the enhancement of bioactive and antioxidant properties through natural extracts, suggesting the potential of plant-based additives in reducing environmental impact while improving health outcomes \[UT 13892]\[UT 14055]. This aligns with the growing attention to life cycle considerations and quality control mechanisms aimed at ensuring eco-efficient products. Studies exploring university social responsibility emphasize the articulation of educational practices with sustainability goals and environmental education, positioning higher education as a vehicle for sustainable development and the training of socially responsible professionals \[UT 13896]. Meanwhile, investigations into green business strategies demonstrate that environmental objectives embedded in corporate strategies can mediate financial performance via corporate social responsibility initiatives \[UT 14257]. Bibliometric analyses show a rising relevance of the relationship between business costs and carbon footprint, yet they identify a critical gap in accounting practices and the need for further research on cost-environmental trade-offs \[UT 15055]. Additionally, experimental applications using agro-industrial residues, such as coffee husk ash in concrete, advance circular economy principles by evaluating mechanical performance under sustainable formulations \[UT 13885]. Altogether, this cluster defines a multidimensional approach to sustainability that integrates environmental, social, and economic perspectives into engineering research.
+
+
+---
+
+The reviewed cluster centers on environmental sustainability practices with an emphasis on biotechnological and engineering interventions addressing waste treatment, renewable energy sources, and resource valorization. Studies converge on solutions like electrocoagulation coupled with membrane filtration to remediate eutrophicated water bodies impacted by anthropogenic activity \[UT 14044], while sulfidogenic bioreactors exemplify biological strategies for managing sulfate-rich industrial effluents \[UT 14057]. The cluster extends into waste valorization, where yeast and microbial strains are positioned as cost-effective agents in bioremediation \[UT 14265], and Agave-derived lactic acid fermentation is proposed to reduce reliance on conventional starch crops, benefiting semi-desertic agricultural regions \[UT 14071]. Food engineering innovations demonstrate sustainable uses of agro-industrial by-products—such as gluten-free pasta derived from broken rice and nopal that combines phytochemical richness with sensory quality \[UT 14051], or cassava starch modified by ultrasonic treatment for increased industrial applicability \[UT 14078]. These studies are embedded in a systems approach incorporating life cycle principles, as reflected in efforts to minimize environmental impacts and costs through biodegradable materials, ergonomic processing, and circular economy frameworks. Altogether, this cluster defines a multidisciplinary pursuit of sustainable development anchored in environmental engineering, bioprocess innovation, and waste-to-resource paradigms.
+
+
+---
+
+The cluster examined articulates a multi-scalar and interdisciplinary response to environmental degradation, focusing on practices that integrate technological, economic, educational, and social perspectives toward sustainable transformation. A central thematic nexus is the adoption of circular economy principles to address excessive consumption and environmental impact, as shown by the valorization of second-hand clothing markets to reduce waste and encourage sustainable consumer behavior \[UT 13741]. Solid waste management strategies, including composting and recycling, are not only proposed as environmentally friendly alternatives but also analyzed through cost-effectiveness and quality control frameworks that underscore economic feasibility \[UT 14041]. Sustainability is also operationalized through environmental education and university social responsibility, where educational institutions are depicted as agents of behavioral change in line with Sustainable Development Goals (SDGs), fostering values such as empathy, solidarity, and citizenship \[UT 13894]. This extends to the transformation of institutional practices and policy-making, linking environmental concerns with ethics and governance. Furthermore, life cycle assessment approaches and solar energy adoption signal the relevance of technological solutions in reducing environmental impacts in agriculture and urban systems. The cluster, therefore, does not merely describe sustainability as a goal, but as a dynamic integration of technical, cultural, and institutional strategies to reconfigure human-environment relations.
+
+
+---
+
+This thematic cluster reflects a cross-disciplinary integration of environmental sustainability, agricultural practices, waste management, and technological innovation aimed at addressing pressing ecological and economic concerns. Studies emphasize environmental management as both a methodological and ethical imperative, particularly in controlling pollutants such as copper using biosurfactants derived from Agave spp., which promotes cost reduction and sustainability \[UT 14065]. Agricultural studies link quality control and environmental impact through the application of AI for early weed detection in crop fields \[UT 14046] and deep learning for fruit classification, highlighting a convergence between sustainable development and precision agriculture \[UT 14173]. The role of composting and circular practices is indirectly explored through the optimization of coffee fermentation processes, where varying immature fruit content affects not only sensory quality but also the postharvest chemical composition, aligning agricultural innovation with sustainability goals \[UT 14161]. Life cycle assessment and environmental education are implicitly addressed through efforts like the photo-Fenton oxidation of endocrine disruptors, where the goal is to reduce greenhouse gas emissions by transforming pollutants into bicarbonate, an innocuous byproduct \[UT 14088]. Collectively, this cluster defines sustainability as a systems-oriented paradigm that merges technological feasibility, environmental responsibility, and quality assurance into a cohesive framework for eco-efficient engineering practice.
+
+

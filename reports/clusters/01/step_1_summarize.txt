@@ -1,0 +1,61 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Bioremediation and bioenergy for environmental sustainability
+
+
+
+PARAGRAPHS TO COMBINE:
+
+The thematic cluster centers on eco-innovative strategies that integrate biogenic materials, waste valorization, and green synthesis to address pollution, enhance material stability, and improve water quality. Studies on nanoemulsions from essential oils \[UT 13830] and copper nanoparticles derived from bacterial polysaccharides \[UT 13719] highlight the use of biomass and fermentation byproducts for antimicrobial and antioxidant purposes, reflecting a bioremediation-driven approach to pollution control. In food systems, antioxidant activity and drying kinetics are optimized in sweet potato and peach processing to preserve nutritional quality and energy efficiency \[UT 14081, UT 14058], suggesting sustainable practices in bioresource utilization. Concurrently, the cluster expands into civil engineering through research on recycled concrete using rice husk ash \[UT 13879], refractory brick waste \[UT 14368], microporous vinyl acetate \[UT 14363], polymer binders \[UT 14274], and silica fume \[UT 14647], all aimed at reducing environmental impact while improving mechanical properties. These studies collectively signal a thematic shift toward circular economy principles, where biomass-derived agents and waste materials enhance both ecological and structural performance. The convergence of keywords underscores a shared goal: transform pollution sources into functional materials, enabling biofuel production, wastewater treatment, and stability improvements under renewable energy and low-impact frameworks.
+
+---
+
+This thematic cluster centers on biotechnological strategies for environmental sustainability through the valorization of natural resources, fermentation processes, and antioxidant enrichment. Studies demonstrate how fermentation and plant-based additives transform biomass into functional products with enhanced antioxidant properties. For example, olive leaf extract in low-alcohol beer significantly increased phenolic and polyphenolic content, boosting ABTS and DPPH radical scavenging activities, indicating its potential as a natural oxidant in food and beverages \[UT 13892]. Similarly, rose vinegar fermented with probiotic lactic acid bacteria improved total phenolic and antioxidant values, as well as product consistency and sensory acceptance \[UT 14055]. These findings underscore a convergence between fermentation and antioxidant activities as tools for improving food quality and health impact. Furthermore, these innovations align with broader sustainability goals by reducing pollution and encouraging renewable resource use. Though not always explicit, the emphasis on bioactive compound extraction, stability, and kinetic optimization reflects deeper environmental concerns, such as those discussed in bibliometric analyses on the economic and environmental impact of carbon footprints \[UT 15055]. Collectively, this cluster defines a biotechnological approach to environmental challenges, integrating antioxidant research, renewable materials, and fermentation to support pollution mitigation and water quality enhancement in engineering practices.
+
+---
+
+This thematic cluster reflects a convergence between environmental remediation and biomass valorization through bio-based processes such as adsorption, fermentation, and bioremediation. A dominant concern is wastewater treatment, addressed via electrocoagulation and membrane filtration \[UT 14044], microbial sulfate reduction \[UT 14057], and yeast-based systems with high pollutant tolerance \[UT 14265]. These interventions demonstrate reductions in COD, BOD5, and heavy metals, emphasizing kinetic efficiency and system stability. Simultaneously, fermentation is applied to valorize biomass, as seen in the use of agave residues for direct lactic acid production \[UT 14071] and the enhancement of antioxidant capacity in gluten-free pasta using nopal and broken rice \[UT 14051]. Biomass is thus repositioned as a source of functional compounds with environmental and nutritional value. Additional studies on starch–lipid complexes \[UT 14078] and probiotic microencapsulation \[UT 14809] further highlight innovations in food stability and metabolic health. Across these works, pollution and biomass are not isolated issues but integrated challenges. The cluster articulates a critical shift toward circular bioprocesses that simultaneously reduce waste, enhance water quality, and generate high-value bioproducts. These approaches point to regionally adaptable, low-cost solutions grounded in biological and physicochemical synergies.
+
+---
+
+The thematic cluster defined by terms such as *adsorption*, *biomass*, *antioxidant*, *heavy metals*, *fermentation*, *wastewater*, *biofuel*, and *bioremediation* represents an intersection of environmental remediation, sustainable energy, and bio-based technologies. Across the reviewed abstracts, there is a shared focus on leveraging biological and chemical processes to address contamination, valorize waste, and improve environmental quality—particularly water. Several studies investigate the adsorption kinetics and stability of natural materials in removing pollutants from wastewater, highlighting both *adsorption capacities* and *mechanistic pathways* that govern these interactions \[UT 14041]. The inclusion of *heavy metals* and *pollution* underscores the urgent challenge of water quality deterioration in industrial and agricultural contexts. *Biomass* and *fermentation* emerge not only as waste-derived inputs but also as platforms for producing *biofuels* and *biochemicals*, reinforcing the dual environmental-economic value of biotechnological interventions. Meanwhile, *antioxidant activity* is examined as a functional parameter in evaluating stability and degradation dynamics, particularly in food-related matrices \[UT 14041], connecting the environmental and nutritional relevance of the studied materials. *Kinetic models* such as the Page model are employed to predict the drying and degradation behaviors of bio-based extracts, indicating a strong emphasis on modeling and optimization. The cluster is thus characterized by a systems-level view of circularity, wherein waste is revalorized through bioprocesses (fermentation, drying, bioremediation) and analytical rigor (kinetic modeling, antioxidant assessment) to restore ecological stability and develop renewable energy vectors. This convergence suggests a paradigm where engineering research does not simply study pollutants or biofuels in isolation, but instead integrates them within holistic solutions for sustainability, particularly in water-intensive and pollution-sensitive contexts. The recurrence of terms like *stability*, *adsorption*, *biofuel*, and *bioremediation* across studies further anchors this thematic core in the environmental and energy engineering domain.
+
+
+---
+
+The reviewed cluster focuses on environmentally sustainable technologies applied to pollution mitigation, particularly through the removal or transformation of hazardous contaminants using natural or low-impact processes. A central theme is the remediation of water contamination by heavy metals and endocrine disruptors through biosorption and advanced oxidation. The use of calcium hydroxide and biosurfactants from *Agave spp.* in spherical agglomeration demonstrates high efficiency in copper removal under varying pH conditions, reaching up to 98.73% effectiveness \[UT 14065]. This highlights a scalable, cost-effective strategy for treating contaminated water. Similarly, the oxidation of 17β-estradiol via photo-Fenton processes prioritizes the transformation of pollutants into benign bicarbonate rather than CO₂, framing environmental safety not only in terms of removal but transformation pathways \[UT 14088]. Complementing these methods, fermentation-based bioprocesses play a dual role in valorizing biomass and controlling biochemical stability. In the context of coffee production, spontaneous anaerobic fermentation alters the chemical profile while preserving beverage quality, even with a high percentage of immature fruits, suggesting robust biochemical stability \[UT 14161]. Collectively, this cluster integrates chemical, biological, and ecological principles to address pollution and biomass transformation challenges through renewable, efficient, and environmentally mindful practices.
+
+

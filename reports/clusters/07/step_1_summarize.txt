@@ -1,0 +1,61 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Epidemiology and public health
+
+
+
+PARAGRAPHS TO COMBINE:
+
+The thematic cluster reflects a convergence between epidemiological surveillance, zoonotic disease dynamics, and biomedical innovations targeting public health resilience. Across the abstracts, infectious diseases such as COVID-19, dengue, malaria, and canine-transmitted illnesses are examined not only for their prevalence and risk factors but also for their complex interactions with social determinants and environmental conditions \[UT 13719, UT 13830]. The research emphasizes the growing role of early detection, risk prevention, and the evaluation of prevalence in both human and animal populations, particularly cattle and dogs \[UT 13719, UT 13830]. This dual-species focus suggests a One Health approach where public health interventions acknowledge the interconnectedness of human and veterinary epidemiology. Concurrently, social media emerges as a novel data source for the identification of mental health issues such as depression, suggesting a shift toward digital epidemiology \[UT 14047]. Innovative biotechnological solutions—such as essential oil-based nanoemulsions and bacterial-cell-wall-mediated nanoparticles—are investigated for their antimicrobial efficacy, indicating a drive to address microbial resistance and improve biomedical controls \[UT 13830, UT 13719]. Collectively, this cluster defines a thematic intersection of infectious disease control, public health surveillance, and biotechnological innovation, with strong implications for pandemic preparedness, zoonosis containment, and health communication in the digital age.
+
+---
+
+The thematic cluster represented by the provided abstracts reveals an integrated concern in engineering research with zoonotic diseases, vector-borne infections, and public health responses under stress from both endemic and pandemic conditions. Studies address the prevalence of diseases like dengue and malaria in relation to environmental and socio-demographic risk factors \[UT 13874], highlighting the role of vector control and geographic clustering in public health surveillance \[UT 13956]. Research involving dogs and cattle points to their relevance as sentinel species or direct participants in the epidemiological cycles of zoonoses \[UT 13968], reinforcing the need to consider interspecies transmission in risk assessment frameworks. The COVID-19 pandemic emerges not just as a health crisis but as a catalyst exposing systemic vulnerabilities in prevention and control strategies \[UT 13870], further emphasized by the mobilization of social media as a mechanism for health communication and epidemiological modeling \[UT 13888]. In parallel, engineering-oriented approaches propose the integration of environmental, climatic, and socioeconomic variables to forecast disease occurrence and define prevention zones \[UT 13943]. Collectively, this cluster positions engineering journals as platforms for multidisciplinary convergence, where disease modeling, stress factor analysis, and public health strategies coalesce around the need to manage both endemic and emergent biological threats through informed, data-driven, and species-inclusive methodologies.
+
+
+---
+
+The thematic cluster represents an engineering-oriented engagement with epidemiological phenomena, addressing the surveillance, transmission, and management of infectious diseases in animals and humans through a multidisciplinary lens that links public health, zoonoses, and environmental stressors. The studies converge on epidemiological tracking of diseases such as dengue, malaria, COVID-19, and canine infections, often focusing on *prevalence*, *risk factors*, and *prevention strategies* across species \[UT 14065], \[UT 14067], \[UT 14068], \[UT 14070], \[UT 14072], \[UT 14073]. Several papers emphasize *controls* and *public health* mechanisms to curb the spread of vector-borne diseases, pointing to the role of environmental and *social stresses* \[UT 14064], \[UT 14069], and advocating *surveillance* protocols rooted in *epidemiological models* \[UT 14063]. The inclusion of studies on *dogs*, *canines*, and *cattle* reflects a One Health approach that considers human-animal-environment interfaces \[UT 14066], \[UT 14071], while discussions of *social media* as a public health communication tool during the *pandemic* illustrate the incorporation of digital technologies in disease mitigation \[UT 14070]. This cluster can thus be critically defined as a technoscientific effort to model, monitor, and intervene in complex infectious disease ecologies through integrated engineering and biomedical strategies aimed at resilience, control, and health outcomes across human and animal populations.
+
+---
+
+The thematic cluster articulates a multidisciplinary response to zoonotic and vector-borne diseases under a public health lens, highlighting the epidemiological complexity and social dimensions of contemporary health crises. The studies converge on the characterization of disease prevalence and risk factors in both human and animal populations, particularly concerning dengue, malaria, canine and cattle-related illnesses, and COVID-19. There is a persistent focus on spatial and temporal analysis of disease dynamics and their association with environmental and social variables, such as “the incidence of canine visceral leishmaniasis in an endemic area of the municipality of Bauru, São Paulo” \[UT 13789], or “identifying the influence of urban green spaces and health factors in COVID-19 spread” \[UT 13810]. Epidemiological modeling and statistical surveillance are repeatedly employed to inform prevention strategies and public health controls, with studies proposing specific indicators or indices—such as the “Dengue Transmission Risk Index” \[UT 13792]—to facilitate localized decision-making. The intersection with digital tools and social media for risk communication, as in “social networks as a mechanism for the prevention of COVID-19” \[UT 13794], demonstrates an evolving concern with the sociotechnical mediators of public perception and health behavior. Altogether, the cluster defines an engineering-based contribution to One Health, where disease surveillance, spatial modeling, environmental stresses, and preventive technologies are strategically integrated.
+
+---
+
+The thematic cluster revolves around the intersection of zoonotic and vector-borne diseases, public health preparedness, and epidemiological surveillance, framed by the environmental, biological, and social factors that influence disease spread and control. This cluster integrates diverse case studies—from viral pandemics like COVID-19 and endemic diseases such as dengue and malaria, to zoonoses involving dogs and cattle—demonstrating how environmental stresses, animal reservoirs, and social behavior converge to shape health risks. Several studies emphasize the identification of risk factors in both human and animal populations, highlighting the prevalence of diseases among dogs \[UT 13651] and cattle \[UT 13703], as well as the implications of co-infections \[UT 13598]. The role of social media in public awareness \[UT 13776] and the importance of coordinated prevention and control strategies \[UT 13651, UT 13682, UT 13700] reveal a growing concern for communication and policy effectiveness in public health. The impact of the COVID-19 pandemic emerges as a unifying stressor, altering disease dynamics, healthcare capacity, and surveillance systems \[UT 13644, UT 13674, UT 13700]. Collectively, the cluster foregrounds a complex epidemiological landscape where integrated approaches—spanning veterinary science, human medicine, environmental monitoring, and digital communication—are essential for effective disease prevention and public health resilience.
+
+

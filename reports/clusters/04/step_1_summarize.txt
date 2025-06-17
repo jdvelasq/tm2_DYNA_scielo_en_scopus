@@ -1,0 +1,60 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Engineering materials and structural analysis
+
+
+
+PARAGRAPHS TO COMBINE:
+
+This thematic cluster reveals a coherent orientation toward environmental sustainability through biotechnological interventions in pollution control, energy recovery, and wastewater treatment. At its core, the cluster is defined by the integration of *biomass conversion* and *adsorption-based remediation* strategies as solutions to *heavy metal pollution* and *wastewater contaminants*. Techniques such as fermentation and antioxidant activity analysis emerge as recurrent methods for evaluating *stability* and *efficiency* in the recovery of *biofuels* and *biodiesel* from renewable sources \[UT 3, UT 5]. The frequent use of kinetic modeling and antioxidant assays \[UT 2, UT 7] reflects a strong empirical orientation focused on optimizing environmental parameters and pollutant removal performance. Notably, the convergence of *bioenergy* and *bioremediation* signifies a systemic view where environmental remediation is not merely a process of waste removal, but an opportunity for circular resource utilization \[UT 4, UT 6]. The cluster also demonstrates an applied focus, often grounded in case-specific contaminants and agricultural or industrial residues, reaffirming the dual concern for *pollution abatement* and *resource valorization* \[UT 1, UT 8]. Thus, this cluster embodies a pragmatic but scientifically rigorous path toward ecological restoration and sustainable energy recovery through bio-based technologies.
+
+---
+
+The reviewed thematic cluster consolidates advanced material characterization and enhancement strategies in civil and chemical engineering, prioritizing the integration of waste-based and nano-scale components to improve performance metrics such as mechanical strength, durability, and rheology. A significant trend is the use of agricultural residues, such as coffee husk ash combined with polypropylene fibers, which impact compressive, tensile, and bending resistance, although mechanical characteristics may remain lower than standard designs \[UT 13885]. Finite element methods and numerical simulations are fundamental to modeling material behavior under varying stress conditions, especially in microstructure and corrosion studies. Several studies emphasize the physicochemical and bioactive characterization of functional materials, as seen in enriched beer and probiotic vinegars, where antioxidant potential and compound stability (e.g., oleuropein, phenolic acids) are key \[UT 13892, UT 14055]. These biochemical enhancements parallel durability considerations in construction materials. Additionally, sustainability emerges as a critical dimension, with fly ash, bio-wastes, and chitosans being valorized as input materials, promoting eco-efficient practices. The convergence of computational fluid dynamics with empirical material testing highlights a methodologically robust approach, ensuring predictive accuracy and practical viability in engineering applications. This thematic cluster, therefore, defines itself by its dual emphasis on experimental material optimization and simulation-assisted evaluation of structural and functional properties.
+
+---
+
+The reviewed cluster focuses on the integration of computational modeling, nanostructured materials, and advanced treatment processes to enhance the mechanical, rheological, and environmental performance of engineered and natural systems. Finite element techniques and microstructural characterizations underpin studies on compressive strength and corrosion resistance in metallic and concrete-based materials \[UT 13711]. The emphasis on ultrasound-assisted complexation \[UT 14078] and microencapsulation using chitosan-based carriers \[UT 14809] illustrates a growing interest in manipulating nano- and micro-scale structures to improve durability, thermal stability, and bioactivity. Simultaneously, numerical simulations and kinetic modeling guide innovations in wastewater treatment, notably in electrocoagulation and sulfate-reducing bioreactors \[UT 14044, UT 14057], where pollutants are removed with enhanced efficiency. Yeast-based bioremediation presents a complementary low-cost alternative, demonstrating tolerance to extreme conditions \[UT 14265]. Experimental approaches are increasingly coupled with computational fluid dynamics and simulation models, allowing for the optimization of process parameters and property prediction. The convergence of chemical modification, bio-based materials (e.g., agave-derived lactic fermentation \[UT 14071]), and rheological control shows how waste and byproducts are valorized in the search for sustainable solutions. Collectively, the cluster embodies a shift toward multifunctional materials and systems whose properties are deliberately engineered to respond to environmental and mechanical demands.
+
+
+---
+
+The thematic cluster centers on the use of numerical simulations and characterization techniques to optimize the mechanical performance, durability, and microstructural properties of construction materials, particularly concrete, through innovations in material composition and modeling. One approach employs digital image processing coupled with artificial neural networks to estimate compressive strength from surface images, allowing non-destructive evaluation of reinforced concrete buildings \[UT 13847]. Simultaneously, finite element analysis and computational fluid dynamics are used as core simulation tools to predict structural behavior and flow properties, facilitating performance optimization under different environmental and loading conditions. The integration of nanoparticles and waste materials, such as fly ash, highlights a trend toward enhancing rheological properties and corrosion resistance, improving both environmental sustainability and durability \[UT 14041]. Additionally, the inclusion of chitosans and other novel additives is oriented toward boosting mechanical properties and long-term stability. Rheological studies and kinetic models contribute to understanding the degradation and moisture transport processes, thereby informing material design with greater precision. The cluster reflects a broader scientific endeavor to replace empirical design with simulation-driven and data-informed methodologies, grounded in rigorous characterization and microstructural analysis. This synthesis of experimental validation and predictive modeling supports a shift toward sustainable, high-performance materials in civil engineering contexts.
+
+---
+
+The reviewed thematic cluster reveals a strong convergence between material sciences and environmental engineering through the integration of simulation techniques, durability analysis, and waste-based innovation in construction materials. Numerical simulations such as finite element analysis and computational fluid dynamics are fundamental for understanding microstructural and mechanical behaviors, particularly in the development of concretes enhanced with pyrite, corundum, and water-retaining polymers to improve surface wear resistance and tensile strength \[UT 14254]. These material innovations are tied to environmental sustainability through the use of wastes and biosurfactants, as shown in copper removal processes that employ Agave extracts and pH-optimized agglomeration methods to ensure high heavy metal extraction with minimal ecological impact \[UT 14065]. Likewise, the transformation of endocrine disruptors like estradiol into bicarbonate via photo-Fenton processes prioritizes oxidation that avoids greenhouse gas generation \[UT 14088]. These approaches emphasize not only mechanical property enhancement and structural integrity but also eco-compatible performance. The use of characterization techniques like SEM and XRD supports a deeper understanding of material behavior, complementing rheological and compressive strength evaluations. This thematic cluster is defined by a synergistic focus on durability, efficiency, environmental remediation, and scientific characterization, where simulations and experimental methods converge to solve challenges in infrastructure and sustainability.
+

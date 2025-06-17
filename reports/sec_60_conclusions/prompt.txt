@@ -1,0 +1,36 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a bibliometric analysis paper about the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write the conclusions section of the bibliometric analysis paper.
+
+
+PAPER TITLE:
+Mapping the Structure and Thematic Landscape of Latin American Engineering Journals Indexed in SciELO and Scopus
+
+
+PAPER ABSTRACT:
+This study presents a comprehensive bibliometric and network-based analysis of engineering journals edited in Latin America that are indexed in SciELO and Scopus. The objective is to explore the structural, thematic, and citation-based interrelationships that shape the regional landscape of engineering research. First, a cross-correlation map of Scopus subject areas is used to assess the disciplinary scope of the journals. Performance indicators for authors, institutions, countries, and journals are then examined to identify leading contributors and research hubs. Author keywords are analyzed to uncover thematic trends and terminological consistency. Inter-journal relationships are further investigated through a keyword-based correlation map, highlighting thematic proximity. A citation network reveals direct referencing behaviors, while co-citation and bibliographic coupling networks offer insights into intellectual linkages across the journal set. Finally, a co-occurrence analysis of author keywords identifies dominant research themes and emerging clusters. The results provide a multidimensional understanding of Latin America’s engineering journals, highlighting their contributions to regional scientific development, thematic specialization, and integration within the global scholarly ecosystem
+
+
+SCIELO OVERVIEW:
+The Scientific Electronic Library Online (SciELO) is a cooperative open-access publishing platform launched in 1998 to enhance the visibility, accessibility, and quality of scientific journals from Latin America and other regions in the Global South (Packer et al., 1998; Gómez et al., 2014). Developed by BIREME/PAHO and FAPESP, SciELO offers a robust infrastructure for indexing, publishing, and disseminating peer-reviewed scholarly content, with a strong emphasis on regional integration and multilingual dissemination (Meneghini et al., 2006). It is vital to democratize access to scientific knowledge, particularly for researchers, institutions, and countries that are often underrepresented in mainstream citation databases, such as Web of Science and Scopus. Today, SciELO includes over a thousand journals across disciplines and has become a strategic platform for fostering scientific communication in Latin America. Its alignment with global indexing standards has increased international visibility, with many SciELO journals now also indexed in Scopus (Collazo-Reyes, 2014). Understanding the interrelationships between these journals offers valuable insights into regional collaboration, thematic specialization, and knowledge flows within and beyond Latin America.
+
+
+JUSTIFICATION:
+Despite the recognized importance of SciELO in promoting regional scientific visibility, there is a limited amount of comprehensive research on the structural and thematic interrelationships among Latin American journals indexed simultaneously in SciELO and Scopus, particularly in the field of engineering. 
+
+
+PAPER OBJECTIVES:
+Despite the recognized importance of SciELO in promoting regional scientific visibility, there is a limited amount of comprehensive research on the structural and thematic interrelationships among Latin American journals indexed simultaneously in SciELO and Scopus, particularly in the field of engineering. This study aims to fill that gap by providing an in-depth bibliometric and network-based analysis of engineering journals published in Latin America and indexed in both databases. The analysis begins by examining the disciplinary breadth of these journals through a cross-correlation map of Scopus subject areas assigned at the journal level, highlighting the distribution and overlap of thematic fields. Fundamental performance indicators—such as publication volume and citation impact—are assessed for authors, institutions, countries, and journals to identify leading contributors. Furthermore, author keywords are analyzed to explore thematic patterns and terminological consistency. A correlation map based on shared author keywords studies the interrelation among journals, where stronger connections imply higher thematic similarity. In addition, a citation network reveals the direct referencing structure among journals, while co-citation and bibliographic coupling analyses uncover indirect intellectual linkages. Finally, a co-occurrence network of author keywords is used to identify dominant research themes and conceptual clusters within the engineering literature. Together, these analyses provide a multidimensional view of the structure, dynamics, and thematic orientation of engineering research in Latin America, offering valuable insights into regional integration, collaboration, and visibility in the global scientific landscape.
+
+
+LENGTH:
+200 words.
+
+

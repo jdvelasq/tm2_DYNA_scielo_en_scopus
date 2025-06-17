@@ -1,0 +1,61 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes published in the engineering journals indexed in SciELO. 
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+120 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+- Be sure of name of the cluster can be infered from the text.
+- Do not use explicity the name of the cluster in the text.
+
+
+CLUSTER NAME:
+Climate modeling and risk assessment
+
+
+
+PARAGRAPHS TO COMBINE:
+
+The reviewed thematic cluster represents a multidisciplinary approach to environmental engineering that integrates mathematical modeling and simulations with real-world challenges in climate dynamics, pollution control, and resource vulnerability. Remote sensing and geostatistical tools are employed to support dynamic system simulations, enabling more accurate modeling of precipitation and temperature impacts on water resources and air pollution. These models are pivotal for understanding and mitigating the effects of climate change, especially in terms of risk assessment and environmental vulnerability \[UT 13879], \[UT 14368]. The use of mathematical models and simulations to predict the effects of elevated temperatures on structural integrity \[UT 14368], or to evaluate the drying kinetics in food engineering \[UT 14058], exemplifies the cluster's reliance on numerical tools to optimize environmental and material processes. Modeling efforts are often accompanied by risk and accessibility assessments, highlighting their value in formulating adaptive strategies for sustainable infrastructure and resilient urban systems. The recurrent emphasis on simulation under varying temperatures, whether in the context of materials \[UT 14363], agricultural drying \[UT 14081], or environmental pollution dynamics, reveals a shared methodological core. Thus, this cluster can be critically defined as the application of advanced computational and statistical modeling to analyze, simulate, and manage environmental systems exposed to climatic and anthropogenic stressors.
+
+---
+
+The thematic cluster is characterized by the integration of environmental modeling techniques, geospatial analysis, and risk assessment methodologies to address climate-related vulnerabilities and sustainability concerns. The studies reveal a strong emphasis on simulations and mathematical modeling to evaluate natural phenomena such as precipitation \[UT 13040], temperature variation, and water resources under scenarios of climate change. These models are frequently supported by remote sensing technologies, which provide the spatial resolution necessary for accurate regional analysis \[UT 13040]. Risk and vulnerability assessments emerge as crucial applications of these tools, particularly when analyzing dynamic systems affected by environmental pressures. For instance, bibliometric analyses identify a gap in accounting research related to carbon footprint assessments, calling for future studies to incorporate human factors and optimization models \[UT 15055]. Accessibility, both in terms of spatial reach and data availability, intersects with the concept of environmental justice, as environmental education highlights the social dimension of sustainability and promotes responsibility in professional training \[UT 13896]. Additionally, the interdependence between environmental objectives and financial performance is acknowledged through green business strategies, where risks and benefits are evaluated from both ecological and economic perspectives \[UT 14257]. Overall, this cluster represents a convergence of computational and conceptual tools for understanding and mitigating the multifaceted risks posed by climate variability and anthropogenic impact.
+
+---
+
+This thematic cluster centers on environmental systems modeling and simulations that aim to analyze and mitigate the effects of climate variability and anthropogenic pollution on natural resources, particularly water. The studies converge around the application of mathematical and dynamic models to quantify risks, simulate environmental processes, and evaluate interventions under climate change scenarios. Remote sensing data and geostatistical methods enable spatial and temporal analyses of variables such as precipitation, air pollution, and water temperature, forming the empirical basis for simulations that assess vulnerability and support risk assessments in various contexts \[UT 14044], \[UT 14057], \[UT 14265]. These modeling efforts are not limited to theoretical constructs; they are employed to inform practical strategies for water treatment and environmental remediation through technologies like electrocoagulation and biological sulfate-reducing systems, where dynamic system behavior and reaction rates are central to evaluating system efficiency \[UT 14044], \[UT 14057]. Moreover, the cluster critically addresses how accessibility to water resources is compromised by pollution, reinforcing the relevance of robust modeling frameworks to predict and manage future scenarios. Overall, this cluster defines itself by the integration of simulations, environmental monitoring, and risk modeling to provide actionable insights into the dynamics of water and atmospheric systems under stress.
+
+---
+
+The thematic cluster examined in the selected abstracts revolves around integrated environmental modeling to assess the impact of climate change on hydrological systems, resource vulnerability, and spatial risk analysis. It is defined by the synergy between simulation techniques, mathematical modeling, and geo-statistical tools to evaluate alterations in water dynamics due to variations in temperature and precipitation. One study explicitly quantifies the hydrological response of a Peruvian altiplano basin under 30 climate scenarios, revealing that a 10% increase in precipitation results in a 23.4% increase in flow, while a 1°C rise in temperature leads to a 5% reduction in flow, illustrating the compounded effects of climate change variables on water resources \[UT 13906]. The use of integrated models like HYDROBID confirms the relevance of dynamic systems modeling in forecasting flow variation and vulnerability. Furthermore, the findings emphasize the importance of remote sensing and spatial analysis in capturing the temporal and spatial variability of basin responses \[UT 13906]. Overall, the cluster reflects a multidimensional approach where mathematical and geo-statistical modeling supports risk assessment and informs long-term planning under climate uncertainty, positioning simulations as critical tools for managing environmental accessibility and assessing vulnerabilities in water-stressed regions.
+
+
+---
+
+The thematic cluster is grounded in the integration of modeling, simulation, and geospatial analysis to address environmental vulnerabilities and dynamic systems related to water resources, atmospheric conditions, and climate change. The cluster coherently links physical phenomena—such as precipitation, temperatures, and air pollution—with predictive tools like mathematical modeling and geostatistics, thereby enabling risk assessment and decision-making under uncertainty. The use of remote sensing technologies and climate simulations serves as the empirical foundation for evaluating environmental risks and accessibility issues, particularly in scenarios characterized by dynamic, unstable conditions. Climate change is not merely a background phenomenon but a central driver influencing the need for sophisticated tools that assess vulnerability and simulate environmental impact. The concept of dynamic systems emerges from studies that characterize variability and feedback within ecological and hydrological processes, further justifying the emphasis on simulations and modeling as essential instruments. Moreover, these methods allow for fine-grained analyses of spatial patterns and the development of risk maps, which enhance the accuracy of risk assessments. This cluster constitutes a critical frontier in engineering research, where the convergence of computational techniques and environmental science forms the basis for resilient planning and mitigation strategies in response to climate-induced risks \[UT 14088; UT 14065; UT 14161; UT 14250; UT 14254].
+
+

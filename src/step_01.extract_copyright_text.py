@@ -9,7 +9,7 @@ def generate_copyright_text():
     text = ExtractCopyrightText(
         pattern=None,
         n_chars=140,
-        root_directory="../",
+        root_directory="./",
     ).run()
 
     with open("../temp/copyright_text.txt", "w") as f:
@@ -19,7 +19,7 @@ def generate_copyright_text():
 
 
 def collect_descriptors():
-    CollectDescriptors(root_directory="../").run()
+    CollectDescriptors(root_directory="./").run()
 
 
 collect_descriptors()

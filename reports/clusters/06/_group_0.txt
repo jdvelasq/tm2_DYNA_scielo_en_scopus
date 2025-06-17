@@ -1,0 +1,427 @@
+UT 13830
+AR Hashem A.H., 2024, ELECTRON J BIOTECHNOL, V68, P20
+TI A novel nanoemulsion based on clove and thyme essential oils:
+   Characterization, antibacterial, antibiofilm and anticancer activities
+AU Hashem A.H.; Doghish A.S.; Ismail A.; Hassanin M.M.H.; Okla M.K.; Saleh
+   I.A.; Abdelgawad H.; Shehabeldine A.M.
+TC 10
+SO Electronic Journal of Biotechnology
+PY 2024
+AB background : ESSENTIAL_OIL_NANOEMULSIONS have received MUCH_ATTENTION in
+   THE_LAST_PERIOD due_to THEIR_ABILITY to fight MICROBES and CANCERS . in the
+   CURRENT_STUDY , CLOVE_AND_THYME_ESSENTIAL_OILS_CL+TH_EMULSION and
+   CL+TH_NANOEMULSION were prepared through AN_ECO_FRIENDLY_METHOD . the
+   prepared CL+TH_NANOEMULSION was characterized using DLS and TEM_ANALYSES .
+   results : RESULTS revealed that CL+TH_NANOEMULSION_DROPLETS were spherical
+   in SHAPE and NANOFORM in SIZE ( 68.6 nm ) with PDI 0.281 .
+   MIC_CONCENTRATIONS of CL+TH_NANOEMULSION against TESTED_BACTERIA were found
+   to be between 6.25 and 25 MG_ML . after being EXPOSED_TO_MICS of
+   CL+TH_EMULSION and CL+TH_NANOEMULSION , which additionally prompted 1.43 LOG
+   and 3.12 LOG declines , accordingly , as_opposed_to untreated ( CONTROL ) ,
+   THE_NUMBER of CELLS grown in THE_GENERATED_BIOFILMS decreased . furthermore
+   , CL+TH_NANOEMULSION exhibited ANTICANCER_ACTIVITY more than CL+TH_EMULSION
+   toward hepg2 and mcf 7 . also , THE_EFFECT of CL+TH_NANOEMULSION is more
+   effective and significantly CYTOTOXIC than TAXOL on mcf 7 . besides ,
+   BOTH_PREPARED_EMULSIONS increased THE_RATE of APOPTOSIS and decreased the
+   CELL_VIABILITY % of mcf 7 by increasing THE_ACTIVITY of CASPASES 8 and 9 .
+   moreover , CL+TH_NANO_EMULSION decreased THE_ACTIVITY of VEGFR 2 in mcf 7 in
+   A_MORE_PRONOUNCED_MANNER than CL+TH_EMULSION and TAXOL . CONCLUSIONS : the
+   prepared CL+TH_NANOEMULSION had ANTIBACTERIAL , and ANTIBIOFILM as_well_as
+   ANTICANCER_PROPERTIES , which can be used in
+   DIFFERENT_BIOMEDICAL_APPLICATIONS after EXTENSIVE_STUDIES_IN_VIVO . how to
+   cite : HASHEM_AH , doghish as , ISMAIL a , et al . A_NOVEL_NANOEMULSION
+   based on CLOVE_AND_THYME_ESSENTIAL_OILS : CHARACTERIZATION , ANTIBACTERIAL ,
+   ANTIBIOFILM and ANTICANCER_ACTIVITIES . electron j biotechnol 2024.68 .
+   https : / doi . org 10.1016 j . ejbt.2023.12.001 . 2023 pontificia
+   universidad catolica de valparaiso
+DE ANTIBACTERIAL_ACTIVITY; ANTIBIOFILM_ACTIVITY; ANTICANCER_ACTIVITY;
+   BIOFILM_INHIBITION; BIOMEDICAL_APPLICATIONS; CLOVE_OIL; DLS
+   (DYNAMIC_LIGHT_SCATTERING); ESSENTIAL_OILS; NANOEMULSION; TEM
+   (TRANSMISSION_ELECTRON_MICROSCOPY); THYME_OIL
+ID BACTERIA; BIOFILMS; CELL_DEATH; DYNAMIC_LIGHT_SCATTERING; EMULSIFICATION;
+   HIGH_RESOLUTION_TRANSMISSION_ELECTRON_MICROSCOPY; MEDICAL_APPLICATIONS;
+   MICROWAVE_INTEGRATED_CIRCUITS; ESSENTIAL_OIL; PACLITAXEL; SIGMA_CHEMICAL;
+   VASCULOTROPIN_RECEPTOR_2; ANTI_BACTERIAL_ACTIVITY; ANTIBIOFILM_ACTIVITY;
+   ANTIBIOFILMS; ANTICANCER_ACTIVITIES; BIOFILM_INHIBITIONS;
+   BIOMEDICAL_APPLICATIONS; CLOVE_OIL; DYNAMIC_LIGHT_SCATTERING;
+   DYNAMIC_LIGHT_SCATTERING; DYNAMIC_LIGHT_SCATTERINGS; NANOEMULSION;
+   THYME_OIL; TRANSMISSION_ELECTRON_MICROSCOPY; ANTIBACTERIAL_ACTIVITY;
+   ANTIBIOFILM_ACTIVITY; ANTINEOPLASTIC_ACTIVITY; APOPTOSIS; ARTICLE; BIOFILM;
+   CELL_GROWTH; CELL_VIABILITY; CONTROLLED_STUDY; HUMAN; HUMAN_CELL;
+   MCF_7_CELL_LINE; NANOEMULSION; PHOTON_CORRELATION_SPECTROSCOPY;
+   ESSENTIAL_OILS
+
+
+
+--
+
+UT 13879
+AR Pérez S.P.M., 2024, J APPL RES TECHNOL, V22, P138
+TI Use of recycled concrete and rice husk ash for concrete: A review
+AU Pérez S.P.M.; Sánchez-Díaz E.; Barboza-Culqui D.; García J./3
+TC 10
+SO Journal of Applied Research and Technology
+PY 2024
+AB THE_RAPID_DEVELOPMENT of POPULATIONS and THE_DEMAND for CONCRETE_CONSUMPTION
+   are generating THE_NEED to produce GREATER_QUANTITIES of CEMENT , which has
+   NEGATIVE_EFFECTS on THE_ENVIRONMENT . approximately 0.87 kg of co2 are
+   produced per CEMENT_PRODUCTION . in_addition , THE_USE of AGGREGATES is
+   generating GREAT_CONCERN in THE_CONSTRUCTION_INDUSTRY , due_to THE_COST and
+   RESTRICTION of AGGREGATES . similarly , THE_ACCUMULATION of
+   RECYCLED_CONCRETE_AGGREGATE ( RCA ) and RICE_HUSK_ASH ( RHA ) contributes to
+   POLLUTION . therefore , THE_OBJECTIVE of THIS_MANUSCRIPT is to
+   REVIEW_THE_LITERATURE of RECENT_YEARS on THE_USE of RCA and RHA and
+   THE_EFFECT it generates on THE_VARIOUS_PROPERTIES of CONCRETE .
+   for_this_purpose , INDEXED_ARTICLES were used , between THE_YEARS 2017 2021
+   , with A_TOTAL of 80 INDEXED_ARTICLES evaluated . THE_LITERARY_ANALYSIS
+   shows THE_MOST_OUTSTANDING_RESULTS including THESE_MATERIALS that , when 8 %
+   RHA is added , THE_CONCRETE reaches A_COMPRESSIVE_STRENGTH of up to 70 MPA .
+   as_well_as THE_FLEXURAL_STRENGTH by adding A_COMBINATION 50 % RCA + 1.50 %
+   BASALT microfibers where it increases up to 29.44 % . on_the_other_hand ,
+   when 15 % RHA is added , A_COMPRESSIVE_STRENGTH of 48.8 MPA is achieved .
+   in_turn , THE_FLEXURAL_STRENGTH with 10 % seashell for THE_FINE_AGGREGATE
+   and 20 % RHA for THE_CEMENT , reaches A_STRENGTH of up to 65 MPA .
+   in_conclusion , THE_BEHAVIOR of CONCRETE undoubtedly depends on
+   THE_PROPORTIONS of RCA or RHA . however , THE_PERCENTAGES should not exceed
+   8 % and 15 % , respectively . 2024 universidad nacional autonoma de mexico .
+   all rights reserved .
+DE CEMENT; CONCRETE; MECHANICAL_PROPERTIES; RECYCLED_CONCRETE; RICE_HUSK_ASH
+
+
+
+--
+
+UT 14363
+AR Chaname J., 2024, REV POLITEC, V53, P17
+TI Improvement of the Mechanical Properties of Structural Concrete Using
+   Microporous Ethylene Vinyl Acetate; [Mejoramiento de las Propiedades
+   Mecánicas del Concreto Estructural Utilizando Microporoso Etileno Acetato de
+   Vinilo]
+AU Chaname J.; García J./3; Arriola G.
+TC 8
+SO Revista Politecnica
+PY 2024
+AB over THE_YEARS , THE_WORLD has tried to increase THE_RECYCLING of MATERIALS
+   , ESPECIALLY_THOSE of ARTIFICIAL_ORIGIN , this in_order_to produce COMPOUNDS
+   that are SUSTAINABLE and SUSTAINABLE . among_these MATERIALS , CONCRETE
+   stands out as A_VERSATILE_ELEMENT , to which DIFFERENT_EXTERNAL_AGENTS can
+   be added . however , since many of them are not compatible with AGGREGATES ,
+   CEMENT or WATER , can CAUSE_SOME_ALTERATIONS in THEIR_MECHANICAL_PERFORMANCE
+   . therefore , THE_PRESENT_INVESTIGATION addressed the study of
+   AN_ARTIFICIAL_MATERIAL called MICROPOROUS_ETHYLENE_VINYL_ACETATE ( MEVA ) ,
+   in_order_to EVALUATE_ITS_INFLUENCE on THE_MECHANICAL_PROPERTIES of
+   STRUCTURAL_CONCRETE . MEVA_ADDITIONS were used in RANGES of 5.00 % , 10.00 %
+   , 15.00 % and 20.00 % with_respect_to THE_VOLUME of CONCRETE , to analyze
+   ITS_BEHAVIOR in THE_MIX , both in PHYSICAL_AND_MECHANICAL_PROPERTIES .
+   THE_RESULTS show that THE_WORKABILITY and UNIT_WEIGHT are affected by
+   THE_INCREASE in MEVA . despite this , THE_MECHANICAL_PERFORMANCE showed
+   SIGNIFICANT_INCREASES in THE_COMPRESSIVE_STRENGTH of 8.81 % , TENSILE of
+   22.86 % , FLEXION of 24.51 % and MODULUS_OF_ELASTICITY of 2.12 % , with
+   THE_ADDITION of 5.00 % of MEVA after 28 days . nevertheless , at
+   HIGHER_DOSES there is A_REDUCTION in SAID_STRENGTHS . for THESE_REASONS , it
+   is concluded that THE_INCORPORATION of MEVA at 5.00 % greatly improves
+   THE_MECHANICAL_PROPERTIES of CONCRETE for STRUCTURAL_USE , in RELATION to
+   THE_THEORETICAL_DESIGN_STRENGTH of 21.00 MPA . 2024 , escuela politecnica
+   nacional . all rights reserved .
+DE CEMENT; COMPRESSIVE_STRENGTH; CONCRETE; UNIT_WEIGHT; WORKABILITY
+
+
+
+--
+
+UT 14368
+AR Bereche J., 2024, REV POLITEC, V53, P79
+TI Replacement of Fine Aggregate with Refractory Brick Residue in Concrete
+   Exposed to Elevated Temperatures; [Reemplazo del Agregado Fino por Residuo
+   de Ladrillo Refractario en Concreto Expuesto a Elevadas Temperaturas]
+AU Bereche J.; García J./3
+TC 8
+SO Revista Politecnica
+PY 2024
+AB REFRACTORY_BRICK_WASTE , added to THE_FIRES originated in STRUCTURES , makes
+   it possible to bring together TWO_PROBLEMS to contribute to
+   SUSTAINABLE_CONSTRUCTION and introduce NEW_AGGREGATE_ALTERNATIVES in
+   CONCRETE . THE_OBJECTIVE of the study was to produce CONCRETE with
+   LESS_FINE_AGGREGATE and to EVALUATE_A_MORE_SUSTAINABLE_CONCRETE , using
+   REFRACTORY_BRICK_RESIDUES ( RBR ) to replace FINE_AGGREGATE in
+   FIVE_PERCENTAGES 10 % , 20 % , 30 % , 40 % and 50 % to be
+   EXPOSED_TO_DIRECT_FIRE . THE_DESIGN was based on A_WATER_CEMENT_W_C_RATIO of
+   0.71 and THE_PRODUCTION of 144 RBR based CONCRETE_SPECIMENS .
+   THE_FRESH_SAMPLES were subjected to SLUMP and FRESH_UNIT_WEIGHT_TESTS ,
+   THE_CYLINDRICAL_SPECIMENS prepared after 28 days of CURING were subjected to
+   COMPRESSIVE_STRENGTH at ROOM_TEMPERATURE and VARIOUS_TEMPERATURES ( 200 to 1
+   000 c ) for DIFFERENT_TIMES of 15.30 and 60 minutes . in_addition ,
+   A_THREE_FACTOR_STATISTICAL_ANALYSIS of VARIANCE was performed
+   with_respect_to THE_COMPRESSIVE_STRENGTH at 28 days . THE_RESULTS showed
+   that THE_RBR influences THE_CONCRETE_MIX are less workable and reduce
+   THE_FRESH_UNIT_WEIGHT at HIGHER_SUBSTITUTION_PERCENTAGES . on_the_other_hand
+   , THE_IDEAL_DOSAGE was with THE_PERCENTAGE of 40rbr as_opposed_to
+   THE_OTHER_DOSAGES subjected to HEAT , being insignificant at 15
+   MINUTE_EXPOSURE , but relevant at 30 and 60 minutes . it is concluded that
+   RBR significantly influences THE_IMPROVEMENT of ITS_MECHANICAL_PROPERTIES
+   under HIGH_HEAT and THE_AMOUNT of RESIDUES is limited to A_SPECIFIC_DOSAGE ,
+   providing A_SUSTAINABLE_CONSTRUCTIVE_APPROACH to direct
+   CONTROLLED_FIRE_EXPOSURES . 2024 , escuela politecnica nacional . all rights
+   reserved .
+DE CONCRETE; FIRE; REFRACTORY_BRICK_WASTE; TEMPERATURE; TIMES
+
+
+
+--
+
+UT 13719
+AR Banerjee A., 2024, ELECTRON J BIOTECHNOL, V68, P11
+TI Synthesis of hot spring origin bacterial cell wall polysaccharide-based
+   copper nanoparticles with antibacterial property
+AU Banerjee A.; Roy R.K.; Sarkar S./1; L. López J.; Vuree S.; Bandopadhyay R.
+TC 7
+SO Electronic Journal of Biotechnology
+PY 2024
+AB background : at PRESENT , RESEARCH on facile , GREEN_SYNTHESIS of
+   NANOPARTICLES has significantly increased because_of ITS fast , one step ,
+   COST effective , TIME efficient , and NON_TOXIC_NATURE . in this study , we
+   have reported A_SINGLE_STEP_GREEN_SYNTHESIS of COPPER_NANOPARTICLES using
+   CELL_WALL_POLYSACCHARIDES of A_HOT_SPRING_ORIGIN ,
+   THERMOTOLERANT_BACILLUS_SPECIES . result : COPPER_NANOPARTICLES were
+   characterized using UV_VISIBLE_SPECTROPHOTOMETRY , FLUORESCENCE and
+   FOURIER_TRANSFORM_INFRARED_SPECTROSCOPY , SCANNING_ELECTRON_MICROSCOPY with
+   ENERGY_DISPERSIVE_SPECTROSCOPY , PARTICLE_SIZE , and ZETA_POTENTIAL_ANALYSES
+   . UV_VISIBLE_SPECTRA of SYNTHESIZED_COPPER_NANOPARTICLES exhibited A_BAND
+   cantered between 220235 nm , CHARACTERISTIC_SPECTRA of
+   COPPER_OXIDE_NANOPARTICLES . INFRARED_SPECTRA showed THE_BAND at 490 530 cm1
+   corresponding to METAL_OXYGEN or COPPER_NANOPARTICLE_VIBRATION , supporting
+   THE_PRESENCE of COPPER_OXIDE_NANOPARTICLES in THE_MONOCLINIC_PHASE .
+   THE_ENERGY_DISPERSIVE_SPECTRA of COPPER_NANOPARTICLES exhibited
+   A_STRONG_SIGNAL from ELEMENTAL_COPPER . THE_DYNAMIC_LIGHT_SCATTERING_PATTERN
+   confirmed THE_NANOPARTICLE_NATURE of THE_STUDIED_SAMPLE .
+   THESE_NANOPARTICLES showed PREFERENTIAL_ACTIVITY against
+   GRAM_NEGATIVE_PATHOGENS , SALMONELLA_TYPHI and ESCHERICHIA_COLI .
+   THE_THERMODYNAMIC_NATURE of THE_NANOPARTICLES is also established for
+   ITS_ANTIBACTERIAL_ACTIONS . CONCLUSIONS : THE_ANTIBACTERIAL_ACTION and
+   ITS_THERMODYNAMICS_REINFORCE THE_POSSIBLE_USE of COPPER_NANOPARTICLES as
+   AN_ALTERNATIVE to COMMERCIALLY_AVAILABLE_ANTIMICROBIALS . THIS_STUDY may
+   open A_NEW_PATH for FUTURE_STUDIES to treat HARMFUL_MICROORGANISMS_RESISTANT
+   to TRADITIONAL_ANTIBIOTICS in A_GREENER_WAY . how to cite : BANERJEE a ,
+   ROY_RK , SARKAR_S , et al . SYNTHESIS of HOT_SPRING_ORIGIN_BACTERIAL_CELL_WA
+   LL_POLYSACCHARIDE_BASED_COPPER_NANOPARTICLES with ANTIBACTERIAL_PROPERTY .
+   electron j biotechnol 2024.67 . https : / doi . org 10.1016 j .
+   ejbt.2023.11.005 . 2023 pontificia universidad catolica de valparaiso
+DE ANTIBACTERIAL_ACTIVITY; BACILLUS; CELL_WALL_POLYSACCHARIDE;
+   COPPER_NANOPARTICLES; GREEN_SYNTHESIS; HOT_SPRING; NANOPARTICLES;
+   THERMODYNAMICS; THERMOTOLERANT_BACILLUS
+ID BACTERIOLOGY; CELL_MEMBRANES; COST_EFFECTIVENESS; CYTOLOGY;
+   ENERGY_DISPERSIVE_SPECTROSCOPY; ESCHERICHIA_COLI;
+   FOURIER_TRANSFORM_INFRARED_SPECTROSCOPY; LIGHT_SCATTERING;
+   METAL_NANOPARTICLES; PARTICLE_SIZE; PARTICLE_SIZE_ANALYSIS; SALMONELLA;
+   SCANNING_ELECTRON_MICROSCOPY; SYNTHESIS (CHEMICAL); CARBON;
+   COPPER_NANOPARTICLE; COPPER_OXIDE; NITROGEN; OXYGEN; POLYSACCHARIDE;
+   ANTI_BACTERIAL_ACTIVITY; ANTIBACTERIAL_ACTION; ANTIBACTERIAL_PROPERTIES;
+   BACTERIAL_CELLS; CELL_WALL_POLYSACCHARIDES; COPPER_NANOPARTICLES;
+   COPPER_OXIDE_NANOPARTICLES; GREEN_SYNTHESIS; THERMOTOLERANT;
+   THERMOTOLERANT_BACILLUS; ANTIBACTERIAL_ACTIVITY; ARTICLE;
+   BACILLUS_ANTHRACIS; BACILLUS_SUBTILIS; BACTERIAL_CELL_WALL;
+   CONTROLLED_STUDY; ENERGY_DISPERSIVE_X_RAY_SPECTROSCOPY; ESCHERICHIA_COLI;
+   FLUORESCENCE; FOURIER_TRANSFORM_INFRARED_SPECTROSCOPY; HEAT_TOLERANCE;
+   NONHUMAN; PARTICLE_SIZE; PHOTON_CORRELATION_SPECTROSCOPY;
+   SALMONELLA_ENTERICA_SEROVAR_TYPHI; SCANNING_ELECTRON_MICROSCOPY;
+   STAPHYLOCOCCUS_AUREUS; SYNTHESIS; THERMAL_SPRING; THERMODYNAMICS;
+   ULTRAVIOLET_VISIBLE_SPECTROPHOTOMETRY; ZETA_POTENTIAL; THERMODYNAMICS
+
+
+
+--
+
+UT 14058
+AR García-Moreira D.P., 2024, REV MEX ING QUIMICA, V23
+TI Effect of convective drying on color, water activity, and browning index of
+   peach slices; [Efecto del secado convectivo sobre el color, actividad de
+   agua e indice de oscurecimiento en rebanadas de Durazno]
+AU García-Moreira D.P.; Moreno I.; Irigoyen-Campuzano J.R.; Martín-Domínguez
+   I.; García-Valladares O.; López-Vidaña E.C.
+TC 6
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB COLOR is one of THE_MOST_CRITICAL_FOOD_QUALITY_PARAMETERS since it
+   IMPACTS_CONSUMER_ACCEPTABILITY . THE_INFLUENCE of PEACH_DRYING at
+   VARIED_TEMPERATURES ( 50.55 , and 60 c ) , AIR_VELOCITIES ( 0.3.0.6 , and
+   0.9 ms1 ) , and PROCESSING_PERIODS ( 6.6.5 , and 7 h ) on COLOR_CHANGE ,
+   WATER_ACTIVITY , TOTAL_SOLUBLE_SOLIDS , and BROWNING_INDEX was studied . a
+   23 randomized EXPERIMENTAL_DESIGN was used to investigate THE_EFFECT of
+   VARIOUS_OPERATING_FACTORS . THE_DRYING_KINETICS were primarily controlled by
+   TEMPERATURE_AND_AIRFLOW_RATE , with HIGHER_TEMPERATURES and airspeed
+   resulting_in A_SHORTER_DRYING_TIME . THE_WATER_ACTIVITY ranged from 0.33 to
+   0.41 , and THE_LOWEST_COLOR_CHANGE ( E ) was 18 at 55 c , 0.3 ms1 , and 6 h
+   . THE_COLOR_PARAMETERS showed THE_BEST_RESULT at 55 c and 60 c at 3 ms1 .
+   furthermore , TEMPERATURE_AND_AIR_VELOCITY increased THE_BROWNING_INDEX and
+   TOTAL_SOLUBLE_SOLIDS . THESE_RESULTS may be valuable to DRY_PEACH_PRODUCERS
+   . 2024 , universidad autonoma metropolitana . all rights reserved .
+DE COLORIMETRY; CONVECTIVE_DRYING; DEHYDRATED_PEACHES; DRYING_KINETICS
+
+
+
+--
+
+UT 14647
+AR Nadim F., 2024, REV CONSTR, V23, P413
+TI Effect of silica fume on the microstructural and mechanical properties of
+   concrete made with 100% recycled aggregates
+AU Nadim F.; Hasan R.; Sobuz M.H.R.; Ashraf J.; Sadiqul Hasan N.M.; Datta S.D.;
+   Islam M.H.; Islam M.A.; Awall M.R.; Rahman S.M.A.; Kabbo M.K.I.; Saif Y.Y.O.
+TC 5
+SO Revista de la Construccion
+PY 2024
+AB RECYCLED_CONCRETE_AGGREGATE can be utilized in STRUCTURAL_CONCRETE
+   in_order_to reduce THE_USE of NATURAL_RESOURCES and THE_HARMFUL_IMPACTS of
+   WASTE_CONCRETE on THE_ENVIRONMENT . this present research aimed to
+   ASSESS_THE_EFFECTIVENESS of using RECYCLED_AGGREGATE_CONCRETE with
+   THE_PARTIAL_REPLACEMENT of CEMENT by SILICA_FUME ( SF ) to analyze
+   THE_MICROSTRUCTURAL_AND_MECHANICAL_PROPERTIES of RECYCLED_AGGREGATE_CONCRETE
+   ( RAC ) . in this study , RECYCLED_STONE was used AS_COARSE_AGGREGATE .
+   THE_MAIN_VARIABLES of the study included THE_DOSAGE of SILICA_FUME that was
+   employed as A_PARTIAL_REPLACEMENT of ORDINARY_PORTLAND_CEMENT ( OPC ) with
+   FOUR_DIFFERENT_PERCENTAGES : 4 % , 8 % , 12 % , and 16 % by WEIGHT .
+   FIVE_DIFFERENT_MIXES were prepared , with FOUR_MIXES created by
+   VARYING_AMOUNTS of SILICA_FUME , which were designated as rsacsf4 , rsacsf8
+   , rsacsf12 , and rsacsf16 . THE_OTHER_MIX was created as A_REFERENCE_MIX
+   without SILICA_FUME and designated rsacsf0 . SLUMP_TEST was conducted to
+   investigate THE_WORKABILITY of CONCRETE_MIXES . from THE_TEST_RESULT ,
+   A_DECREASING_TREND was found after adding MORE_PERCENTAGE of SF .
+   COMPRESSIVE and splitting TENSILE_TESTS were conducted to analyze
+   THE_MECHANICAL_PROPERTIES of RSAC at 7 and 28 days . THE_RESULTS showed that
+   THE_ADDITION of SF improved THE_PERFORMANCE of RSAC at early and later
+   CURING_AGES , and a 12 % ADDITION of SF showed THE_BEST_RESULT .
+   SCANNING_ELECTRON_MICROSCOPY and X_RAY_DIFFRACTION_ANALYSIS were performed
+   to EXPLORE_SF_MICROSTRUCTURAL_PERFORMANCE and EFFECT on RSAC . THE_RESULTS
+   showed that SILICA_FUME showed A_POSITIVE_POZZOLANIC_IMPACT , and when
+   combined with CALCIUM_HYDROXIDE , it underwent
+   A_SECONDARY_HYDRATION_REACTION that boosted THE_GENERATION of
+   CALCIUM_SILICATE_HYDRATE and improved THE_PARAMETERS of
+   THE_INTERFACE_TRANSITION_ZONE . X_RAY_DIFFRACTION_ANALYSIS showed that
+   SILICA_FUME and SILICA_FUME have SIMILAR_PATTERN_INTENSITIES . finally , 12
+   % SF is recommended as A_PARTIAL_REPLACEMENT for CEMENT in RSAC . COPYRIGHT
+   ( C ) 2024 . NADIM , f . , hasan , r . , RAHMAN , m . , ASHRAF , j . ,
+   SADIQUL , n . , dip , s . , HAMIDUL , m . , ashraful , m . , robiul , m . ,
+   arifur , s . , KAWSARUL , m . and oleiwi , y . this work is licensed under a
+   creative commons attribution noncommercial no derivatives 4.0 international
+   license .
+DE MECHANICAL_PERFORMANCE; MICROSTRUCTURAL_PERFORMANCE;
+   RECYCLED_CONCRETE_AGGREGATE; SILICA_FUME; X_RAY_DIFFRACTION
+
+
+
+--
+
+UT 14274
+AR Candassamy K., 2024, REV CONSTR, V23, P129
+TI A comparative study between linear regression analysis and various codes for
+   predicting the mechanical characteristics of polymer concrete using R-sand
+   and M-sand
+AU Candassamy K.; Sreerambabu J.; Sasikumar P.
+TC 4
+SO Revista de la Construccion
+PY 2024
+AB NUMEROUS_RESEARCH_STUDIES have concentrated on advancing
+   A_SUSTAINABLE_CONSTRUCTION_INDUSTRY through innovative
+   CONCRETE_METHODS_AND_MATERIALS . in THIS_CONTEXT , THE_PRESENT_RESEARCH
+   specifically investigates POLYMER_CONCRETE , utilizing BOTH_RIVER_SAND (
+   R_SAND ) and MANUFACTURING_SAND ( M_SAND ) . THE_POLYMER_CONTENT was
+   incorporated into THE_CONCRETE_MIX based on THE_WEIGHT of THE_CEMENT , with
+   VARYING_PERCENTAGES specifically 2 % , 4 % , 5 % , 6 % , and 8 % .
+   A_SLUMP_CONE_TEST was conducted to ASSESS_THE_WORKABILITY of
+   THE_POLYMER_CONCRETE . based on EXPERIMENTAL_STUDIES ,
+   THE_OPTIMAL_POLYMER_PERCENTAGE was determined to be 5 % .
+   THIS_OPTIMAL_DOSAGE of POLYMER_CONTENT significantly improved
+   THE_MECHANICAL_PROPERTIES of THE_POLYMER_CONCRETE . THE_COMPRESSIVE_STRENGTH
+   ( CS ) , SPLIT_TENSILE_STRENGTH ( STS ) , FLEXURAL_STRENGTH ( FS ) , and
+   MODULUS_OF_ELASTICITY ( me ) were evaluated at both 7 and 28 days . when
+   using R_SAND , THE_MECHANICAL_PROPERTIES of CS , STS , and FS increased by
+   13.65 % , 12.20 % , and 11.42 % , respectively . conversely , employing
+   M_SAND_LED to EVEN_GREATER_IMPROVEMENTS in STRENGTH_PROPERTIES : 19.18 % for
+   CS , 12.54 % for STS , and 11.67 % for FS . based on
+   THE_EXPERIMENTAL_RESULTS , THE_STRENGTH_PROPERTIES of
+   POLYMER_CONCRETE_M_SAND_MIXES outperformed THE_R_SAND_MIXES .
+   LINEAR_REGRESSION_ANALYSIS and VARIOUS_CODES were employed to predict
+   THE_STRENGTH_PROPERTIES of CS , STS , FS and me . THE_REGRESSION_ANALYSIS
+   and VARIOUS_CODES successfully forecasted THE_STRENGTH_PROPERTIES of
+   POLYMER_CONCRETE , with THE_PREDICTED_RESULTS closely correlated with
+   THE_EXPERIMENTAL_RESULTS . based on EXPERIMENTAL_INVESTIGATIONS ,
+   THE_DETERMINED_MIX_PROPORTIONS are recommended for PRACTICAL_APPLICATIONS in
+   VARIOUS_ENVIRONMENTAL_CONDITIONS . 2024 candassamy , k . , SREERAMBABU , j .
+   , SASIKUMAR , p . this work is licensed under a creative commons attribution
+   noncommercial no derivatives 4.0 international license
+DE LINEAR_REGRESSION_ANALYSIS; M_SAND; POLYMER_CONCRETE; R_SAND;
+   STRENGTH_PROPERTIES
+
+
+
+--
+
+UT 14047
+AR Adebanji O.O., 2024, COMPUT SIST, V28, P151
+TI Adaptation of Transformer-Based Models for Depression Detection
+AU Adebanji O.O.; Ojo O.E.; Calvo H.; Gelbukh I.; Sidorov G.
+TC 4
+SO Computacion y Sistemas
+PY 2024
+AB PRE_TRAINED_LANGUAGE_MODELS are able to capture A_BROAD_RANGE of
+   KNOWLEDGE_AND_LANGUAGE_PATTERNS in TEXT and can be fine tuned for
+   SPECIFIC_TASKS . in this paper , we focus on evaluating THE_EFFECTIVENESS of
+   VARIOUS_TRADITIONAL_MACHINE_LEARNING and PRE_TRAINED_LANGUAGE_MODELS in
+   identifying DEPRESSION through THE_ANALYSIS of TEXT from SOCIAL_MEDIA . we
+   examined DIFFERENT_FEATURE_REPRESENTATIONS with
+   THE_TRADITIONAL_MACHINE_LEARNING_MODELS and explored THE_IMPACT of
+   PRE_TRAINING on THE_TRANSFORMER_MODELS and compared THEIR_PERFORMANCE .
+   using BOW , word2vec , and GLOVE_REPRESENTATIONS ,
+   THE_MACHINE_LEARNING_MODELS with which we experimented achieved
+   IMPRESSIVE_ACCURACIES in THE_TASK of detecting DEPRESSION . however ,
+   PRE_TRAINED_LANGUAGE_MODELS exhibited OUTSTANDING_PERFORMANCE , consistently
+   achieving HIGH_ACCURACY , PRECISION , RECALL , and f1 SCORES of
+   approximately 0.98 or HIGHER . 2024 instituto politecnico nacional . all
+   rights reserved .
+DE BAG_OF_WORDS; DEEP_LEARNING; DEPRESSION; GLOVE; MACHINE_LEARNING;
+   SENTIMENT_ANALYSIS; TRANSFORMERS; WORD2VEC
+
+
+
+--
+
+UT 14081
+AR Thuy N.M., 2024, REV MEX ING QUIMICA, V23
+TI Effects of steaming and drying on quality and antioxidant activity of white-
+   fleshed sweet potato powder (Ipomoea batatas); [Efectos de la cocción al
+   vapor y el secado sobre la calidad y la actividad antioxidante del polvo de
+   batata de pulpa blanca (Ipomoea batatas)]
+AU Thuy N.M.; Giau T.N.; Hao H.V.; Dung N.C.; Tai N.V.; Minh V.Q.
+TC 4
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB WHITE_FLESHED_SWEET_POTATOES ( WFSP ) are RICH_SOURCES of POLYPHENOLS .
+   THE_FLESH of PFSP_CONTAINS_TOTAL_POLYPHENOL_CONTENT ( TPC ) at 1.52
+   MGGAE_G_FRESH_WEIGHT .
+   THE_RAW_MATERIAL_TOTAL_FREE_RADICAL_SCAVENGING_CAPACITY was estimated ( at
+   42.4 % DPPH ) . THE_INACTIVATION of PEROXIDASE ( POD ) and
+   POLYPHENOL_OXIDASE ( PPO ) , THE_BREAKDOWN of TOTAL_PHENOLIC_COMPOUNDS ,
+   ANTIOXIDANT_ACTIVITY , and THE_WHITENESS of WFSP were evaluated during
+   STEAM_BLANCHING from 0 to 9 minutes . STEAM_BLANCHING TIME from 7 to 9
+   minutes at BOILING_TEMPERATURE ( 100oc ) inactivated MOST of THE_POD and
+   PPO_ENZYMES ( 71.2 % and 70.5 % , respectively ) ,
+   THUS_TPC_AND_ANTIOXIDANT_ACTIVITY remains high , resulting_in
+   A_BRIGHT_WHITE_PRODUCT . after 7 minutes of BLANCHING , DRYING_EXPERIMENTS
+   of WFSP_SLICES were conducted at AIR_TEMPERATURES of 50 to 80oc .
+   THE_BEST_ALTERNATIVE for describing and UNDERSTANDING_THE_DRYING of
+   WFSP_SLICES was THE_PAGE_MODEL . in THE_TEMPERATURE s RANGES , THE_VALUES of
+   THE_MOISTURE_DIFFUSIVITY ( de F_F ) and ACTIVATION_ENERGY are obtained from
+   3.0591012 to 5.0951012 m2 s and 14.93 KJ_MOL , respectively .
+   THE_DRYING_TEMPERATURE of 70oc for 10 hours was suitable for producing
+   WFSP_POWDER with LOW_WATER_ACTIVITY ( 0.5 ) and MOISTURE_CONTENT ( 6.5 % ) ,
+   HIGH_TPC and ANTIOXIDANT_ACTIVITY , and LOW_SPECIFIC_ENERGY_CONSUMPTION .
+   THESE_RESULTS suggested that THE_WFSP_POWDER exhibited POTENTIAL as
+   A_NUTRACEUTICAL_INGREDIENT_PRODUCT . 2024 , universidad autonoma
+   metropolitana . all rights reserved .
+DE ANTIOXIDANT_ACTIVITY; BLANCHING; DRYING; MODELLING; QUALITY;
+   WHITE_FLESH_SWEET_POTATOES
+
+
+
+--
+

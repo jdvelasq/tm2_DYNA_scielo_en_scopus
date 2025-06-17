@@ -1,0 +1,393 @@
+UT 14046
+AR Garibaldi-Márquez F., 2024, COMPUT SIST, V28, P271
+TI Corn/Weed Plants Detection Under Authentic Fields based on Patching
+   Segmentation and Classification Networks
+AU Garibaldi-Márquez F.; Flores G.; Valentín-Coronado L.M.
+TC 2
+SO Computacion y Sistemas
+PY 2024
+AB EFFECTIVE_WEED_CONTROL in CROP_FIELDS at AN_EARLY_STAGE is A_CRUCIAL_ASPECT
+   of MODERN_AGRICULTURE . nonetheless , detecting and identifying THESE_PLANTS
+   in ENVIRONMENTS with UNPREDICTABLE_CONDITIONS remain A_CHALLENGING_TASK for
+   THE_AGRICULTURAL_INDUSTRY . thus , A_TWO_STAGE_DEEP_LEARNING based
+   METHODOLOGY to effectively address THE_ISSUE is proposed in this work . in
+   THE_FIRST_STAGE , MULTI_PLANT_IMAGE_SEGMENTATION is performed , whereas
+   REGIONS_OF_INTEREST ( ROIS ) are classified in THE_SECOND_STAGE . in
+   THE_SEGMENTATION_STAGE , A_DEEP_LEARNING_MODEL , SPECIFICALLY_A_UNET like
+   ARCHITECTURE , has been used to segment THE_PLANTS within AN_IMAGE following
+   TWO_APPROACHES : resizing THE_IMAGE or dividing THE_IMAGE into PATCHES . in
+   THE_CLASSIFICATION_STAGE , FOUR_ARCHITECTURES , including resnet101 , vgg16
+   , XCEPTION , and mobilenetv2 , have been implemented to classify
+   DIFFERENT_TYPES of PLANTS , including CORN and WEED_PLANTS .
+   A_LARGE_IMAGE_DATASET was used for TRAINING_THE_MODELS . after resizing
+   THE_IMAGES , THE_SEGMENTATION_NETWORK achieved A_DICE_SIMILARITY_COEFFICIENT
+   ( DSC ) of around 84 % and A_MEAN_INTERSECTION over UNION ( MIOU ) of around
+   74 % . on_the_other_hand , when THE_IMAGES were divided into PATCHES ,
+   THE_SEGMENTATION_NETWORK achieved A_MEAN_DSC of 87.48 % and A_MIOU of 78.17
+   % . regarding THE_CLASSIFICATION , THE_BEST_PERFORMANCE was achieved by
+   THE_XCEPTION_NETWORK with a 97.43 % ACCURACY . then , according to
+   THE_RESULTS , THE_PROPOSED_APPROACH is A_BENEFICIAL_ALTERNATIVE for FARMERS
+   as it offers A_METHOD for detecting CROPS and WEEDS under
+   NATURAL_FIELD_CONDITIONS . 2024 instituto politecnico nacional . all rights
+   reserved .
+DE CORN_FIELD_VARIABILITIES; DEEP_LEARNING; SEGMENTATION_AND_CLASSIFICATION;
+   WEED_DETECTION
+
+
+
+--
+
+UT 14065
+AR Alcázar-Medina F.A., 2024, REV MEX ING QUIMICA, V23
+TI Optimization of copper removal through spherical agglomeration: Effect of pH
+   precipitation and the use of Agave spp.  leaf extracts as biosurfactants;
+   [Optimización de la remoción de cobre mediante aglomeración esférica: Efecto
+   del pH y extractos de material foliar de Agave spp.  como bio surfactantes]
+AU Alcázar-Medina F.A.; Valle-Cervantes S.; Alcazar-Medina T.L.; Rodríguez-
+   Rosales M.D.J.
+TC 2
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB THIS_STUDY investigated THE_FEASIBILITY and EFFICACY of CALCIUM_HYDROXIDE as
+   AN_ALTERNATIVE to NAOH in THE_SPHERICAL_AGGLOMERATION_PROCESS for
+   COPPER_REMOVAL in AQUEOUS_SOLUTIONS . this research aimed to
+   EVALUATE_THE_EFFECTIVENESS of ca ( OH ) 2 in PRECIPITATION_STAGE by
+   evaluating DIFFERENT_PH_LEVELS ( 8.0 and 9.0 ) , SURFACTANT_TYPE ( EXTRACTS
+   of LEAF of a . TEQUILANA and a . lechuguilla ) , DOSAGES ( 0.3.0.5 and 1.0
+   G_GCU ) , and INITIAL_COPPER_CONCENTRATIONS ( 2.0.5.0 and 10.0 MG_L ) , on
+   cu2 +REMOVAL through SPHERICAL_AGGLOMERATION . THE_RESULTS showed that ca (
+   OH ) 2 is AN_EFFECTIVE_ALTERNATIVE to NAOH , achieving
+   HIGH_COPPER_REMOVAL_PERCENTAGES in VARIOUS_EXPERIMENTAL_CONDITIONS ( with
+   AN_EFFICIENCY_RANGE of 54.63 to 98.73 % ) . that_is particularly relevant in
+   CONTAMINATED_WATER_TREATMENT_APPLICATIONS where COST_REDUCTION and
+   SUSTAINABILITY are necessary . THE_OPTIMAL_OPERATING_CONDITIONS were
+   identified ( ph0 9.0 , a . TEQUILANA_LEAF_EXTRACT as BIOSURFACTANT and
+   A_DOSE of 0.3g GCU ) , such_as A_SPECIFIC_PH and AN_ADEQUATE_DOSAGE of
+   SURFACTANT , which maximized COPPER_REMOVAL_EFFICIENCY ( 98.73 % of
+   COPPER_REMOVAL ) . THESE_RESULTS provide VALUABLE_GUIDELINES for
+   THE_WASTEWATER_TREATMENT_INDUSTRY and ENVIRONMENTAL_MANAGEMENT , where
+   EFFICIENT_REMOVAL of HEAVY_METALS is essential . 2024 , universidad autonoma
+   metropolitana . all rights reserved .
+DE AGAVE_SPP; COPPER_REMOVAL; PH_PROCESS; SPHERICAL_AGGLOMERATION; SURFACTANT
+
+
+
+--
+
+UT 14082
+AR Luna-Lozoya R.S., 2024, COMPUT SIST, V28, P245
+TI Lightweight CNN for Detecting Microcalcifications Clusters in Digital
+   Mammograms
+AU Luna-Lozoya R.S.; De Jesús Ochoa-Domínguez H.; Sossa-Azuela J.H.; Cruz-
+   Sánchez V.G./1; Vergara-Villegas O.O.
+TC 2
+SO Computacion y Sistemas
+PY 2024
+AB DIGITAL_MAMMOGRAM_PLAYS_A_KEY_ROLE in BREAST_CANCER_SCREENING , with
+   MICROCALCIFICATIONS being AN_IMPORTANT_INDICATOR of AN_EARLY_STAGE . however
+   , THESE_INJURIES are difficult to detect . in this paper , we propose
+   A_LIGHTWEIGHT_CONVOLUTIONAL_NEURAL_NETWORK ( CNN ) for detecting
+   MICROCALCIFICATIONS_CLUSTERS in DIGITAL_MAMMOGRAMS . THE_ARCHITECTURE
+   comprises TWO_CONVOLUTIONAL_LAYERS with 6 and 16 FILTERS of 99 ,
+   respectively at A_FULL_SCALE , A_GLOBAL_POOLING_LAYER that eliminates
+   THE_FLATTENING_AND_DENSE_LAYERS , and A_SIGMOID_FUNCTION as THE_OUTPUT_LAYER
+   for BINARY_CLASSIFICATION . to train THE_MODEL , we utilize
+   THE_PUBLIC_INBREAST_DATABASE of DIGITAL_MAMMOGRAMS with
+   LABELED_MICROCALCIFICATION_CLUSTERS . we used DATA_AUGMENTATION_TECHNIQUES
+   to artificially increase THE_TRAINING_SET . furthermore , we
+   PRESENT_A_CASE_STUDY that encompasses THE_UTILIZATION of
+   A_SOFTWARE_APPLICATION . after TRAINING , THE_RESULTING_MODEL yielded
+   AN_ACCURACY of 99.3 % with only 8.301parameters . this represents
+   A_CONSIDERABLE_PARAMETER_REDUCTION as compared to the 67.797 , 505used in
+   mobilenetv2 with 99.8 % ACCURACY . 2024 instituto politecnico nacional . all
+   rights reserved .
+DE DEEP_LEARNING; MICROCALCIFICATIONS_CLUSTERS_DETECTION;
+   SHALLOW_CONVOLUTIONAL_NEURAL_NETWORK
+
+
+
+--
+
+UT 14083
+AR Arevalo-Ancona R.E., 2024, COMPUT SIST, V28, P199
+TI Secure Medical Image Authentication Using Zero-Watermarking based on Deep
+   Learning Context Encoder
+AU Arevalo-Ancona R.E.; Cedillo-Hernandez M.A.B.; Ramirez-Rodriguez A.E.;
+   Nakano-Miyatake M.; Pérez-Meana H.M.
+TC 2
+SO Computacion y Sistemas
+PY 2024
+AB ZERO_WATERMARKING is A_ROBUST_AND_LOSSLESS_TECHNIQUE for
+   DIGITAL_IMAGE_SECURITY , COPYRIGHT_PROTECTION , and CONTENT_AUTHENTICATION .
+   this paper introduces A_NOVEL_ZERO_WATERMARKING_SCHEME for
+   MEDICAL_IMAGE_AUTHENTICATION based on DEEP_LEARNING . THE_PROPOSED_APPROACH
+   leverages A_NEURAL_NETWORK based on THE_CONTEXT_ENCODER to
+   EXTRACT_DISTINCTIVE_FEATURES from THE_IMAGE , enhancing THE_METHOD .
+   THE_TRAINING of the NEURAL_MODEL_INCREASES_ROBUSTNESS . THE_WATERMARK
+   consists of A_HALFTONE_IMAGE of THE_PATIENT_FACE , serving as
+   A_UNIQUE_IDENTIFIER for MEDICAL_STUDY . by revealing THE_WATERMARK ,
+   MEDICAL_PROFESSIONALS can verify THE_CORRESPONDENCE between
+   THE_IMAGING_STUDY and THE_PATIENT . therefore , an
+   XOR_OPERATION_MERGES_THE_WATERMARK_SEQUENCE and THE_EXTRACTED_FEATURES . the
+   proposed method offers CONTINUOUS_IMAGE_PROTECTION , safeguarding
+   SENSITIVE_MEDICAL_DATA . EXTENSIVE_EXPERIMENTS demonstrate
+   THE_TECHNIQUE_ROBUSTNESS against VARIOUS_ATTACKS , including
+   GEOMETRIC_TRANSFORMATIONS ( SCALING , CROPPING , RESIZING , ROTATION ) and
+   IMAGE_PROCESSING_MANIPULATIONS ( FILTERING , BLURRING , JPEG_COMPRESSION ,
+   and NOISE_ADDITION ) . THE_DETECTION_WATERMARK_PROCESS achieves
+   A_LOW_BIT_ERROR_RATE and A_HIGH_NORMALIZED_CROSS_CORRELATION , validating
+   THE_METHOD_ROBUSTNESS and EFFECTIVENESS . THE_DEEP_NEURAL_NETWORK improved
+   THE_ROBUSTNESS of THE_PRESENTED_ZERO_WATERMARKING_SCHEME making it suitable
+   for PRACTICAL_APPLICATIONS in MEDICAL_DATA_SECURITY and INTEGRITY . 2024
+   instituto politecnico nacional . all rights reserved .
+DE AUTHENTICATION; DEEP_LEARNING; FEATURE_EXTRACTION; IMAGE; IMAGE_SECURITY;
+   ZERO_WATERMARKING
+
+
+
+--
+
+UT 14088
+AR Guerrero-Martínez Y.A., 2024, REV MEX ING QUIMICA, V23
+TI HCO− 3production from 17β-estradiol oxidation by photo-Fenton as a strategy
+   to avoid the generation of greenhouse gases; [Producción de HCO− 3derivado
+   de la oxidación de 17β-estradiol por foto-Fenton como una estrategia para
+   evitar la generación de gases de efecto invernadero]
+AU Guerrero-Martínez Y.A.; Romo-Gómez C.; Camacho-López C.; Acevedo-Sandoval
+   O.A.; González-Ramírez C.A.; Montiel-Palma S.
+TC 2
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB 17 ESTRADIOL ( e2 ) is A_NATURAL_ESTROGEN considered
+   THE_MAJOR_ENDOCRINE_DISRUPTOR in THE_ENVIRONMENT at NG_L 1 .
+   ADVANCED_OXIDATION_PROCESSES ( AOP ) such_as PHOTO_FENTON , have shown
+   PROMISING_RESULTS for e2 OXIDATION . however , in AOP and
+   CONVENTIONAL_PROCESS , THE_FINAL_DESTINATION of e2 is not reported , nor is
+   it mentioned if it has been transformed into SIMPLER_SPECIES such_as co2 ,
+   A_GREENHOUSE_GAS . therefore , the_aim_of this work was to
+   EVALUATE_THE_PRODUCTION of HCO 3from THE_OXIDATION of 17 ESTRADIOL by
+   A_PHOTO_FENTON_PROCESS as A_STRATEGY to avoid THE_GENERATION of
+   GREENHOUSE_GASES in WATER . BATCH_ASSAYS were realized with e2 c
+   CONCENTRATIONS ( MG_L 1 ) of 3.5.4.5 , and 7.5 at PH_VALUES of 5.10 , and
+   7.5 , using feso47h2o ( 4 ) and h2o2 ( 10 ) , respectively . an ee2c of
+   64.99 % was obtained , and THE_OXIDATION of e2 followed
+   A_FIRST_ORDER_REACTION_MODEL , where coefficients of 84.3010 3min 1 .
+   A_PREDOMINANT_PRODUCTION of 3.73 0.21 mg HCO c l 1was observed , compared to
+   3 0.45 0.01 mg co2 c l 1 ( ph 10 ) . THE_FENTON_PROCESS predominantly
+   oxidized e2 to HCO 3 , which it is considered innocuous for
+   THE_ENVIRONMENTAL . THE_PROCESS was not inhibited at ph 10 . 2024 ,
+   universidad autonoma metropolitana . all rights reserved .
+DE 17_ESTRADIOL; ADVANCED_OXIDATION; BICARBONATE; DIOXIDE_CARBON; PHOTO_FENTON
+
+
+
+--
+
+UT 14161
+AR Ferreira L.J.C., 2024, ELECTRON J BIOTECHNOL, V69, P21
+TI Impact of immature coffee fruits and water addition during spontaneous
+   fermentation process: Chemical composition and sensory profile
+AU Ferreira L.J.C.; Casé I.N.; Bertarini P.L.L.; Oliveira L.M.D.; Santos L.D.
+TC 2
+SO Electronic Journal of Biotechnology
+PY 2024
+AB background :
+   COFFEE_FERMENTATION_PROCESS_INFLUENCES_THE_FINAL_COFFEE_COMPOSITION and
+   THE_SENSORY_ASPECTS which define THE_QUALITY of THE_BEVERAGE . in this study
+   , COFFEE_FRUITS_UNDERWENT_SPONTANEOUS_SELF induced ANAEROBIC_FERMENTATION
+   using SAMPLES with TWO_PERCENTAGES of IMMATURE_FRUITS in
+   SUBMERGED_AND_SOLID_STATE_PROCESSING . THE_EFFECTS on
+   THE_PHYSICOCHEMICAL_COMPOSITION and SENSORY_QUALITY of COFFEES were
+   evaluated . results : THE_TWO_PERCENTAGES of IMMATURE_FRUITS corresponded to
+   11.0 and 0.3 % of UNRIPE_FRUITS . THE_PERCENTAGE of IMMATURE_FRUITS
+   significantly altered THE_INITIAL_CONTENT of SUGARS ( SUCROSE , GLUCOSE ,
+   and FRUCTOSE ) , ASH , and TITRATABLE_ACIDITY . THE_WATER_ADDITION during
+   THE_FERMENTATIVE_PROCESS did not significantly INFLUENCE_FINAL_MOISTURE ,
+   PROTEINS , CITRIC_ACID , and PROPIONIC_ACID_CONCENTRATIONS . compared to
+   THE_SOLID_STATE , THE_SUBMERGED_PROCESS gave RISE to COFFEES with
+   LOWER_CONCENTRATIONS of ETHANOL , GLYCEROL , ASH , LIPIDS , succinic , and
+   ACETIC_ACIDS . COFFEE fermented with 0.3 % of IMMATURE_FRUITS showed
+   HIGHER_LACTIC_ACID_PRODUCTION in SUBMERGED_FERMENTATION ( 67.44 MG_G ) , and
+   HIGHER_CONCENTRATIONS of ETHANOL ( 42.84 MG_G ) and GLYCEROL ( 1.68 MG_G )
+   in SOLID_STATE_FERMENTATION . ALL_COFFEES produced were classified as
+   SPECIALTY_COFFEES with A_SCORE above 84 points . however ,
+   THE_SUBMERGED_FERMENTED_COFFEE with 11 % immature FRUIT stood out with NOTES
+   of caramel , BROWN_SUGAR , HONEY , ORANGE , LEMON , floral , nut , yellow
+   and RED_FRUITS . conclusions : this study confirmed that
+   SPONTANEOUS_FERMENTATION can be used to produce SPECIALTY_COFFEES .
+   DIFFERENTIATION in SENSORY_ATTRIBUTES can be achieved through THE_ADDITION
+   of WATER and varying THE_PERCENTAGE of GREEN_FRUITS during
+   THE_FERMENTATION_PROCESS . up to 11 % of IMMATURE_FRUITS did not
+   COMPROMISE_COFFEE_QUALITY . how to cite : FERREIRA_LJC , CASE in ,
+   BERTARINI_PLL , et al . IMPACT of IMMATURE_COFFEE_FRUITS and WATER_ADDITION
+   during SPONTANEOUS_FERMENTATION_PROCESS : CHEMICAL_COMPOSITION and
+   SENSORY_PROFILE . electron j biotechnol 2024.69 . https : / doi . org
+   10.1016 j . ejbt.2024.04.001 . 2024 pontificia universidad catolica de
+   valparaiso .
+DE ARARA; COFFEE_FERMENTATION; COFFEE_FLAVOR; COFFEE_QUALITY; COFFEE_RIPENESS;
+   IMMATURE_COFFEE_FRUITS; NON_VOLATILE_PRECURSORS; POSTHARVEST;
+   SENSORY_PROFILE; SIAF; SPECIALTY_COFFEE; SPONTANEOUS_FERMENTATION_PROCESS
+ID CITRIC_ACID; CITRUS_FRUITS; ETHANOL; GLYCEROL; LACTIC_ACID; PROCESS_CONTROL;
+   PROPIONIC_ACID; ACETIC_ACID; ALCOHOL; CITRIC_ACID; FRUCTOSE; GLUCOSE;
+   GLYCEROL; LACTIC_ACID; LIPID; PLANT_PROTEIN; PROPIONIC_ACID; SUCCINIC_ACID;
+   SUCROSE; SUGAR; WATER; ARARUM; COFFEE_FERMENTATION; COFFEE_FLAVOR;
+   COFFEE_FRUITS; COFFEE_QUALITIES; COFFEE_RIPENESS; FERMENTATION_PROCESS;
+   IMMATURE_COFFEE_FRUIT; NON_VOLATILE_PRECURSOR; NONVOLATILE; POSTHARVEST;
+   SENSORY_PROFILES; SIAF; SPECIALTY_COFFEE; SPONTANEOUS_FERMENTATION;
+   SPONTANEOUS_FERMENTATION_PROCESS; VOLATILE_PRECURSORS; ACIDITY;
+   ANAEROBIC_FERMENTATION; ARTICLE; ASH; CHEMICAL_COMPOSITION; COFFEA;
+   CONCENTRATION (PARAMETER); CONTROLLED_STUDY; FLAVOR; FRUIT_RIPENING; HONEY;
+   LACTIC_ACID_FERMENTATION; LEMON; LIPID_DEGRADATION; MATURATION; MOISTURE;
+   NONHUMAN; NUT; ORANGE (FRUIT); PHYSICAL_CHEMISTRY; POSTHARVEST_PERIOD;
+   QUALITY_CONTROL; SENSORY_ANALYSIS; SOLID_STATE_FERMENTATION;
+   SUBMERGED_FERMENTATION; FERMENTATION
+
+
+
+--
+
+UT 14173
+AR Khalid H., 2024, J APPL RES TECHNOL, V22, P219
+TI Modern techniques in detecting, identifying and classifying fruits according
+   to the developed machine learning algorithm
+AU Khalid H.
+TC 2
+SO Journal of Applied Research and Technology
+PY 2024
+AB RECENT_DEVELOPMENTS in MACHINE_VISION have opened A_WIDE_RANGE of
+   APPLICATIONS , and FARMING is NO_EXCEPTION . DEEP_LEARNING ( DL ) has
+   A_WIDE_RANGE of APPLICATIONS because_of ITS_CAPACITY to extract
+   ROBUST_FEATURES from PHOTOS . THE_SHAPE , COLOR , and feel of
+   MANY_FRUIT_SPECIES make it difficult to discover and CLASSIFY_FRUITS . when
+   examining THE_EFFECTS of ARTIFICIAL_INTELLIGENCE on FRUIT_IDENTIFICATION and
+   CLASSIFICATION , THE_AUTHOR noted that , up_until 2018 , THE_MAJORITY of
+   APPROACHES relied on TRADITIONAL_MACHINE_LEARNING_TECHNIQUES , while
+   JUST_A_FEW_WAYS took USE of DL_TECHNIQUES for recognizing FRUITS and
+   CATEGORIZATION . in this paper , THE_AUTHOR thoroughly covered THE_DATASETS
+   that MANY_ACADEMICS utilized , THE_USEFUL_DESCRIPTORS , THE_APPLICATION of
+   THE_MODEL , and THE_DIFFICULTIES of utilizing DL to identify and
+   CLASSIFY_FRUITS . finally , THE_AUTHOR compiled THE_OUTCOMES of
+   VARIOUS_DL_TECHNIQUES used in EARLIER_RESEARCH to identify and
+   CATEGORIZE_FRUITS . this work examines THE_USE of MODELS based on DL for
+   FRUIT_CATEGORIZATION and RECOGNITION in RECENT_STUDIES . in_order_to make it
+   simpler for beginning AGRICULTURAL_RESEARCHERS to comprehend THE_IMPORTANCE
+   of ML in THE_AGRICULTURAL_DOMAIN , THE_AUTHOR have developed A_DL_MODEL for
+   APPLE_CATEGORIZATION using the well known DATASET " FRUIT 360 " STARTING
+   from SCRATCH . THE_RECENTLY_PROPOSED_MODEL demonstrated IMPRESSIVE_RESULTS
+   in accurately identifying THE_QUALITY of VARIOUS_FRUITS , such_as APPLES (
+   with 99.50 % ACCURACY ) , cucumbers ( 99 % ) , GRAPES ( 100 % ) , KAKIS (
+   99.50 % ) , oranges ( 99.50 % ) , PAPAYAS ( 98 % ) , PEACHES ( 98 % ) ,
+   TOMATOES ( 99.50 % ) , and WATERMELONS ( 98 % ) . 2024 universidad nacional
+   autonoma de mexico . all rights reserved .
+DE DEEP_LEARNING_TECHNIQUES; FRUIT_360; FRUIT_DETECTION_AND_CLASSIFICATION;
+   MACHINE_LEARNING
+
+
+
+--
+
+UT 14250
+AR López-Angulo Y., 2024, FORM UNIV, V17, P83
+TI Life and academic purposes of Chilean university students in STEM careers
+   (Science, Technology, Engineering, and Mathematics); [Propósitos de vida y
+   académicos en estudiantes universitarios chilenos de carreras STEM (Ciencia,
+   Tecnología, Ingeniería, y Matemáticas)]
+AU López-Angulo Y.; Sáez-Delgado F.M.; Mella-Norambuena J.
+TC 2
+SO Formacion Universitaria
+PY 2024
+AB THIS_RESEARCH_STUDY aims to characterize THE_LIFE and ACADEMIC_PURPOSES of
+   UNIVERSITY_STUDENTS . applying A_QUALITATIVE_APPROACH and
+   A_PHENOMENOGRAPHIC_DESIGN , TEN_SECOND_YEAR_STUDENTS from A_UNIVERSITY in
+   SOUTHERN_CHILE are interviewed . DATA_ANALYSIS is conducted in THREE_STAGES
+   : 1 ) INFORMATION_REVIEW , 2 ) coding , and 3 ) CATEGORIZATION . THE_RESULTS
+   reveal that STUDENTS are aware of THEIR_PURPOSES . these are structured and
+   comprise personal , familial , ACADEMIC , and job related AREAS .
+   SEVEN_TYPES of ACADEMIC_PURPOSES linked to ACADEMIC_PROGRESSION are
+   identified , which provide DIRECTION , HAPPINESS , MOTIVATION , ASSISTANCE
+   for overcoming OBSTACLES , and contribute to A_FULL_FILLING and
+   SATISFYING_ACADEMIC_LIFE . to achieve ACADEMIC_PURPOSES , TWO_KEY_DIMENSIONS
+   are identified : ACADEMIC_OBJECTIVES and ACADEMIC_GOALS . in_conclusion ,
+   LIFE and ACADEMIC_PURPOSES are fundamental in YOUTH as they provide MEANING
+   , MOTIVATION , and DIRECTION , acting as A_SELF regulating
+   BEHAVIORAL_MECHANISM . ( 2024 ) , ( centro de informacion tecnologica ) .
+   all rights reserved .
+DE ACADEMIC_PURPOSES; LIFE_PURPOSES; STEM_CAREERS; UNIVERSITY_STUDENTS
+
+
+
+--
+
+UT 14254
+AR Ustabas I., 2024, REV CONSTR, V23, P31
+TI Heavy aggregate and different admixtures effect on pavings: pyrite, corundum
+   and water-retaining polymer
+AU Ustabas I.; Erdogdu S.; Akyuz C.; Kurt Z.; Cakmak T.
+TC 2
+SO Revista de la Construccion
+PY 2024
+AB CONCRETE_PAVINGS are widely used in THE_CONSTRUCTION_INDUSTRY as flooring
+   for DECORATIVE_AND_STRUCTURAL_PURPOSES in THE_GARDENS , PARKS , and ROADS of
+   AMERICA , and EUROPE . in THE_PRESENT_STUDY , THE_EFFECTS of PYRITE ,
+   CORUNDUM , and WATER_RETAINING_POLYMER_ADDITIVES on
+   THE_SURFACE_WEAR_RESISTANCE of CONCRETE_PAVINGS were investigated .
+   CONCRETE_PAVINGS were poured in 2 STAGES and all of THE_BOTTOM_LAYERS of
+   SAMPLES were the same , but UPPER_LAYERS of PAVINGS were produced by adding
+   PYRITE in THE_RATIO of 0.10.0.20.0.30.0.40 according to THE_MASS of
+   THE_AGGREGATE , 5 kg m2 CORUNDUM based SURFACE_HARDENER to
+   THE_PAVING_SURFACE_AREA , and a HIGH_AMOUNT of WATER_ABSORBING_POLYMER at
+   A_RATIO of 0.05 and 0.10 to THE_WATER_CONTENT of THE_MIXTURE .
+   VERTICAL_ABRASION , SPLITTING_TENSILE_STRENGTH , WATER_ABSORPTION , freeze
+   THAW_RESISTANCE , PENDULUM_FOOTED_FRICTION , and
+   SURFACE_HARDNESS_MEASUREMENTS with SCHMIDT_TEST_HAMMER_EXPERIMENTS were made
+   to ts 2824 en 1338 STANDARD . also , X_RAY_DIFFRACTION ( XRD ) and
+   SCANNING_ELECTRON_MICROSCOPY ( SEM ) analyses were carried out to
+   characterize THE_PRODUCED_MATERIALS . RESULTS of the study indicate that
+   THE_USE of PYRITE , CORUNDUM , and WATER_RETAINING_POLYMERS provided
+   IMPROVEMENTS in THE_SURFACE_WEAR_RESISTANCE of CONCRETE_PAVINGS . 2024
+   ustabas , i . , erdogdu , s . , akyuz , c . , n . , kurt , z . , cakmak , t
+   . this work is licensed under a creative commons attribution noncommercial
+   no derivatives 4.0 international license
+DE CONCRETE_PAVING; CORUNDUM; PYRITE; WATER_RETAINING_POLYMER; XRD
+
+
+
+--
+
+UT 14256
+AR Contreras-Pacheco O.E., 2024, TEC EMPRES, V18, P36
+TI Crisis Communication Strategies: A Qualitative Study about a Natural
+   Medicine Controversy in Colombia; [Estrategias de Comunicación de Crisis:
+   Estudio Cualitativo sobre una Controversia en el campo de la Medicina
+   Natural en Colombia]
+AU Contreras-Pacheco O.E.; Álvarez-Arciniegas J.C.; Garnica-Rugeles M.F.
+TC 2
+SO Tec Empresarial
+PY 2024
+AB this study examines how BUSINESSES respond to REPUTATIONAL_DAMAGE caused by
+   REPUTATION_CRISES . DRAWING on THE_QUALITATIVE_ANALYSIS of
+   A_COLOMBIAN_NATURAL_MEDICINE_COMPANY facing A_DISRUPTIVE_EVENT that
+   threatened ITS_FLAGSHIP_PRODUCT and BUSINESS , THE_CASE_STUDY explores
+   THE_COMPANY_RESPONSE to MEDIA_SUSPICIONS of tampering with
+   A_PHYTOTHERAPEUTIC_PRODUCT . the findings reveal SIGNIFICANT_INCONSISTENCIES
+   in THE_FIRM_ORGANIZATIONAL_RESPONSES and THEIR_REPERCUSSIONS on STAKEHOLDERS
+   and THE_INDUSTRY . this study sheds light on THE_STRATEGIC_USE of RESPONSES
+   detached from REALITY in CRISIS_SCENARIOS to protect REPUTATION .
+   in_addition , the study highlights that THE_ANALYZED_COMPANY deviated from
+   ESTABLISHED_CRISIS_MANAGEMENT_STRATEGIES outlined in THEORY . THE_COMPANY
+   did not implement THE_STEAL the thunder ' approach , as it failed to
+   proactively disclose THE_CRISIS . moreover , THE_COMPANY prioritized
+   INSTRUMENTAL_RESPONSES over NORMATIVE_OR_ETHICAL_CONSIDERATIONS .
+   THE_ANALYSIS of THE_IDENTIFIED_DEVIATIONS from
+   ESTABLISHED_CRISIS_MANAGEMENT_PRINCIPLES further emphasizes THE_IMPORTANCE
+   of THE_WORK_FINDINGS and THEIR_THEORETICAL_AND_PRACTICAL_IMPLICATIONS for
+   developing MORE_EFFECTIVE_CRISIS_COMMUNICATION_STRATEGIES grounded in TRUTH
+   seeking . 2024 business school , instituto tecnologico de costa rica . all
+   rights reserved .
+DE CRISIS_COMMUNICATION; CRISIS_MANAGEMENT; CRISIS_RESPONSE_STRATEGIES;
+   ORGANIZATIONAL_CRISIS; ORGANIZATIONAL_REPUTATION
+
+
+
+--
+

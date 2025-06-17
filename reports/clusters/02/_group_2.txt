@@ -1,0 +1,401 @@
+UT 14044
+AR Bastida-Vázquez J., 2024, REV MEX ING QUIMICA, V23
+TI Water treatment applying electrocoagulation and filtration processes with a
+   functionalized membrane of a contaminated water body from San Cayetano de
+   Morelos, Toluca; [Tratamiento de agua aplicando procesos de
+   electrocoagulación y filtración con membrana funcionalizada de un cuerpo de
+   agua contaminado en San Cayetano de Morelos, Toluca]
+AU Bastida-Vázquez J.; Roa-Morales G.; Gómez-Espinosa R.M.; Balderas-Hernández
+   P.; Natividad-Rangel R./1
+TC 3
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB WATER for HUMAN_CONSUMPTION is found on THE_CONTINENTS as FRESH_WATER in
+   RIVERS , LAKES , RESERVOIRS , and UNDERGROUND_AQUIFERS . THIS_WATER is in
+   DECREASE due_to ANTHROPOGENIC_ACTIVITY and EUTROPHICATION of WATER_BODIES .
+   this research evaluates THE_TREATMENT of CONTAMINATED_WATER in A_WATER_BODY
+   in THE_TOWN of SAN_CAYETANO_DE_MORELOS , TOLUCA , combining
+   ELECTROCOAGULATION and THE_USE of MODIFIED_MEMBRANES . ALUMINUM_ELECTRODES
+   for ELECTROCOAGULATION were used as THE_FIRST_TREATMENT , followed by
+   A_MEMBRANE_FILTRATION_PROCESS as THE_SECOND_TREATMENT . the
+   WATER_SHOWS_THE_PRESENCE of PHOSPHATES and NITRATES , with INITIAL_VALUES of
+   bod5 , TOC , and COD of 31.7 MG_L , 78.8 MG_L , and 152.3 MG_L ,
+   respectively . after 25 minutes of ELECTROCOAGULATION_TREATMENT , a 39.1 %
+   REDUCTION in bod5.73.7 % in TOC , and 86 % in COD was achieved .
+   A_QUANTIFICATION of ALUMINUM in THE_WATER resulting from ELECTROCOAGULATION
+   was carried out , and A_CONCENTRATION of 0.561 MG_L was found . after
+   FILTRATION , it was reduced to 0.245 MG_L . 2024 , universidad autonoma
+   metropolitana . all rights reserved .
+DE ELECTROCOAGULATION; FUNCTIONALIZED_MEMBRANES; TOTAL_ORGANIC_CARBON (TOC)
+
+
+
+--
+
+UT 14051
+AR Castro-Montoya Y.A., 2024, REV MEX ING QUIMICA, V23
+TI Effect of the extrusion process on phytochemical, antioxidant, and cooking
+   properties of gluten-free pasta made from broken rice and nopal; [Efecto del
+   proceso de extrusión sobre las propiedades fitoquímicas, antioxidantes y de
+   cocción de pastas libres de gluten elaboradas a partir de arroz quebrado y
+   nopal]
+AU Castro-Montoya Y.A.; Jacobo-Valenzuela N.; Delgado-Nieblas C.I.; Ruiz-
+   Armenta X.A.; Heredia J.B.; Delgado-Murillo S.A.; Calderón-Castro A.;
+   Zazueta-Morales J.J.
+TC 3
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB GLUTEN_FREE_PASTA ( GFP ) can be produced by combining BROKEN_RICE_FLOUR
+   with MATERIALS rich in BIOACTIVE_COMPOUNDS such_as NOPAL_FLOUR (
+   OPUNTIA_FICUS_INDICA_L . ) . the objective of this work was to
+   STUDY_THE_EFFECT of EXTRUSION_TEMPERATURE ( ET : 88.5 125.5 c ) ,
+   MOISTURE_CONTENT ( mc : 21.27 34.73 % ) , and NOPAL_FLOUR_CONTENT ( NFC :
+   1.91 22.09 % ) on the PHYTOCHEMICAL , ANTIOXIDANT and COOKING_PROPERTIES of
+   GFP . for THE_STATISTICAL_ANALYSIS , THE_RESPONSE_SURFACE_METHODOLOGY was
+   used . THE_WEIGHT_GAIN ( WG ) increased at HIGH_NFC . also , THE_WG
+   increased in TWO_ZONES , one combining LOW_MC and ET and another using
+   HIGH_MC and ET . THE_COOKING_TIME decreased , and
+   THE_TOTAL_PHENOLIC_COMPOUNDS_CONTENT and ANTIOXIDANT_CAPACITY ( INHIBITION
+   of OXIDATION of ldl ) increased at HIGH_MC and NFC .
+   THE_OPTIMAL_PROCESSING_CONDITIONS were ET = 118 c , mc = 31.7 % and NFC =
+   18.0 % . THE_OPTIMAL_PASTA ( OP ) showed ELEVATED_SENSORY_ACCEPTABILITY ,
+   similar to A_COMMERCIAL_PRODUCT . likewise , THE_OP had
+   A_HIGHER_DIETARY_FIBER_CONTENT than COMMERCIAL_PASTA and CONTROL_PASTA .
+   THE_RESULTS indicate that it is possible to obtain GFP using BROKEN_RICE and
+   NOPAL with ACCEPTABLE_PHYTOCHEMICAL , ANTIOXIDANT , and
+   COOKING_PROPERTIES_WHOSE_CONSUMPTION could eventually have HEALTH_BENEFITS .
+   2024 , universidad autonoma metropolitana . all rights reserved .
+DE BIOACTIVE_COMPOUNDS; BROKEN_RICE; EXTRUSION; GLUTEN_FREE_PASTA; NOPAL
+
+
+
+--
+
+UT 14057
+AR Loreto-Muñoz C.D., 2024, REV MEX ING QUIMICA, V23
+TI Sulfidogenic activity related to microbial diversity in a biological system
+   employed for sulfate-rich wastewater treatment; [Actividad sulfidogénica
+   relacionada con la diversidad microbiana en un sistema de tratamiento
+   biológico para aguas ricas en sulfato]
+AU Loreto-Muñoz C.D.; López-Avilés G.; De La Cruz-Leyva M.C.; Mártin-García
+   A.R.; Almendariz-Tapia F.J.
+TC 3
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB INDUSTRIAL_ACTIVITY_DISRUPTS_THE_NATURAL_SULFUR_CYCLE by THE_GENERATION of
+   SULFATE_RICH_WASTEWATER . nonetheless , THESE_EFFLUENTS can be treated in
+   ANAEROBIC_REACTORS . this study seeks to RELATE_SULFIDOGENIC_ACTIVITY with
+   MICROBIAL_DIVERSITY during THE_START up of an
+   ANAEROBIC_SULFATE_REDUCING_REACTOR . AN_ANAEROBIC_SLUDGE was characterized
+   employing 16s rrna ASSAYS . THE_SLUDGE was adapted to
+   SULFATE_REDUCING_ACTIVITY in AN_UP_FLOW_FIXED_BED_REACTOR with 2 and 1.5 COD
+   so2 ratios . SIMULTANEOUS_ORGANIC_MATTER_REMOVAL 4 and SULFATE_CONVERSION to
+   SULFIDE were analyzed . finally , A_KINETIC_STUDY was conducted to determine
+   SULFATE_CONVERSION_AND_SULFIDE_PRODUCTION_REACTION_RATES .
+   A_FIRST_ORDER_MODEL was APPLIED to determine THE_REACTION_RATES for SULFATE
+   and SULFIDE . MICROORGANISMS employed for BIOREMEDIATION_TECHNIQUES , like
+   PSEUDOMONAS_AZOTOFORMANS , DESULFOVIBRIO , and METHANOLINEA_SP . , were
+   identified in THE_ANAEROBIC_SLUDGE . THE_DECREASE in COD so2 RATIO did not
+   negatively IMPACT_THE_OVERALL_EFFICIENCIES in THE_REACTOR in_terms_of COD
+   and SULFATE_REMOVAL_AND_SULFIDE_PRODUCTION , reaching VALUES of 76.54 % ,
+   81.53 % , and 268.84 mgs2 l , respectively . SULFIDOGENIC_ACTIVITY was
+   HIGHER under HIGHER_SULFATE_CONCENTRATIONS ( % h2s COD = 55.2 for a 1.5 COD
+   so2 4 RATIO ) . THE_RESULTS indicate A_GRADUAL_INCREASE in
+   SULFIDOGENIC_ACTIVITY . therefore , SULFATE_REDUCING_CONDITIONS were
+   attained in THE_SYSTEM . 2024 , universidad autonoma metropolitana . all
+   rights reserved .
+DE MICROBIAL_DIVERSITY; REACTION_RATES; SULFATE_REDUCTION;
+   SULFATE_RICH_WASTEWATER; SULFIDOGENIC_ACTIVITY
+
+
+
+--
+
+UT 14071
+AR Gallardo-Martínez D., 2024, REV MEX ING QUIMICA, V23
+TI Isolation and characterization of epiphytic, fructanolytic, homofermentative
+   lactic acid bacteria from Agave salmiana; [Aislamiento y caracterización de
+   bacterias ácido lácticas epífitas, fructanolíticas y homofermentativas de
+   Agave salmiana]
+AU Gallardo-Martínez D.; Viniegra-González G.; Figueroa-Martínez F.; Rocha J.;
+   Cruz-Guerrero A.E.
+TC 3
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB LACTIC_ACID is A_CHEMICAL_COMPOUND that plays IMPORTANT_FUNCTIONS in
+   VARIOUS_BIOCHEMICAL_PROCESSES and has DIFFERENT_APPLICATIONS in INDUSTRIES
+   such_as FOOD , COSMETICS , among others . therefore , there is
+   A_CONSTANT_SEARCH for THIS_COMPOUND which can be obtained by
+   LACTIC_FERMENTATION . here A_COLLECTION of
+   AGAVE_EPIPHYTIC_LACTIC_ACID_BACTERIA is presented with THE_PURPOSE to USE
+   them for DIRECT_HOMO_LACTIC_FERMENTATION of FRUCTANS , as
+   AN_ALTERNATIVE_PROCESS for SILAGE_AND_INDUSTRIAL_FERMENTATIONS , based on
+   AGAVE_PLANTS_PREVALENT in SEMI_DESERTIC_LANDS , instead_of
+   THE_CONVENTIONAL_STARCH_CROPS of TEMPERATE_WEATHER . this way ,
+   ABUNDANT_AGAVE_RESIDUES can be used to SUPPORT_CATTLE and
+   LACTIC_ACID_PRODUCTION . A_SET of 260 ISOLATES were screened in PETRI_DISHES
+   and TEST_TUBES for FRUCTAN_HOMOLACTIC_FERMENTATION . BEST_STRAINS were able
+   to TRANSFORM more than 70 % of a 20 G_L_FRUCTAN_SOLUTION in
+   LACTIC_ACID_SOLUTION with LITTLE_OR_NEGLIGIBLE_FERMENTATION_BY_PRODUCTS .
+   ANALYSIS of 16s DNA segments allowed THE_IDENTIFICATION of
+   MOST_PRODUCTIVE_STRAINS_BELONGING to GENUS_ENTEROCOCCUS , lacticaseibacillus
+   and BACILLUS . DIRECT_LACTIC_ACID_FERMENTATION of FRUCTANS , extracted from
+   AGAVE_BIOMASS , seems to be AN_INTERESTING_ALTERNATIVE to decrease
+   UPSTREAM_EXPENSES for INDUSTRIAL_LACTIC_ACID_PRODUCTION as compared to
+   CONVENTIONAL_GLUCOSE_FERMENTATION . 2024 , universidad autonoma
+   metropolitana . all rights reserved .
+DE AGAVE_FRUCTANS; AGAVE_SALMIANA; EPIPHYTIC_BACTERIA; LACTIC_ACID
+
+
+
+--
+
+UT 14078
+AR Ramos-Villacob V., 2024, REV MEX ING QUIMICA, V23
+TI Development of modified cassava starches by ultrasound-assisted
+   amylose/lauric acid complex formation; [Desarrollo de almidones modificados
+   de yuca mediante la formación de complejos amilosa/ácido láurico asistido
+   por ultrasonido]
+AU Ramos-Villacob V.; Figueroa-Flórez J.A.; Salcedo-Mendoza J.G.; Hernandez-
+   Ruydíaz J.E.; Romero-Verbel L.A.
+TC 3
+SO Revista Mexicana de Ingeniera Quimica
+PY 2024
+AB TUBER_STARCHES have A_SMOOTH_SURFACE and A_DENSE_AMYLOPECTIN_STRUCTURE ,
+   which prevents THE_FORMATION of COMPLEXES with LIPID_COMPOUNDS .
+   THE_PRESENT_STUDY evaluated THE_EFFECT of ULTRASOUND on THE_FORMATION of
+   STARCH_LIPID_COMPLEXES on CASSAVA_STARCH_STRUCTURAL , morphological ,
+   PHYSICOCHEMICAL , and DIGESTIBILITY_PROPERTIES . LAURIC_ACID was added at
+   CONCENTRATIONS of 0.075 and 0.15 % w v to
+   PREVIOUSLY_SWOLLEN_CASSAVA_STARCH_SUSPENSION ( 60 c , 1 h ) , and
+   THE_MIXTURES were stirred and heated in AN_ULTRASONIC_BATH at 60 c ( POWER
+   100w , FREQUENCY 37 and 80 khz for 1 h ) . THE_STARCH_MODIFICATION was
+   confirmed by INFRARED_SPECTROSCOPY , showing THE_PRESENCE of the C_=_O_GROUP
+   . THE_MODIFIED_STARCHES presented A_V_TYPE_CRYSTALLINE_STRUCTURE and
+   LOWER_CRYSTALLINITY due_to THE_MODIFICATION_CONDITIONS ,
+   LAURIC_ACID_CONCENTRATION , and ULTRASONIC_EFFECT . DEFORMATIONS and
+   PARTIAL_RUPTURES of STARCH_GRANULES were observed under MICROSCOPY .
+   in_addition , THE_MODIFIED_STARCHES showed DECREASED_AMYLOSE_CONTENT and
+   SOLUBILITY in COLD_WATER , HIGHER_STABILITY during HEATING , and
+   LOWER_RETROGRADATION , attributed to THE_PRESENCE of LIPIDS . there was also
+   AN_INCREASE in RESISTANT_STARCH_CONTENT due_to THE_FORMATION of COMPLEXES .
+   in_conclusion , ULTRASOUND is A_PROMISING_TECHNIQUE for driving
+   THE_FORMATION of CASSAVA_STARCH_LAURIC_ACID_COMPLEXES , with
+   MODIFIED_PROPERTIES which may be expand THEIR_POTENTIAL_USE in
+   THE_FOOD_INDUSTRY . 2024 , universidad autonoma metropolitana . all rights
+   reserved .
+DE CASSAVA; DIGESTION; FREQUENCY; SONICATION; STARCH_LIPID_COMPLEX
+
+
+
+--
+
+UT 14265
+AR Mohiuddin O., 2024, ELECTRON J BIOTECHNOL, V69, P30
+TI Bioremediation of waste by yeast strains
+AU Mohiuddin O.; P. Harvey A.; Orta Ledesma M.T.; Velasquez-Orta S.
+TC 3
+SO Electronic Journal of Biotechnology
+PY 2024
+AB over THE_PAST_TWO_DECADES , INTEREST in POLLUTANT_REMOVAL by YEASTS has
+   grown substantially . YEASTS can remove HIGH_AMOUNTS of POLLUTANTS at
+   LOW_PRODUCTION_COSTS under NON_STERILE_CONDITIONS . this work presents
+   A_COMPILATION of THE_STUDIES carried out regarding THE_POTENTIAL_APPLICATION
+   of YEASTS in THE_TREATMENT of WASTEWATER . for_example , A_SUMMARY is
+   presented on DATA about VARIOUS_YEAST_STRAINS that are used to treat
+   WASTEWATER . the study will help THE_DECISION_MAKING_PROCESS for
+   THE_SELECTION of YEAST for A_TYPE of WASTEWATER_AND_SUPPORT_RESEARCH_EFFORTS
+   by acquiring AN_OVERVIEW of ADVANCEMENTS in THIS_AREA . YEAST_TREATMENT is
+   versatile and has OUTSTANDING_ADAPTABILITY to VARYING_TREATMENT_CONDITIONS .
+   THE_EFFECTIVENESS of YEAST in treating WASTEWATER is influenced by
+   MULTIPLE_FACTORS . YEAST_TECHNOLOGY could potentially be retrofitted to
+   EXISTING_ACTIVATED_SLUDGE_PROCESSES or be used instead_of BACTERIA . within
+   ITS_CHARACTERISTICS , we can OBSERVE_TOLERANCE to LOW_PH ( 3.05.0 ) ,
+   HIGH_SALINITY , HIGH_ORGANIC_LOADS , ANTIBIOTICS , and survive in up to 12 %
+   v v ALCOHOL_MIXTURES . in_fact , using LOW_PH for
+   YEAST_CULTIVATION_REDUCES_BACTERIAL_CONTAMINATION and
+   SUPPORTS_YEAST_DOMINATION under NON_STERILE_CONDITIONS .
+   LABORATORY_SCALE_TRIALS for YEAST_WASTEWATER_TREATMENT have shown
+   IMPROVEMENT over THE_PAST_TWO_DECADES . however , EFFICIENCIES_DIFFER
+   according to THE_TYPE of WASTEWATER . in_general , YEAST offers
+   SEVERAL_BENEFITS compared to TRADITIONAL_MICROBIAL_TREATMENT_METHODS ,
+   especially in ITS_CAPACITY to effectively
+   PROCESS_DIVERSE_ORGANIC_CARBON_SOURCES . however , it still must be proven
+   to be AN_EFFECTIVE_TECHNOLOGY at AN_INDUSTRIAL_SCALE . how to cite :
+   MOHIUDDIN_O , harvey a , ORTA_LEDESMA_MT , et al . BIOREMEDIATION of WASTE
+   by YEAST_STRAINS . electron j biotechnol 2024.69 . https : / doi . org
+   10.1016 j . ejbt.2024.01.005 . 2024 pontificia universidad catolica de
+   valparaiso
+DE ACTIVATED_SLUDGE; BIOREMEDIATION; FUNGUS; POLLUTANT_REMOVAL;
+   SECONDARY_TREATMENT; SEWAGE; TERTIARY_TREATMENT; WASTE; WASTEWATER; YEAST;
+   YEAST_TECHNOLOGY
+ID ACTIVATED_SLUDGE_PROCESS; BIOTECHNOLOGY; DECISION_MAKING; ORGANIC_CARBON;
+   WASTEWATER_TREATMENT; YEAST; ALCOHOL; ANTIBIOTIC_AGENT; CARBOHYDRATE;
+   CARBON; HEAVY_METAL; LIPID; OIL; ACTIVATED_SLUDGE; DECISION_MAKING_PROCESS;
+   NON_STERILE_CONDITION; POLLUTANTS_REMOVAL; PRODUCTION_COST;
+   RESEARCH_EFFORTS; SECONDARY_TREATMENT; TERTIARY_TREATMENT; YEAST_STRAIN;
+   YEAST_TECHNOLOGY; ACTIVATED_SLUDGE; BACTERIUM_CONTAMINATION; BIOREMEDIATION;
+   CARBON_SOURCE; CHEMICAL_PARAMETERS; DAIRY_PRODUCT; DECISION_MAKING;
+   DECOLORIZATION; FUNGAL_METABOLISM; FUNGAL_STRAIN; FUNGUS_CULTURE;
+   HEAVY_METAL_REMOVAL; NONHUMAN; ORGANIC_LOAD; PH; REVIEW; SALINITY;
+   SURVIVAL_RATE; WASTE_WATER_MANAGEMENT; YEAST; BIOREMEDIATION
+
+
+
+--
+
+UT 14809
+AR Shahriari M., 2024, ELECTRON J BIOTECHNOL, V72, P20
+TI Enhancing Lactobacillus plantarum viability using novel chitosan-alginate-
+   pectin microcapsules: Effects on gastrointestinal survival, weight
+   management, and metabolic health
+AU Shahriari M.; Mohabati Mobarez A.; Talebi Bazminabadi A.; Tavakoli Yaraki M.
+TC 3
+SO Electronic Journal of Biotechnology
+PY 2024
+AB BACKGROUND : PROBIOTICS , like LACTOBACILLUS_PLANTARUM , SHOW_PROMISE in
+   MANAGING_OBESITY , but DELIVERY_CHALLENGES hinder THEIR_EFFECTIVENESS . this
+   study explores THE_EFFECTS of NCAP_MICROCAPSULES with l . PLANTARUM on
+   WEIGHT , LIPIDS , LIVER_FUNCTION , and INSULIN in RATS over EIGHT_WEEKS ,
+   enhancing THE_BACTERIA_SURVIVABILITY through MICROENCAPSULATION . results :
+   NCAP_MICROCAPSULES ( 1015 m , > 79 % SURVIVAL ) effectively protected l .
+   PLANTARUM . in RATS , a HIGH_FAT_DIET with
+   NCAP_MICROCAPSULES_SIGNIFICANTLY_REDUCED_BODY_WEIGHT ( 176 G_VS 179 g , p <
+   0.001 ) , LOW_DENSITY_LIPOPROTEIN ( 33 MG_DL_VS 44 MG_DL , p < 0.001 ) , and
+   IMPROVED_LIVER_MARKERS ( ASPARTATE_TRANSAMINASE 56 you L_VS 69 you l , p =
+   0.008 . ALANINE_TRANSAMINASE 36 you L_VS 38 you l , p < 0.001 ) . l .
+   PLANTARUM_COUNTS were notably HIGHER in HFDC ( 870.963 , 590cfu G_VS
+   14.454cfu g , p < 0.001 ) . CONCLUSIONS : NCAP_MICROCAPSULES_ENHANCE_L .
+   PLANTARUM_SURVIVABILITY and improve WEIGHT , LIPIDS , LIVER_FUNCTION , and
+   INSULIN . this study addresses THE_NEED for
+   EFFECTIVE_PROBIOTIC_DELIVERY_SYSTEMS , offering INSIGHTS into
+   METABOLIC_HEALTH_PROMOTION . how to cite : SHAHRIARI_M , MOHABATI_MOBAREZ_A
+   , TALEBI_BAZMINABADI_A , et al . enhancing LACTOBACILLUS_PLANTARUM_VIABILITY
+   using NOVEL_CHITOSAN_ALGINATE_PECTIN_MICROCAPSULES : EFFECTS on
+   GASTROINTESTINAL_SURVIVAL , WEIGHT_MANAGEMENT , and METABOLIC_HEALTH .
+   electron j biotechnol 2024.72 . https : / doi . org 10.1016 j .
+   ejbt.2024.07.004 . 2024
+DE BLOOD_PARAMETERS; CHITOSAN_ALGINATE_PECTIN_MICROCAPSULES;
+   INSULIN_REGULATION; LACTOBACILLUS_PLANTARUM; LIPID_PROFILES; LIVER_FUNCTION;
+   MICROENCAPSULATION; OBESITY; PROBIOTICS; RAT_MODEL; WEIGHT_MANAGEMENT
+ID NUTRITION; ALANINE_AMINOTRANSFERASE; ALGINIC_ACID;
+   ASPARTATE_AMINOTRANSFERASE; CHITOSAN; INSULIN; LIPID;
+   LOW_DENSITY_LIPOPROTEIN; PECTIN; PROBIOTIC_AGENT; BLOOD_PARAMETERS;
+   CHITOSAN_ALGINATES; CHITOSAN_ALGINATE_PECTIN_MICROCAPSULE;
+   INSULIN_REGULATION; LACTOBACILLUS_PLANTARUM; LIPID_PROFILE; LIVER_FUNCTIONS;
+   MICROCAPSULES; OBESITY; PROBIOTICS; RAT_MODEL; WEIGHT_MANAGEMENT;
+   ANIMAL_EXPERIMENT; ARTICLE; BACTERIAL_COUNT; BACTERIAL_SURVIVAL;
+   BACTERIAL_VIABILITY; BODY_WEIGHT_LOSS; BODY_WEIGHT_MANAGEMENT;
+   CLINICAL_SIGNIFICANCE; COLONY_FORMING_UNIT; CONTROLLED_STUDY;
+   DRUG_DELIVERY_SYSTEM; DRUG_EFFECT; DRUG_EFFICACY; DRUG_SYNTHESIS;
+   EXPLORATORY_RESEARCH; GASTROINTESTINAL_TRACT; HEALTH_PROMOTION;
+   HEMATOLOGICAL_PARAMETERS; HORMONAL_REGULATION; LACTOBACILLUS_PLANTARUM;
+   LIPID_DIET; LIVER_FUNCTION; MALE; METABOLIC_PARAMETERS; MICROCAPSULE;
+   MICROENCAPSULATION; NONHUMAN; RAT; SURVIVAL_RATE; TREATMENT_DURATION;
+   CHITOSAN
+
+
+
+--
+
+UT 14838
+AR Sánchez-Suárez Y., 2024, DYNA, V91, P49
+TI Dashboard for assessing patient flow management in hospital institutions;
+   [Tablero de control para evaluar la gestión de los flujos de pacientes en
+   instituciones hospitalarias]
+AU Sánchez-Suárez Y.; Sánchez-Castillo V.; Gómez-Cano C.A.
+TC 3
+SO DYNA (Colombia)
+PY 2024
+AB PROACTIVE_CONTROL of HOSPITAL_PROCESSES significantly
+   INFLUENCES_PATIENT_PERFORMANCE and SATISFACTION . THE_OBJECTIVE of
+   THE_RESEARCH is to develop A_DASHBOARD for THE_EVALUATION of
+   PATIENT_FLOW_MANAGEMENT in HOSPITAL_INSTITUTIONS .
+   DESCRIPTIVE_QUANTITATIVE_STUDY was developed and PREVIOUS_METHODOLOGIES were
+   analyzed . A_PROCEDURE was developed for THE_PREPARATION of A_DASHBOARD for
+   THE_EVALUATION of PATIENT_FLOW_MANAGEMENT in HOSPITAL_INSTITUTIONS ,
+   structured in FIVE_STAGES and NINE_STEPS , including PROCEDURES for
+   THE_IDENTIFICATION of KEY_VARIABLES and AGGREGATION of INDICATORS .
+   A_DASHBOARD was prepared for THE_GENERAL_SURGERY_SERVICE of
+   A_CLINICAL_SURGICAL_TEACHING_HOSPITAL , which is composed of 18 INDICATORS ,
+   6 SYNTHETIC_INDEXES and AN_INTEGRAL_INDICATOR . THE_INTEGRAL_INDICATOR
+   obtained A_VALUE of 0.79 ( 4 ) , which shows THE_EFFECTIVENESS of
+   THE_ACTIONS implemented during THE_DEPLOYMENT of THE_IMPROVEMENT_MODEL .
+   among THE_POSITIVE_IMPLICATIONS for HEALTH_MANAGERS is THE_POSSIBILITY of
+   MONITORING_STRATEGIES with A_PROCESS_VISION . 2024 , universidad nacional de
+   colombia . all rights reserved .
+DE DASHBOARD; HOSPITAL_MANAGEMENT; INDICATORS; MANAGEMENT_CONTROL; PATIENT_FLOW
+
+
+
+--
+
+UT 14056
+AR Gelbukh A., 2024, COMPUT SIST, V28, P85
+TI Multi-Instrument Based N-Grams for Composer Classification Task
+AU Gelbukh A.; Alvarez D.A.P.; Kolesnikova O.; Hernández L.C.; Sidorov G.
+TC 2
+SO Computacion y Sistemas
+PY 2024
+AB in this research , we address THE_COMPOSER_CLASSIFICATION_SUPERVISED PROBLEM
+   from A_NATURAL_LANGUAGE_PROCESSING_PERSPECTIVE . STARTING from
+   DIGITAL_SYMBOLIC_MUSIC_FILES , we build TWO_REPRESENTATIONS :
+   A_CLASS_REPRESENTATION and other based on MIDI_PITCHES . we
+   USE_THE_TECHNIQUE of N_GRAMS to build FEATURE_VECTORS of
+   MUSICAL_COMPOSITIONS based on THEIR_HARMONIC_CONTENT . for this , we
+   EXTRACT_N_GRAMS of SIZE 1 to 4 in HARMONIC_DIRECTION , differentiating
+   between ALL_POSSIBLE_SUBSETS of INSTRUMENTS . we populate
+   A_TERM_FREQUENCY_MATRIX with THE_VECTORS of COMPOSITIONS and we classify by
+   THE_MEANS of SUPPORT_VECTOR_MACHINES_CLASSIFIER .
+   DIFFERENT_CLASSIFICATION_MODELS are evaluated , e . g . , using
+   FEATURE_FILTERS and VARYING_HYPERPARAMETERS such_as TF_IDF_FORMULA , among
+   others . THE_RESULTS obtained SHOW that N_GRAMS based on MIDI_PITCHES
+   perform slightly better than N_GRAMS based on CLASS_REPRESENTATION
+   in_terms_of OVERALL_RESULTS , but THE_BEST_RESULT of each one of
+   THESE_REPRESENTATIONS is identical . some of OUR_BEST_MODELS reach
+   ACCURACY_RESULTS that exceed previous STATE_OF_THE_ART results based on
+   A_WELL_KNOWN_DATASET composed of STRING_QUARTETS by HAYDN and MOZART . 2024
+   instituto politecnico nacional . all rights reserved .
+DE COMPOSER_ATTRIBUTION; COMPOSER_CLASSIFICATION; COMPOSER_IDENTIFICATION;
+   COMPOSER_RECOGNITION; COMPOSER_STYLE; HARMONIC_N_GRAMS; HAYDN; MOZART;
+   N_GRAMS; STRING_QUARTET
+
+
+
+--
+
+UT 13711
+AR Barrionuevo G.O., 2024, INGENIUS, V2024, P9
+TI Tensile/Compressive Response of 316L Stainless Steel Fabricated by Additive
+   Manufacturing; [Respuesta a la tensión/compresión del acero inoxidable 316L
+   fabricado por manufactura aditiva]
+AU Barrionuevo G.O.; La Fé-Perdomo I.; Cáceres-Brito E.; Navas-Pinto W.
+TC 2
+SO Ingenius
+PY 2024
+AB ADDITIVE_MANUFACTURING has evolved from A_RAPID_PROTOTYPING_TECHNOLOGY to
+   A_TECHNOLOGY with THE_ABILITY to produce HIGHLY_COMPLEX_PARTS with
+   SUPERIOR_MECHANICAL_PROPERTIES than those obtained conventionally .
+   THE_PROCESSING of METALLIC_POWDERS by means of A_LASER makes it possible to
+   PROCESS_ANY_TYPE of ALLOY_AND_EVEN_METAL_MATRIX_COMPOSITES .
+   THE_PRESENT_WORK analyzes THE_TENSILE_AND_COMPRESSIVE_RESPONSE of 316l
+   STAINLESS_STEEL processed by LASER_BASED_POWDER_BED_FUSION .
+   THE_RESULTING_MICROSTRUCTURE was evaluated by OPTICAL_MICROSCOPY . regarding
+   THE_MECHANICAL_PROPERTIES , THE_YIELD_STRENGTH , ULTIMATE_TENSILE_STRENGTH ,
+   PERCENTAGE of ELONGATION before BREAKAGE , COMPRESSIVE_STRENGTH and
+   MICROHARDNESS were determined . THE_RESULTS show that THE_MICROSTRUCTURE is
+   constituted by STACKED_MICRO_MOLTEN_POOLS , within which CELLULAR_SUB_GRAINS
+   are formed due_to THE_HIGH_THERMAL_GRADIENT_AND_SOLIDIFICATION_RATE .
+   THE_COMPRESSIVE_STRENGTH ( 1511.88 9.22 MPA ) is HIGHER than
+   THE_TENSILE_STRENGTH ( 634.80 11.62 MPA ) . THIS_DIFFERENCE is mainly
+   associated with STRAIN_HARDENING and THE_PRESENCE of RESIDUAL_STRESSES .
+   THE_INITIAL_MICROHARDNESS was 206.24 11.96 hv . after THE_COMPRESSION_TEST ,
+   THE_HARDNESS increased by 23 % . 2024 , universidad politecnica salesiana .
+   all rights reserved .
+DE ADDITIVE_MANUFACTURING; LASER_POWDER_BED_FUSION; MECHANICAL_PROPERTIES;
+   STAINLESS_STEEL; STRAIN_HARDENING
+
+
+
+--
+
